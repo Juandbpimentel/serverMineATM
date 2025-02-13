@@ -1,0 +1,44 @@
+Thanks for downloading All The Mods 7 Lite 
+-------------------------------------------------------------------
+
+Minecraft and MinecraftForge changed a lot since the 1.17 update. You will now require Java 17+ to run your game or a server. The game client should come with a bundled copy of Java 17. If you don't have Java 17 installed on your system already, download your copy here:
+
+https://www.oracle.com/java/technologies/downloads/#java17 then select linux, windows or mac. 
+
+You will most likely need the Windows x64 Installer. Make a note of where you installed Java. It will usually install into a folder named "C:\Program Files\Java\jdk-17.X.X\bin\java". If you have multiple versions of Java installed, you will need to use this entire file
+path to run your server.
+
+
+ATM8 Server Setup Instructions
+---
+
+1. First you will need to setup the Forge server:
+  a. Double click on the file named "forge-1.18.2-XX.XX.XX-installer.jar" to launch the installer. 
+  b. Choose "Install Server".
+  c. Select a folder to install the files to.
+  d. Wait for the download to complete.
+  - This will create a libraries folder and 3 other files.
+
+2. Copy the "config", "KubeJS, "defaultconfigs" and "mods" folders into the folder where you installed Forge. If you want, you can also add the "server-icon.png" file so that your server displays our new ATM7 icon!
+
+3. The ATM team is providing a default "user_jvm_args" file to help your server run better. However, you may need to edit the memory values. By default, we have the file set to start your server
+  with 4GB of memory. If you need more, make sure to change it.
+4. Launch your server using one of the provided start scripts.
+  a. Windows: run.bat
+  b. Linux: run.sh
+  
+  - You may run into an issue where the console reads this error:
+
+  ```
+  Caused by: java.lang.module.InvalidModuleDescriptorException: Unsupported major.minor version 60.0
+  ```
+
+  - This means that the Java command used in the run script is referencing a different version of Java than Java 17, which is now required. To fix this, right click on the run script and edit it in a text editor such as NotePad, NotePad++, VisualStudio Code, Sublime, or many other options.
+    Do not use a Word editor. When you have the file open, edit the first word "java" to say the full path to your Java 17 installation inside quotes. It will look like this, or similar depending on where you installed Java:
+
+    "C:\Program Files\Java\jdk-17.X.X\bin\java" @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.18.2-XX.X.XX/win_args.txt
+
+5. After running the script to start the server, it will load until it checks to see if you have agreed to the Minecraft EULA. Make sure to read the EULA (https://account.mojang.com/documents/minecraft_eula). If you agree to the terms, do this to continue:
+  a. Open the file named "eula.txt", change "eula=false" to "eula=true", and save the file.
+
+6. Run the server run script again to start your server!
