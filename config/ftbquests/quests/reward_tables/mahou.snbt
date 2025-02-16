@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 3
-			id: "06C6875A420CB92E"
+			id: "36D02D984FEC5F97"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_diamond"
@@ -13,7 +13,7 @@
 		}
 		{
 			count: 3
-			id: "7B6CB7FE4B7811C1"
+			id: "60655F441A2189DC"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_emerald"
@@ -21,7 +21,7 @@
 		}
 		{
 			count: 6
-			id: "0FB60781AEA6A349"
+			id: "16BAB8512BE487BA"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_ender"
@@ -29,7 +29,7 @@
 		}
 		{
 			count: 3
-			id: "15C976A99235589B"
+			id: "32565D8CA426732D"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_eye"
@@ -37,7 +37,7 @@
 		}
 		{
 			count: 6
-			id: "5585994C97D52399"
+			id: "6B6E287D0CE00DD0"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_gold"
@@ -45,7 +45,7 @@
 		}
 		{
 			count: 6
-			id: "19FA7D06A7CB2C27"
+			id: "7C13A89EB48B0E6E"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_iron"
@@ -53,7 +53,7 @@
 		}
 		{
 			count: 6
-			id: "6417B379B67F3AEB"
+			id: "5509A23D4A9D9F05"
 			item: {
 				count: 1
 				id: "mahoutsukai:powdered_quartz"

@@ -4,7 +4,7 @@
 	order_index: 34
 	rewards: [
 		{
-			id: "734CEEE39CB4C4FB"
+			id: "3A4B9F9DC72C36C8"
 			item: {
 				count: 1
 				id: "industrialforegoing:machine_frame_simple"
@@ -12,7 +12,7 @@
 			weight: 0.3f
 		}
 		{
-			id: "39DFAB58B77016CA"
+			id: "4BC1B4CB717C21DB"
 			item: {
 				count: 1
 				id: "industrialforegoing:machine_frame_pity"
@@ -21,7 +21,7 @@
 		}
 		{
 			count: 5
-			id: "6EA3CC92EBB4B6F9"
+			id: "1CABB954FB643A00"
 			item: {
 				count: 1
 				id: "industrialforegoing:plastic"
@@ -29,7 +29,7 @@
 			random_bonus: 5
 		}
 		{
-			id: "035B9DBFCAC6E11A"
+			id: "0CCE620EAE0E6F20"
 			item: {
 				count: 1
 				id: "industrialforegoing:pink_slime_bucket"
@@ -37,7 +37,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "1B57180597CCFD79"
+			id: "664D2EDC2453AD28"
 			item: {
 				components: {
 					"titanium:augments": {
@@ -50,7 +50,7 @@
 			weight: 0.7f
 		}
 		{
-			id: "2297C79D91AD2775"
+			id: "7F05E2E14CDE2214"
 			item: {
 				components: {
 					"titanium:augments": {
@@ -63,7 +63,7 @@
 			weight: 0.7f
 		}
 		{
-			id: "02F3972513A5B731"
+			id: "27C5255DC40F7442"
 			item: {
 				components: {
 					"titanium:augments": {
@@ -76,7 +76,7 @@
 			weight: 0.7f
 		}
 		{
-			id: "4A00C0ED63E687B1"
+			id: "486E465A6C2D1307"
 			item: {
 				count: 1
 				id: "industrialforegoing:mob_imprisonment_tool"
@@ -85,7 +85,7 @@
 		}
 		{
 			count: 3
-			id: "7610B08CF54C3371"
+			id: "742FF89009EB201C"
 			item: {
 				count: 1
 				id: "industrialforegoing:pink_slime"

@@ -4,7 +4,7 @@
 	order_index: 16
 	rewards: [
 		{
-			id: "2C02F83AC0401FE3"
+			id: "016DAEF5E69A83E2"
 			item: {
 				count: 1
 				id: "powah:capacitor_spirited"
@@ -12,17 +12,17 @@
 			weight: 10.0f
 		}
 		{
-			id: "45AC3E9913D17877"
+			id: "4B0692663BFFAE3E"
 			item: {
 				count: 1
 				id: "powah:crystal_spirited"
 			}
 			weight: 25.0f
 		}
-		{ id: "2EBC4D3684338CF6", item: { count: 1, id: "powah:energy_cell_spirited" } }
+		{ id: "364DEF561B4EF6C0", item: { count: 1, id: "powah:energy_cell_spirited" } }
 		{
 			count: 2
-			id: "5B9363A4D069ABF1"
+			id: "68C2EB777617840A"
 			item: {
 				count: 1
 				id: "powah:energy_cable_spirited"
@@ -31,15 +31,15 @@
 			weight: 10.0f
 		}
 		{
-			id: "35B072FC48EC334C"
+			id: "2DDAAE5D1CDF9263"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_spirited"
 			}
 			weight: 5.0f
 		}
-		{ id: "103A524AD959DD0F", item: { count: 1, id: "powah:solar_panel_spirited" } }
-		{ id: "57666070F37EE8F4", item: { count: 1, id: "powah:spirited_crystal_block" } }
+		{ id: "7EF94722D97B6D79", item: { count: 1, id: "powah:solar_panel_spirited" } }
+		{ id: "752070656822F9F5", item: { count: 1, id: "powah:spirited_crystal_block" } }
 	]
 	use_title: true
 }

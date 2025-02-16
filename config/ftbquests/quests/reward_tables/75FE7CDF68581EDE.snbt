@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 6
-			id: "79D652025E97CC96"
+			id: "32C9159C8F2A6D3B"
 			item: {
 				count: 1
 				id: "alltheores:steel_ingot"
@@ -13,7 +13,7 @@
 		}
 		{
 			count: 6
-			id: "5A22FC9B835F1BA0"
+			id: "1A0F9FBE8070CAB7"
 			item: {
 				count: 1
 				id: "minecraft:iron_ingot"
@@ -21,7 +21,7 @@
 		}
 		{
 			count: 6
-			id: "3888CD79E5CFC920"
+			id: "1DA0A694C5DF7E84"
 			item: {
 				count: 1
 				id: "minecraft:gold_ingot"
@@ -29,7 +29,7 @@
 		}
 		{
 			count: 6
-			id: "4E2B0D2D2C799739"
+			id: "724670A5EED9AC3B"
 			item: {
 				count: 1
 				id: "minecraft:copper_ingot"
@@ -37,7 +37,7 @@
 		}
 		{
 			count: 6
-			id: "1234017F43FBD1E7"
+			id: "5A12D88C8BB89EE2"
 			item: {
 				count: 1
 				id: "minecraft:redstone"

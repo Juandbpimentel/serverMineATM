@@ -3,10 +3,10 @@
 	loot_size: 1
 	order_index: 8
 	rewards: [
-		{ id: "3D0B9E536E27F5FB", item: { count: 1, id: "mekanism:pellet_antimatter" } }
+		{ id: "2DF8BED5838FD74C", item: { count: 1, id: "mekanism:pellet_antimatter" } }
 		{
 			count: 3
-			id: "2128049755EF6C52"
+			id: "68F29C02ABF9FCBA"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_induction_cell"
@@ -15,7 +15,7 @@
 		}
 		{
 			count: 3
-			id: "274725525D36159B"
+			id: "4195B245331581AD"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_induction_provider"
@@ -24,7 +24,7 @@
 		}
 		{
 			count: 36
-			id: "0DD3867A66F2AB43"
+			id: "13711D4DDC4B0EA1"
 			item: {
 				count: 1
 				id: "powah:reactor_nitro"
@@ -33,7 +33,7 @@
 		}
 		{
 			count: 8
-			id: "478A59A8881CDA5A"
+			id: "38680CF89260AFCC"
 			item: {
 				count: 1
 				id: "allthemodium:allthemodium_block"
@@ -42,7 +42,7 @@
 		}
 		{
 			count: 8
-			id: "0F701E709AE4D0A9"
+			id: "2BDD8112DF21F08C"
 			item: {
 				count: 1
 				id: "allthemodium:vibranium_block"
@@ -51,14 +51,14 @@
 		}
 		{
 			count: 8
-			id: "1D4E28C29369EF56"
+			id: "2A0B8AC093E07EE0"
 			item: {
 				count: 1
 				id: "allthemodium:unobtainium_block"
 			}
 		}
 		{
-			id: "7B0A341415CA6DF2"
+			id: "77655FAECB36C19B"
 			item: {
 				count: 1
 				id: "ironfurnaces:unobtainium_furnace"
@@ -66,7 +66,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "194B8BC8CF03BFA3"
+			id: "3B925CE5A1E97A81"
 			item: {
 				components: {
 					"ironjetpacks:jetpack_id": "ironjetpacks:vibranium"
@@ -76,7 +76,7 @@
 			}
 			weight: 2.0f
 		}
-		{ id: "25D1C63A21412954", item: { count: 1, id: "allthecompressed:nether_star_block_3x" } }
+		{ id: "76BC121018DEB2B1", item: { count: 1, id: "allthecompressed:nether_star_block_3x" } }
 	]
 	use_title: true
 }

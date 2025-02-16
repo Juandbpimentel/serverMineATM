@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 2
-			id: "4E306B7C62F5C233"
+			id: "731C65E5C71F5922"
 			item: {
 				count: 1
 				id: "ae2:certus_quartz_crystal"
@@ -15,7 +15,7 @@
 		}
 		{
 			count: 4
-			id: "137FF4FC29C7ED74"
+			id: "6D829D9C40E0F2F7"
 			item: {
 				count: 1
 				id: "ae2:certus_quartz_dust"
@@ -24,7 +24,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "25148A703916ABAF"
+			id: "021E72B7A69E2457"
 			item: {
 				count: 1
 				id: "ae2:fluix_crystal"
@@ -32,7 +32,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "4C0CD32CA95A97DA"
+			id: "11A1C49B2838A703"
 			item: {
 				count: 1
 				id: "ae2:fluix_dust"
@@ -41,7 +41,7 @@
 		}
 		{
 			count: 2
-			id: "2B7F5BCA01C4F731"
+			id: "4406617DA03EBBDD"
 			item: {
 				count: 1
 				id: "ae2:charged_certus_quartz_crystal"

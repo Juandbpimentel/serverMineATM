@@ -4,7 +4,7 @@
 	order_index: 36
 	rewards: [
 		{
-			id: "3837D7DC8420F09B"
+			id: "2D574A59F49A496C"
 			item: {
 				count: 1
 				id: "industrialforegoing:machine_frame_advanced"
@@ -12,7 +12,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "07A67BB495AC1B88"
+			id: "0B249FC142BA661D"
 			item: {
 				count: 1
 				id: "industrialforegoing:machine_frame_supreme"
@@ -20,7 +20,7 @@
 			weight: 0.1f
 		}
 		{
-			id: "3D11177065803443"
+			id: "3A3C388F264EBFE7"
 			item: {
 				count: 1
 				id: "industrialforegoing:ether_gas_bucket"
@@ -28,7 +28,7 @@
 			weight: 0.4f
 		}
 		{
-			id: "7439CFCF75645B2D"
+			id: "63B835E07289B90C"
 			item: {
 				count: 1
 				id: "industrialforegoing:laser_drill"
@@ -36,7 +36,7 @@
 			weight: 0.7f
 		}
 		{
-			id: "2912851630EB3C84"
+			id: "3FAAAF27BF077C93"
 			item: {
 				count: 1
 				id: "industrialforegoing:fluid_laser_base"
@@ -44,7 +44,7 @@
 			weight: 0.2f
 		}
 		{
-			id: "38B0AC7A79866298"
+			id: "4E39E6E3F5FE5A8E"
 			item: {
 				count: 1
 				id: "industrialforegoing:ore_laser_base"
@@ -53,16 +53,16 @@
 		}
 		{
 			count: 16
-			id: "5BD915FC6236762D"
+			id: "6CC55B5F52097CF8"
 			item: {
 				count: 1
 				id: "industrialforegoing:plastic"
 			}
 			random_bonus: 16
 		}
-		{ id: "173FAF9B6DBB3112", item: { components: { "titanium:augments": { Processing: 3.0f } }, count: 1, id: "industrialforegoing:processing_addon_tier_2" } }
-		{ id: "1F5544A28A4FC21F", item: { components: { "titanium:augments": { Speed: 3.0f } }, count: 1, id: "industrialforegoing:speed_addon_tier_2" } }
-		{ id: "26D4BA9654EDBCFD", item: { components: { "titanium:augments": { Efficiency: 0.8f } }, count: 1, id: "industrialforegoing:efficiency_addon_tier_2" } }
+		{ id: "47CB8B99C0C3FE6A", item: { components: { "titanium:augments": { Processing: 3.0f } }, count: 1, id: "industrialforegoing:processing_addon_tier_2" } }
+		{ id: "29AA440450D449CF", item: { components: { "titanium:augments": { Speed: 3.0f } }, count: 1, id: "industrialforegoing:speed_addon_tier_2" } }
+		{ id: "43B1161091BA67D9", item: { components: { "titanium:augments": { Efficiency: 0.8f } }, count: 1, id: "industrialforegoing:efficiency_addon_tier_2" } }
 	]
 	use_title: true
 }

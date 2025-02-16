@@ -4,7 +4,7 @@
 	order_index: 12
 	rewards: [
 		{
-			id: "79827BAEE8965AD4"
+			id: "0BB328DF33F5BCBB"
 			item: {
 				count: 1
 				id: "powah:capacitor_basic_large"
@@ -13,7 +13,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "3A0A61124A221A02"
+			id: "2CE03EA4E4B455CF"
 			item: {
 				count: 1
 				id: "powah:capacitor_hardened"
@@ -22,7 +22,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "643DDD97C2755F40"
+			id: "064EB689B28433B6"
 			item: {
 				count: 1
 				id: "powah:dielectric_casing"
@@ -31,7 +31,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "63820703729EC91A"
+			id: "76D9627B444CE323"
 			item: {
 				count: 1
 				id: "powah:steel_energized"
@@ -39,10 +39,10 @@
 			random_bonus: 2
 			weight: 25.0f
 		}
-		{ id: "3C979520B1B06084", item: { count: 1, id: "powah:energy_cell_hardened" } }
+		{ id: "43303BC2465CD224", item: { count: 1, id: "powah:energy_cell_hardened" } }
 		{
 			count: 2
-			id: "721BF09E6AFD1CD3"
+			id: "5AE5204314C0F4AD"
 			item: {
 				count: 1
 				id: "powah:energy_cable_hardened"
@@ -51,15 +51,15 @@
 			weight: 10.0f
 		}
 		{
-			id: "15CC43245A0E7736"
+			id: "1F1409056344DE8B"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_hardened"
 			}
 			weight: 5.0f
 		}
-		{ id: "799C4C80E0005731", item: { count: 1, id: "powah:solar_panel_hardened" } }
-		{ id: "7E4AE12752944E13", item: { count: 1, id: "powah:energized_steel_block" } }
+		{ id: "1755482133E2C385", item: { count: 1, id: "powah:solar_panel_hardened" } }
+		{ id: "0C77A14F59C2DADA", item: { count: 1, id: "powah:energized_steel_block" } }
 	]
 	use_title: true
 }

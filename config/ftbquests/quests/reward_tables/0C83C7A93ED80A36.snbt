@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 4
-			id: "056C198846FE6893"
+			id: "04D5207745F3B2A4"
 			item: {
 				count: 1
 				id: "naturesaura:gold_fiber"
@@ -15,7 +15,7 @@
 		}
 		{
 			count: 2
-			id: "48294A8196095D42"
+			id: "385A739B3CE71619"
 			item: {
 				count: 1
 				id: "naturesaura:gold_leaf"
@@ -25,7 +25,7 @@
 		}
 		{
 			count: 4
-			id: "28A7CA5F3ADC1D69"
+			id: "132181CDAD6A7B3E"
 			item: {
 				count: 1
 				id: "naturesaura:gold_powder"
@@ -34,7 +34,7 @@
 			weight: 1.5f
 		}
 		{
-			id: "52E2EFDB7D59C7D6"
+			id: "0FC886B4B43AF1A4"
 			item: {
 				count: 1
 				id: "naturesaura:ancient_sapling"
@@ -43,7 +43,7 @@
 		}
 		{
 			count: 2
-			id: "333DCA632068C531"
+			id: "62294BF6F5A3119E"
 			item: {
 				count: 1
 				id: "naturesaura:infused_stone"
@@ -53,7 +53,7 @@
 		}
 		{
 			count: 2
-			id: "60AE124E27392E8D"
+			id: "597A70F784D846A7"
 			item: {
 				count: 1
 				id: "naturesaura:aura_bloom"
@@ -63,7 +63,7 @@
 		}
 		{
 			count: 2
-			id: "1B5FB690ECCCA4A6"
+			id: "2042BDA98A905F5E"
 			item: {
 				count: 1
 				id: "naturesaura:aura_cactus"
@@ -73,7 +73,7 @@
 		}
 		{
 			count: 2
-			id: "20A39A9013DC85AF"
+			id: "3D31BBCC0BC03D3D"
 			item: {
 				count: 1
 				id: "naturesaura:warped_aura_mushroom"
@@ -83,7 +83,7 @@
 		}
 		{
 			count: 2
-			id: "0FA826F60D18400D"
+			id: "5E5A5C74D38A3731"
 			item: {
 				count: 1
 				id: "naturesaura:crimson_aura_mushroom"
@@ -93,7 +93,7 @@
 		}
 		{
 			count: 2
-			id: "699E880F4616E2B4"
+			id: "456B4475F02C8D8A"
 			item: {
 				count: 1
 				id: "naturesaura:aura_mushroom"
@@ -103,7 +103,7 @@
 		}
 		{
 			count: 2
-			id: "6D6D435FA2D5A8F9"
+			id: "3465E3EDA6A2B85B"
 			item: {
 				count: 1
 				id: "naturesaura:bottle_two_the_rebottling"
@@ -113,7 +113,7 @@
 		}
 		{
 			count: 2
-			id: "09537D7AF29BE90C"
+			id: "6F7CA81A4A65CE23"
 			item: {
 				count: 1
 				id: "naturesaura:end_flower"
@@ -122,7 +122,7 @@
 			weight: 1.5f
 		}
 		{
-			id: "6577A9FBDD7E23A0"
+			id: "20B11069FD80A3BF"
 			item: {
 				components: {
 					"naturesaura:aura_bottle_data": {
@@ -135,7 +135,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "4FEF074AEC19AB42"
+			id: "367A1BDBA1D961F0"
 			item: {
 				components: {
 					"naturesaura:aura_bottle_data": {
@@ -148,7 +148,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "7278E3995E1A811D"
+			id: "793BC9BA3175C3DB"
 			item: {
 				components: {
 					"naturesaura:aura_bottle_data": {
@@ -162,7 +162,7 @@
 		}
 		{
 			count: 2
-			id: "2393595A583A539F"
+			id: "5C17E334D5E05A48"
 			item: {
 				count: 1
 				id: "naturesaura:farming_stencil"
@@ -171,7 +171,7 @@
 		}
 		{
 			count: 3
-			id: "537339E9490FFC74"
+			id: "2416FEFE2D7B329C"
 			item: {
 				count: 1
 				id: "naturesaura:ancient_log"
@@ -180,7 +180,7 @@
 		}
 		{
 			count: 2
-			id: "7C6A1A24D77ECCE1"
+			id: "4D3BEC2072DE5AEC"
 			item: {
 				count: 1
 				id: "naturesaura:ancient_stick"
@@ -189,7 +189,7 @@
 		}
 		{
 			count: 2
-			id: "4A40CB469CE2F7FE"
+			id: "5BC807F4CA40F377"
 			item: {
 				count: 1
 				id: "naturesaura:gold_brick"
@@ -198,7 +198,7 @@
 			weight: 0.75f
 		}
 		{
-			id: "232CBC90E1AB0DEF"
+			id: "650356B44404F235"
 			item: {
 				count: 1
 				id: "naturesaura:ender_crate"

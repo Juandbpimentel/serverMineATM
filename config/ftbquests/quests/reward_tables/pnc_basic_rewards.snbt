@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 10
-			id: "2EE3104CECA4B13F"
+			id: "5BBD59CAD0B97DFF"
 			item: {
 				count: 1
 				id: "pneumaticcraft:ingot_iron_compressed"
@@ -15,7 +15,7 @@
 		}
 		{
 			count: 10
-			id: "181B5D282C53128A"
+			id: "1183E63167DB8FDB"
 			item: {
 				count: 1
 				id: "securitycraft:reinforced_stone"
@@ -25,7 +25,7 @@
 		}
 		{
 			count: 5
-			id: "1296FF11D131FA63"
+			id: "55CB3FD9F08F3819"
 			item: {
 				count: 1
 				id: "pneumaticcraft:pressure_tube"
@@ -35,7 +35,7 @@
 		}
 		{
 			count: 10
-			id: "128FA6729E4DC698"
+			id: "27012578CEDDB205"
 			item: {
 				count: 1
 				id: "pneumaticcraft:reinforced_bricks"
@@ -45,16 +45,16 @@
 		}
 		{
 			count: 5
-			id: "583FE76F3E6D1DE7"
+			id: "24D504AF85A148CA"
 			item: {
 				count: 1
 				id: "pneumaticcraft:compressed_stone"
 			}
 			random_bonus: 10
 		}
-		{ id: "690D155FDB7C95F1", item: { count: 1, id: "pneumaticcraft:air_compressor" } }
+		{ id: "7196EACBCB8369A2", item: { count: 1, id: "pneumaticcraft:air_compressor" } }
 		{
-			id: "67E871D50941C057"
+			id: "65568633495E4324"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo"
@@ -63,7 +63,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "74804B11DC242B94"
+			id: "4A3CAA6F3D4B5A42"
 			item: {
 				count: 1
 				id: "pneumaticcraft:compressed_iron_block"
@@ -73,7 +73,7 @@
 		}
 		{
 			count: 2
-			id: "5148C63F311F9946"
+			id: "23951266DE2728CA"
 			item: {
 				count: 1
 				id: "pneumaticcraft:speed_upgrade"
@@ -81,10 +81,10 @@
 			random_bonus: 1
 			weight: 0.75f
 		}
-		{ id: "7C9ABB4CAE9B44B4", item: { count: 1, id: "pneumaticcraft:crop_support" } }
-		{ id: "410044297A61EEF4", item: { count: 1, id: "pneumaticcraft:tube_junction" } }
+		{ id: "2620306FA8A4E3BC", item: { count: 1, id: "pneumaticcraft:crop_support" } }
+		{ id: "37BCD7810693D53D", item: { count: 1, id: "pneumaticcraft:tube_junction" } }
 		{
-			id: "7A21525F363C2D1E"
+			id: "5C31CAEFFD3F2D2A"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo_ap"
@@ -92,7 +92,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "329A0255EA1E21E0"
+			id: "4B05BC626F74A32D"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo_explosive"
@@ -100,7 +100,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "4D42A0B9B89B8318"
+			id: "42CF1E2A026037E0"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo_freezing"
@@ -108,7 +108,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "45A8401A9EBDC372"
+			id: "74F897D4BEB8913F"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo_incendiary"
@@ -116,7 +116,7 @@
 			weight: 0.5f
 		}
 		{
-			id: "6613218FB8B50192"
+			id: "59046A6B35BA8B52"
 			item: {
 				count: 1
 				id: "pneumaticcraft:gun_ammo_weighted"
@@ -125,7 +125,7 @@
 		}
 		{
 			count: 10
-			id: "6A8FB6109E1F8D61"
+			id: "16EC0EAF16CF0ADC"
 			item: {
 				count: 1
 				id: "pneumaticcraft:pressure_chamber_wall"
@@ -133,26 +133,26 @@
 			random_bonus: 5
 		}
 		{
-			id: "7E0564312B6A7B3F"
+			id: "3060B3F1E89EA453"
 			item: {
 				count: 1
 				id: "pneumaticcraft:pressure_chamber_valve"
 			}
 			random_bonus: 2
 		}
-		{ id: "2F85646A5BC4C1D3", item: { count: 1, id: "pneumaticcraft:pressure_chamber_interface" } }
+		{ id: "58047C06A730E27C", item: { count: 1, id: "pneumaticcraft:pressure_chamber_interface" } }
 		{
 			count: 5
-			id: "48DDA731BCA8D02B"
+			id: "42D65905AB2D758A"
 			item: {
 				count: 1
 				id: "pneumaticcraft:pressure_chamber_glass"
 			}
 			random_bonus: 5
 		}
-		{ id: "471D4E3193751520", item: { count: 1, id: "pneumaticcraft:reinforced_chest" } }
+		{ id: "13CEEF1B026E99BB", item: { count: 1, id: "pneumaticcraft:reinforced_chest" } }
 		{
-			id: "3D4FEF506B38A487"
+			id: "24267175C79F2EE3"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_frame_active_provider"
@@ -160,7 +160,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "04D0F0FA98DAA385"
+			id: "493DA737904CF49C"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_frame_default_storage"
@@ -168,7 +168,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "60B3DDA9C3D464FD"
+			id: "10E599BEEDF665A3"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_frame_passive_provider"
@@ -176,7 +176,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "2FBB4AA72893AA23"
+			id: "0DF74D0ABDCA8285"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_frame_requester"
@@ -184,7 +184,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "1BE1CA9E175D6DE2"
+			id: "459989B343EE2314"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_frame_storage"
@@ -192,40 +192,40 @@
 			random_bonus: 1
 		}
 		{
-			id: "540202BF8235FF08"
+			id: "3153F67BAAA93081"
 			item: {
 				count: 1
 				id: "pneumaticcraft:logistics_core"
 			}
 			random_bonus: 2
 		}
-		{ id: "06ACCDC6FBA52FBB", item: { count: 1, id: "pneumaticcraft:logistics_module" } }
+		{ id: "4A4FAE71EC56CB0F", item: { count: 1, id: "pneumaticcraft:logistics_module" } }
 		{
 			count: 2
-			id: "695FB5658E1AF159"
+			id: "2F25F8051217E878"
 			item: {
 				count: 1
 				id: "pneumaticcraft:small_tank"
 			}
 		}
-		{ id: "0C9C4293BEBCBCD0", item: { count: 1, id: "pneumaticcraft:pressure_gauge" } }
+		{ id: "70FAE4DE2439586B", item: { count: 1, id: "pneumaticcraft:pressure_gauge" } }
 		{
-			id: "5E5EDE38A42CCD69"
+			id: "393167C6D8308C18"
 			item: {
 				count: 1
 				id: "pneumaticcraft:safety_tube_module"
 			}
 			random_bonus: 1
 		}
-		{ id: "22F4613547DED53E", item: { count: 1, id: "pneumaticcraft:liquid_compressor" } }
-		{ id: "316512BFAD91A6A0", item: { count: 1, id: "pneumaticcraft:thermal_compressor" } }
-		{ id: "02017096BDDC3DD9", item: { count: 1, id: "pneumaticcraft:vortex_tube" } }
-		{ id: "53C1B07E04CF585F", item: { count: 1, id: "pneumaticcraft:omnidirectional_hopper" } }
-		{ id: "27A898A490B584D0", item: { count: 1, id: "pneumaticcraft:liquid_hopper" } }
-		{ id: "4562E563AE4C23FF", item: { count: 1, id: "pneumaticcraft:transfer_gadget" } }
+		{ id: "634BA57386F84E0C", item: { count: 1, id: "pneumaticcraft:liquid_compressor" } }
+		{ id: "416CC994FBFCCD7E", item: { count: 1, id: "pneumaticcraft:thermal_compressor" } }
+		{ id: "410B10D8999D0192", item: { count: 1, id: "pneumaticcraft:vortex_tube" } }
+		{ id: "35A379BA13C814B5", item: { count: 1, id: "pneumaticcraft:omnidirectional_hopper" } }
+		{ id: "6F7752E67D4962DE", item: { count: 1, id: "pneumaticcraft:liquid_hopper" } }
+		{ id: "2B83BB040E83AB45", item: { count: 1, id: "pneumaticcraft:transfer_gadget" } }
 		{
 			count: 2
-			id: "501D39AAE4D14CD7"
+			id: "6EA9AC12892CFCA2"
 			item: {
 				count: 1
 				id: "pneumaticcraft:air_canister"
@@ -233,7 +233,7 @@
 			random_bonus: 1
 		}
 		{
-			id: "78C9FD3A86A23861"
+			id: "2FF7D4EEF13B746B"
 			item: {
 				count: 1
 				id: "pneumaticcraft:manual_compressor"

@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 2
-			id: "60F13B2EFF058A99"
+			id: "0E83E55EE9ADA650"
 			item: {
 				count: 1
 				id: "powah:capacitor_basic_tiny"
@@ -14,7 +14,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "02A5DABC9046A9EC"
+			id: "769BD86504F2F271"
 			item: {
 				count: 1
 				id: "powah:capacitor_basic"
@@ -23,7 +23,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "1F560F395ECC1BFC"
+			id: "07B600585C79C31C"
 			item: {
 				count: 1
 				id: "powah:capacitor_basic_large"
@@ -31,7 +31,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "65D415F50DB0B3D2"
+			id: "3717768662741058"
 			item: {
 				count: 1
 				id: "powah:dielectric_casing"
@@ -41,7 +41,7 @@
 		}
 		{
 			count: 4
-			id: "397FAA499641E8E7"
+			id: "17935B5828DA615E"
 			item: {
 				count: 1
 				id: "powah:energy_cable_starter"
@@ -51,7 +51,7 @@
 		}
 		{
 			count: 4
-			id: "060439B44FF769DB"
+			id: "179B196C816E6001"
 			item: {
 				count: 1
 				id: "powah:energy_cable_basic"
@@ -60,7 +60,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "1955C20776C6A959"
+			id: "6615AA659F7FD260"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_starter"
@@ -69,7 +69,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "203555DD0CBE0538"
+			id: "211E509064676DD0"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_basic"
@@ -77,8 +77,8 @@
 			random_bonus: 1
 			weight: 5.0f
 		}
-		{ id: "69DBFB8498D4637F", item: { count: 1, id: "powah:solar_panel_starter" } }
-		{ id: "2955CB41D5DFD26F", item: { count: 1, id: "powah:solar_panel_basic" } }
+		{ id: "07DCAF4AFE073B92", item: { count: 1, id: "powah:solar_panel_starter" } }
+		{ id: "5B0641E47C782A3A", item: { count: 1, id: "powah:solar_panel_basic" } }
 	]
 	use_title: true
 }

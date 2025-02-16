@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 5
-			id: "2C1F2BE4845DD0DE"
+			id: "0B986EBF43D0DA7D"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_essence"
@@ -14,7 +14,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "012205A6658C8FF9"
+			id: "474FFBB29D99D007"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_block"
@@ -23,7 +23,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "1DCECDE02F9C8237"
+			id: "43E0D71EC2A237BE"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_seeds"
@@ -32,7 +32,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "55FB1D7D04EA06B1"
+			id: "35DDF2D9CC240697"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_growth_accelerator"
@@ -41,7 +41,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "3E5B4E5FAE04122E"
+			id: "27523460AD2040CF"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_gemstone"
@@ -49,7 +49,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "5F2DEB730A5B1DA4"
+			id: "2602CA69C56E6193"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_ingot"
@@ -58,7 +58,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "27C0D802E13C4D8A"
+			id: "1AFFCF78456601A4"
 			item: {
 				count: 1
 				id: "mysticalagradditions:inferium_coal"
@@ -67,7 +67,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "0773B8193F6DB289"
+			id: "4E757EF81F04B1CB"
 			item: {
 				count: 1
 				id: "mysticalagradditions:inferium_apple"
@@ -76,7 +76,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "27EA56862AAF2B4F"
+			id: "11BD942AB8531FAA"
 			item: {
 				count: 1
 				id: "mysticalagriculture:inferium_farmland"
@@ -85,7 +85,7 @@
 			weight: 7.0f
 		}
 		{
-			id: "4C19CF9C76ED5346"
+			id: "4EABFA3996F71E57"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prosperity_seed_base"
@@ -95,7 +95,7 @@
 		}
 		{
 			count: 4
-			id: "25CFB0E26B66237C"
+			id: "36A4ECDCB7606125"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prosperity_shard"
@@ -104,7 +104,7 @@
 			weight: 10.0f
 		}
 		{
-			id: "6DB36DE7E9C21390"
+			id: "498AD0E82A290877"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prosperity_block"
@@ -113,7 +113,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "72007D147B87A1CE"
+			id: "563A3FB338F8A74F"
 			item: {
 				count: 1
 				id: "mysticalagriculture:infusion_crystal"
@@ -121,7 +121,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "5B0937DA166C47BE"
+			id: "03252228855F33A4"
 			item: {
 				count: 1
 				id: "mysticalagriculture:air_seeds"
@@ -129,7 +129,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "40E41B011946F379"
+			id: "5DC98D30BBCA5D4F"
 			item: {
 				count: 1
 				id: "mysticalagriculture:water_seeds"
@@ -137,7 +137,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "2819146D51673ADF"
+			id: "7495178825EC1442"
 			item: {
 				count: 1
 				id: "mysticalagriculture:fire_seeds"
@@ -145,7 +145,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "186989D6A0B1FA9A"
+			id: "430CB2ED0C2D448E"
 			item: {
 				count: 1
 				id: "mysticalagriculture:earth_seeds"
@@ -153,7 +153,7 @@
 			weight: 3.0f
 		}
 		{
-			id: "7B8A6D060564355A"
+			id: "4BC6168D331CF757"
 			item: {
 				count: 1
 				id: "mysticalagriculture:stone_seeds"
@@ -161,7 +161,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "2C9856BEAFECAEE7"
+			id: "707041350A08A4EA"
 			item: {
 				count: 1
 				id: "mysticalagriculture:wood_seeds"
@@ -169,7 +169,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "4734A80AE8BBBB77"
+			id: "308364A3ED121A27"
 			item: {
 				count: 1
 				id: "mysticalagriculture:deepslate_seeds"
@@ -177,7 +177,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "73BAD9EEF7DDAADC"
+			id: "2D13D865252256E7"
 			item: {
 				count: 1
 				id: "mysticalagriculture:dirt_seeds"

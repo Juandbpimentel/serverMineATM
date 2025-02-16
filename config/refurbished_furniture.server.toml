@@ -1,37 +1,28 @@
 # Toilet related properties
 [toilet]
-	# If enabled, when interacting with this block it will dispense free water into
-	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
-	# capacity.
-	# Valid values: true, false
-	dispenseWater = true
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
 	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
 	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
 	# Valid range: 1 to 9223372036854775807 (inclusive)
 	fluidCapacity = 1000
-
-# Kitchen Sink related properties
-[kitchenSink]
 	# If enabled, when interacting with this block it will dispense free water into
 	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
 	# capacity.
 	# Valid values: true, false
 	dispenseWater = true
+
+# Kitchen Sink related properties
+[kitchenSink]
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
 	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
 	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
 	# Valid range: 1 to 9223372036854775807 (inclusive)
 	fluidCapacity = 3000
-
-# Trampoline related properties
-[trampoline]
-	# The maximum height that can be achieved from bouncing on the trampoline. The maximum
-	# height is affected the shape of the trampoline, the center trampoline in a 3x3 will
-	# be able to reach the maximum bounce height, while a single trampoline will only reach
-	# half.
-	# Valid range: 0 to 64 (inclusive)
-	maxBounceHeight = 8.0
+	# If enabled, when interacting with this block it will dispense free water into
+	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
+	# capacity.
+	# Valid values: true, false
+	dispenseWater = true
 
 # Electricity related properties
 [electricity]
@@ -73,18 +64,27 @@
 		# Valid values: true, false
 		freeGeneratorPower = false
 
+# Trampoline related properties
+[trampoline]
+	# The maximum height that can be achieved from bouncing on the trampoline. The maximum
+	# height is affected the shape of the trampoline, the center trampoline in a 3x3 will
+	# be able to reach the maximum bounce height, while a single trampoline will only reach
+	# half.
+	# Valid range: 0 to 64 (inclusive)
+	maxBounceHeight = 8.0
+
 # Basin related properties
 [basin]
-	# If enabled, when interacting with this block it will dispense free water into
-	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
-	# capacity.
-	# Valid values: true, false
-	dispenseWater = true
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
 	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
 	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
 	# Valid range: 1 to 9223372036854775807 (inclusive)
 	fluidCapacity = 1000
+	# If enabled, when interacting with this block it will dispense free water into
+	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
+	# capacity.
+	# Valid values: true, false
+	dispenseWater = true
 
 # Mailing related properties
 [mailing]
@@ -128,16 +128,16 @@
 
 # Bath related properties
 [bath]
-	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
-	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
-	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
-	# Valid range: 1 to 9223372036854775807 (inclusive)
-	fluidCapacity = 10000
 	# If enabled, when interacting with this block it will dispense free water into
 	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
 	# capacity.
 	# Valid values: true, false
 	dispenseWater = true
+	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
+	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
+	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
+	# Valid range: 1 to 9223372036854775807 (inclusive)
+	fluidCapacity = 10000
 
 # Recycle Bin related properties
 [recycleBin]

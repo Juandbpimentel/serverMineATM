@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 3
-			id: "5BDA1DCBBCEA5A26"
+			id: "7877C1FF64C3C414"
 			item: {
 				count: 1
 				id: "ars_nouveau:source_gem"
@@ -13,7 +13,7 @@
 		}
 		{
 			count: 5
-			id: "5EEB0549BA6A0012"
+			id: "7B5B4CFDF3EF7716"
 			item: {
 				count: 1
 				id: "ars_nouveau:source_berry_pie"
@@ -21,13 +21,13 @@
 		}
 		{
 			count: 5
-			id: "4A5A90011E48F112"
+			id: "590E194F018A0441"
 			item: {
 				count: 1
 				id: "ars_nouveau:source_berry_roll"
 			}
 		}
-		{ id: "2E57348B7451518B", item: { count: 1, id: "ars_nouveau:source_jar" } }
+		{ id: "11B9C067814A2F87", item: { count: 1, id: "ars_nouveau:source_jar" } }
 	]
 	use_title: true
 }

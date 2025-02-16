@@ -4,7 +4,7 @@
 	order_index: 10
 	rewards: [
 		{
-			id: "795CC7ED45466565"
+			id: "7D44D439D3DE9F53"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_starter"
@@ -12,7 +12,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "270D969BDD9F66DA"
+			id: "53916797B180B3E9"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_basic"
@@ -20,16 +20,16 @@
 			weight: 25.0f
 		}
 		{
-			id: "0037508FC9870ABD"
+			id: "47ED4A6E3B17EA88"
 			item: {
 				count: 1
 				id: "powah:energizing_rod_hardened"
 			}
 			weight: 5.0f
 		}
-		{ id: "4879D0ECD48CABC9", item: { count: 1, id: "powah:energizing_rod_blazing" } }
+		{ id: "6FA27D58D4B9AAFA", item: { count: 1, id: "powah:energizing_rod_blazing" } }
 		{
-			id: "332D782006E39D72"
+			id: "3CD172F66B62537D"
 			item: {
 				count: 1
 				id: "powah:energy_cable_starter"
@@ -37,7 +37,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "1442429ABB4C6ED3"
+			id: "4B56134143B1D8E7"
 			item: {
 				count: 1
 				id: "powah:energy_cable_basic"
@@ -46,7 +46,7 @@
 			weight: 25.0f
 		}
 		{
-			id: "650B4CE161BC500E"
+			id: "25FDFC7D6C6923DC"
 			item: {
 				count: 1
 				id: "powah:energy_cable_hardened"
@@ -55,7 +55,7 @@
 			weight: 5.0f
 		}
 		{
-			id: "493DB52C405A4FC4"
+			id: "0AE19D6B2A57E3CF"
 			item: {
 				count: 1
 				id: "powah:energy_cable_blazing"

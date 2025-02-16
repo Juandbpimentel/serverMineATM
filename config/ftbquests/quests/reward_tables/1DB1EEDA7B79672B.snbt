@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 16
-			id: "00818BAA4F5FA176"
+			id: "49382442FB8F739C"
 			item: {
 				count: 1
 				id: "railcraft:abandoned_track"
@@ -13,7 +13,7 @@
 		}
 		{
 			count: 16
-			id: "297D3DEBC4737DB1"
+			id: "24556853AE30F5A6"
 			item: {
 				count: 1
 				id: "railcraft:electric_track"
@@ -21,7 +21,7 @@
 		}
 		{
 			count: 16
-			id: "7A10E9FBA3BF3877"
+			id: "3D07EEC1DDF9AE5B"
 			item: {
 				count: 1
 				id: "railcraft:reinforced_track"
@@ -29,7 +29,7 @@
 		}
 		{
 			count: 16
-			id: "048BA9FA164EFBC3"
+			id: "3CC17B8E728BB108"
 			item: {
 				count: 1
 				id: "railcraft:strap_iron_track"
@@ -37,7 +37,7 @@
 		}
 		{
 			count: 16
-			id: "67AD66685FA93BA5"
+			id: "0FD1E22B2D259653"
 			item: {
 				count: 1
 				id: "railcraft:high_speed_track"
@@ -45,7 +45,7 @@
 		}
 		{
 			count: 16
-			id: "04CFDA17A82EC9CA"
+			id: "5925A776A06F585B"
 			item: {
 				count: 1
 				id: "railcraft:high_speed_electric_track"

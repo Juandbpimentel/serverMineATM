@@ -5,7 +5,7 @@
 	rewards: [
 		{
 			count: 5
-			id: "6A6D341D60A8677E"
+			id: "6D8D6ABCA5E81F73"
 			item: {
 				count: 1
 				id: "pneumaticcraft:advanced_pressure_tube"
@@ -14,7 +14,7 @@
 			weight: 1.5f
 		}
 		{
-			id: "6E41ED7757675CE2"
+			id: "667051C7627118BA"
 			item: {
 				count: 1
 				id: "pneumaticcraft:aphorism_tile"
@@ -24,7 +24,7 @@
 		}
 		{
 			count: 2
-			id: "1EB8B2CD2469468D"
+			id: "0C183DCFD430AF90"
 			item: {
 				count: 1
 				id: "pneumaticcraft:solar_cell"
@@ -32,13 +32,13 @@
 			random_bonus: 1
 			weight: 2.0f
 		}
-		{ id: "14E08E2E40405BA6", item: { count: 1, id: "pneumaticcraft:solar_compressor" } }
-		{ id: "3BF02C8B83DDFE7C", item: { count: 1, id: "pneumaticcraft:pneumatic_dynamo" } }
-		{ id: "59277A094C9C33F2", item: { count: 1, id: "pneumaticcraft:flux_compressor" } }
-		{ id: "1AE4E970D3FD1111", item: { count: 1, id: "pneumaticcraft:electrostatic_compressor" } }
-		{ id: "7746953D7C51DEDD", item: { count: 1, id: "pneumaticcraft:advanced_liquid_compressor" } }
+		{ id: "37FC9AADE2D6379C", item: { count: 1, id: "pneumaticcraft:solar_compressor" } }
+		{ id: "763BA06181A75B21", item: { count: 1, id: "pneumaticcraft:pneumatic_dynamo" } }
+		{ id: "037C6336EA31191E", item: { count: 1, id: "pneumaticcraft:flux_compressor" } }
+		{ id: "6C950D3891C76FB5", item: { count: 1, id: "pneumaticcraft:electrostatic_compressor" } }
+		{ id: "63904578E38F61A0", item: { count: 1, id: "pneumaticcraft:advanced_liquid_compressor" } }
 		{
-			id: "06A52DE2F888040C"
+			id: "00D72556680CA51D"
 			item: {
 				count: 1
 				id: "pneumaticcraft:large_tank"
@@ -46,7 +46,7 @@
 			weight: 2.0f
 		}
 		{
-			id: "6C03B2A0C8F79675"
+			id: "291D239CF8CC11F0"
 			item: {
 				count: 1
 				id: "pneumaticcraft:pressurized_spawner"
@@ -54,7 +54,7 @@
 			weight: 1.5f
 		}
 		{
-			id: "1A2CAE8ECAEEFCF6"
+			id: "0856EFA1D0E26B6A"
 			item: {
 				count: 1
 				id: "pneumaticcraft:reinforced_air_canister"
@@ -62,9 +62,9 @@
 			random_bonus: 1
 			weight: 2.0f
 		}
-		{ id: "2C94B8611E4BF0F0", item: { count: 1, id: "pneumaticcraft:jet_boots_upgrade_1" } }
+		{ id: "1139D0B314F0495B", item: { count: 1, id: "pneumaticcraft:jet_boots_upgrade_1" } }
 		{
-			id: "79EB2BFB7221527C"
+			id: "44B7BB031F43189A"
 			item: {
 				count: 1
 				id: "pneumaticcraft:jet_boots_upgrade_2"
