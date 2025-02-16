@@ -40,5 +40,5 @@ su - kinbofox -c "cd '$SERVER_DIR' && screen -d -m -S mcs ./startserver.sh"
 if screen -list | grep -q "mcs"; then
     echo "Servidor iniciado com sucesso!"
 else
-    echo "Erro: O servidor não foi iniciado. Verifique o script start.sh."
+    echo "Erro: O servidor não foi iniciado. Verifique o script startserver.sh."
 fi
