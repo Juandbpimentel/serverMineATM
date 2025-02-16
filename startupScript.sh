@@ -4,7 +4,7 @@ echo "Iniciando o Servidor de Minecraft..."
 # Navegar para o diretório do servidor
 cd /home/kinbofox/github/serverMineATM || { echo "Falha ao acessar o diretório do servidor."; exit 1; }
 
-# Ajustar as permissões para leitura, escrita e execução para todos os usuários
+# Ajustar as permissões para que todos os usuários tenham leitura, escrita e execução
 chmod -R 777 /home/kinbofox/github/serverMineATM
 
 # Configurar o Git local somente se for um repositório Git
@@ -25,4 +25,3 @@ if screen -list | grep -q mcs; then
 else
     echo "Erro: O servidor não foi iniciado. Verifique o script startserver.sh."
 fi
-

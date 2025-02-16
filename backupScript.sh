@@ -32,4 +32,3 @@ else
     git commit -m "Atualizando servidor com dados do dia $DATA"
     git push || echo "Erro ao fazer o push. Verifique as configurações do repositório remoto."
 fi
-
