@@ -1,118 +1,383 @@
 {
-  "biomeswevegone:biomeswevegone/root": {
+  "mffs:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2025-02-13 15:54:46 -0300"
+      "guidebook": "2025-02-13 18:54:45 +0000"
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_all_structures": {
+  "biomeswevegone:biomeswevegone/root": {
     "criteria": {
-      "in_goliath_honey_fountain": "2025-02-13 15:54:47 -0300",
-      "in_mite_fortress": "2025-02-13 15:54:47 -0300"
+      "tick": "2025-02-13 18:54:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "occultism:chalks/root": {
     "criteria": {
-      "always": "2025-02-13 15:54:46 -0300"
+      "always": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "theurgy:book_root": {
     "criteria": {
-      "theurgy_present": "2025-02-13 15:54:46 -0300"
+      "theurgy_present": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "undergarden:undergarden/root": {
     "criteria": {
-      "tick": "2025-02-13 15:54:46 -0300"
+      "tick": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "repurposed_structures:root": {
     "criteria": {
-      "always": "2025-02-13 15:54:46 -0300"
+      "always": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
-    "criteria": {
-      "biomeswevegone:windswept_desert": "2025-02-13 15:54:47 -0300"
-    },
-    "done": false
-  },
   "mekanism:root": {
     "criteria": {
-      "automatic": "2025-02-13 15:54:46 -0300"
+      "automatic": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "merrymaking:grant_book_on_first_join": {
     "criteria": {
-      "tick": "2025-02-13 15:54:46 -0300"
+      "tick": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "modern_industrialization:guidebook": {
     "criteria": {
-      "logged_in": "2025-02-13 15:54:46 -0300"
+      "logged_in": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2025-02-13 15:54:46 -0300"
-    },
-    "done": true
-  },
-  "mffs:grant_book_on_first_join": {
-    "criteria": {
-      "guidebook": "2025-02-13 15:54:45 -0300"
+      "always": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2025-02-13 15:54:46 -0300"
+      "instant_granted": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2025-02-13 15:54:46 -0300"
-    },
-    "done": true
-  },
-  "biomeswevegone:biomeswevegone/adventure/root": {
-    "criteria": {
-      "biomeswevegone:windswept_desert": "2025-02-13 15:54:47 -0300"
+      "instant_granted": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-02-13 15:54:46 -0300"
+      "always": "2025-02-13 18:54:46 +0000"
     },
     "done": true
   },
   "occultism:occultism/root": {
     "criteria": {
-      "occultism_present": "2025-02-13 15:54:46 -0300"
+      "occultism_present": "2025-02-13 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-02-13 18:54:47 +0000",
+      "in_mite_fortress": "2025-02-13 18:54:47 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:windswept_desert": "2025-02-13 18:54:47 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:windswept_desert": "2025-02-13 18:54:47 +0000"
     },
     "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
-      "auto": "2025-02-13 15:54:47 -0300"
+      "auto": "2025-02-13 18:54:47 +0000"
     },
     "done": true
   },
   "regions_unexplored:parent": {
     "criteria": {
-      "load_in_world": "2025-02-13 15:54:47 -0300"
+      "load_in_world": "2025-02-13 18:54:47 +0000"
     },
     "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-02-13 20:23:32 +0000",
+      "has_wct": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-02-13 20:23:32 +0000",
+      "has_wct": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-02-13 20:23:32 +0000",
+      "has_wpt": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-02-13 20:23:32 +0000",
+      "has_wpt": "2025-02-13 20:23:32 +0000",
+      "has_wct": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-13 20:23:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-13 20:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-13 20:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-13 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-02-13 23:53:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-13 23:45:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_frost": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/blue_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-13 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/bone_needle": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-02-13 23:40:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/smoke_ball": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-13 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/green_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/carmin_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-02-13 23:41:47 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/white_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/fishing_rod_of_misadventure": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/grave_plate": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-02-13 23:44:07 +0000"
+    },
+    "done": false
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-13 23:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-02-13 23:49:53 +0000",
+      "minecraft:warm_ocean": "2025-02-13 23:40:13 +0000"
+    },
+    "done": false
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-13 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dark_marble": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/ankh_of_prayer": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/dust_of_vanishing": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-13 23:52:54 +0000"
+    },
+    "done": false
+  },
+  "tombstone:recipe/enchanted_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:37:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipe/impregnated_diamond": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/haven": {
+    "criteria": {
+      "affixed": "2025-02-13 23:41:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/frontier": {
+    "criteria": {
+      "common_hand": "2025-02-13 23:49:49 +0000",
+      "common_chest": "2025-02-13 23:43:34 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
