@@ -4183,3 +4183,8 @@
 [03:52:46] [INFO] server_scripts:Unification/sawing.js#98: Ingredient is not a log tag: {"item":"allthecompressed:birch_planks_1x"}
 [03:52:46] [INFO] server_scripts:Unification/sawing.js#98: Ingredient is not a log tag: {"item":"twilightforest:towerwood"}
 [03:52:46] [INFO] server_scripts:Unification/sawing.js#98: Ingredient is not a log tag: {"item":"allthecompressed:jungle_planks_1x"}
+[03:52:54] [INFO] Posted recipe events in 8.006 s
+[03:52:54] [INFO] KubeJS modifications to recipe manager finished in 111.5 ms
+[03:53:00] [INFO] Added 1416 recipes, removed 345 recipes, modified 334 recipes, with 0 failed recipes taking 16.753 s in total
+[03:53:01] [INFO] Collecting Modular Machinery Reborn machines from JS scripts.
+[03:53:01] [INFO] Successfully added 13 Modular Machines 

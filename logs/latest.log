@@ -6572,3 +6572,388 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [16Feb2025 03:52:47.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Error parsing recipe treetap:id_menril: No key id in MapLike[{"item":"integrateddynamics:bucket_menril_resin"}]
 [16Feb2025 03:52:47.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Error parsing recipe mekanism:sawing/fence_gate/echo: main_output is required
 [16Feb2025 03:52:47.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Error parsing recipe mekanism:sawing/door/echo: main_output is required
+[16Feb2025 03:52:54.167] [main/INFO] [KubeJS Server/]: Posted recipe events in 8.006 s
+[16Feb2025 03:52:54.279] [main/INFO] [KubeJS Server/]: KubeJS modifications to recipe manager finished in 111.5 ms
+[16Feb2025 03:52:54.283] [main/INFO] [Iron Jetpacks/]: Loaded 17 jetpack type(s) in 2 ms
+[16Feb2025 03:52:54.286] [main/INFO] [Cucumber Library/]: Registered 84 recipes in 5 ms
+[16Feb2025 03:52:54.357] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_door: com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:54.374] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/pressure_plate/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:54.386] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/chest_boat/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:54.447] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/squeezer/tomato_seeds: com.google.gson.JsonParseException: No key amount in MapLike[{"Amount":60,"FluidName":"immersiveengineering:plantoil"}]; No key id in MapLike[{"Amount":60,"FluidName":"immersiveengineering:plantoil"}]
+[16Feb2025 03:52:54.477] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/cloche/cabbage: com.google.gson.JsonParseException: No key block in MapLike[{"type":"immersiveengineering:crop","value":"farmersdelight:cabbages"}]
+[16Feb2025 03:52:54.488] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/log/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:54.494] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe treetap:id_menril_tfc: com.google.gson.JsonParseException: No key result in MapLike[{"type":"treetap:tap_extract","log":{"tag":"integrateddynamics:menril_logs"},"processing_time":2400,"metal_result":{"item":"integrateddynamics:bucket_menril_resin"},"wooden_result":{"item":"tfc:wooden_bucket","nbt":"{fluid: {FluidName: \"integrateddynamics:menril_resin\", Amount: 1000}}"},"life_cycle":[0,0,1,1,1,1,0,0,0,0,0,0],"collect_bucket":true,"display_fluid":{"fluid":"integrateddynamics:menril_resin"},"particle_color":"#6ec9dc","conditions":[{"type":"neoforge:mod_loaded","modid":"tfc"},{"type":"neoforge:mod_loaded","modid":"integrateddynamics"}]}]
+[16Feb2025 03:52:54.537] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_log: com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_log"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:54.544] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/fermenter/tomato: com.google.gson.JsonParseException: No key amount in MapLike[{"Amount":80,"FluidName":"immersiveengineering:ethanol"}]; No key id in MapLike[{"Amount":80,"FluidName":"immersiveengineering:ethanol"}]
+[16Feb2025 03:52:54.618] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/boat/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:54.688] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe industrialforegoing:laser_drill_ore/raw_materials/glowstone_dust: com.google.gson.JsonParseException: Failed to parse either. First: Not a json array: {"item":"industrialforegoing:vibranium_pickaxe"}; Second: No key tag in MapLike[{"item":"industrialforegoing:vibranium_pickaxe"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: industrialforegoing:vibranium_pickaxe
+[16Feb2025 03:52:54.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_wood: com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "deeperdarker:stripped_echo_wood"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:54.764] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/cloche/rice: com.google.gson.JsonParseException: No key block in MapLike[{"type":"immersiveengineering:crop","value":"farmersdelight:rice_panicles"}]
+[16Feb2025 03:52:55.031] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/squeezer/cabbage_seeds: com.google.gson.JsonParseException: No key amount in MapLike[{"Amount":80,"FluidName":"immersiveengineering:plantoil"}]; No key id in MapLike[{"Amount":80,"FluidName":"immersiveengineering:plantoil"}]
+[16Feb2025 03:52:55.161] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/cloche/tomato: com.google.gson.JsonParseException: No key block in MapLike[{"type":"immersiveengineering:crop","value":"farmersdelight:tomatoes"}]
+[16Feb2025 03:52:55.204] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_trapdoor: com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:55.323] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_sign: com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:55.396] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/hanging_sign/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:55.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/immersiveengineering/cloche/onion: com.google.gson.JsonParseException: No key block in MapLike[{"type":"immersiveengineering:crop","value":"farmersdelight:onions"}]
+[16Feb2025 03:52:55.582] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/trapdoor/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:55.593] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:cutting/echo_hanging_sign: com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:echo_planks"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_dig"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:55.609] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:integration/silentgear/cutting/netherwood: com.google.gson.JsonParseException: Not a JSON object: "minecraft:item.axe.strip"; Not a JSON object: "farmersdelight:tree_bark"; Not a JSON object: "silentgear:stripped_netherwood_log"; Failed to parse either. First: Not a json array: {"type":"farmersdelight:tool_action","action":"axe_strip"}; Second: Unknown registry key in ResourceKey[minecraft:root / neoforge:ingredient_serializer]: farmersdelight:tool_action
+[16Feb2025 03:52:55.613] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe treetap:id_menril: com.google.gson.JsonParseException: No key id in MapLike[{"item":"integrateddynamics:bucket_menril_resin"}]
+[16Feb2025 03:52:55.623] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/fence_gate/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:55.636] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mekanism:sawing/door/echo: com.google.gson.JsonParseException: main_output is required
+[16Feb2025 03:52:55.690] [main/INFO] [Sawmill/]: Generating Sawmill Recipes
+[16Feb2025 03:53:00.143] [main/INFO] [Sawmill/]: Generated Sawmill recipes in 4452 milliseconds
+[16Feb2025 03:53:00.143] [main/WARN] [Sawmill/]: Generating Sawmill recipes took a long time. Consider disabling dynamic recipes in the configs and adding them statically via datapack. You can turn on save_recipe configs to help you with that
+[16Feb2025 03:53:00.165] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 75111 recipes
+[16Feb2025 03:53:00.177] [main/INFO] [KubeJS Server/]: Added 1416 recipes, removed 345 recipes, modified 334 recipes, with 0 failed recipes taking 16.753 s in total
+[16Feb2025 03:53:01.197] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 1685 advancements
+[16Feb2025 03:53:01.207] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Input does not contain a key [type]: MapLike[{"condition":"supplementaries:flag","flag":"ash_from_burning"}]
+[16Feb2025 03:53:01.208] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Input does not contain a key [type]: MapLike[{"condition":"supplementaries:flag","flag":"antique_ink"}]
+[16Feb2025 03:53:01.209] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id sushigocrafting:grass_seeds - error: Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: minecraft:grass; Second: Not a json array: {"condition":"block_state_property","block":"minecraft:grass"}
+[16Feb2025 03:53:01.212] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Input does not contain a key [type]: MapLike[{"condition":"supplementaries:flag","flag":"flax"}]
+[16Feb2025 03:53:01.212] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Input does not contain a key [type]: MapLike[{"condition":"supplementaries:flag","flag":"rope"}]
+[16Feb2025 03:53:01.213] [main/WARN] [net.neoforged.neoforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Input does not contain a key [type]: MapLike[{"condition":"supplementaries:flag","flag":"antique_ink"}]
+[16Feb2025 03:53:01.233] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[16Feb2025 03:53:01.256] [main/INFO] [enderio/]: Data loader for eio_soul/spawner loaded 73 jsons
+[16Feb2025 03:53:01.256] [main/INFO] [enderio/]: Data loader for eio_soul/engine loaded 5 jsons
+[16Feb2025 03:53:01.256] [main/INFO] [enderio/]: Data loader for eio_soul/solar loaded 1 jsons
+[16Feb2025 03:53:01.285] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Bumblezone Error: Couldn't parse pollen puff entity to flower file the_bumblezone:ars_elemental - Error: DataResult.Error['Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: ars_nouveau:yellow_archwood_sapling missed input: {"ars_elemental:flashing_weald_walker":[{"plants_to_spawn":{"type":"minecraft:weighted_state_provider","entries":[{"data":{"Name":"ars_nouveau:yellow_archwood_sapling"},"weight":1},{"data":{"Name":"minecraft:air"},"weight":1}]}}]}': {entity.ars_elemental.flashing_weald_walker=[EntryObject[nbtPredicate=BzNbtPredicate[tag=null], weightedStateProvider=net.minecraft.world.level.levelgen.feature.stateproviders.WeightedStateProvider@755831bf]]}]
+[16Feb2025 03:53:01.294] [main/INFO] [rechiseled/]: Loaded 274 chiseling recipes
+[16Feb2025 03:53:01.298] [main/INFO] [Apotheosis : Spawner/]: Banned 32 mobs from being applicable to spawners.
+[16Feb2025 03:53:01.299] [main/INFO] [KubeJS Server/]: Collecting Modular Machinery Reborn machines from JS scripts.
+[16Feb2025 03:53:01.348] [main/INFO] [KubeJS Server/]: Successfully added 13 Modular Machines 
+[16Feb2025 03:53:01.359] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[16Feb2025 03:53:01.370] [main/INFO] [minecolonies/]: Loaded 159 recipes for 16 crafters
+[16Feb2025 03:53:01.370] [main/INFO] [minecolonies/]: Beginning load of research for University.
+[16Feb2025 03:53:01.390] [main/INFO] [minecolonies/]: Loaded 202 recipes for 4 research branches
+[16Feb2025 03:53:01.393] [main/INFO] [minecolonies/]: Loading quests from data
+[16Feb2025 03:53:01.402] [main/INFO] [minecolonies/]: Finished loading quests from data
+[16Feb2025 03:53:01.404] [main/WARN] [minecolonies/]: Read 1624 items with their nbt keys for compatibility.
+[16Feb2025 03:53:01.418] [main/INFO] [cy.jdkdigital.productivebees.ProductiveBees/]: setting bee data
+[16Feb2025 03:53:01.428] [main/INFO] [Curios API/]: Loaded 17 curio slots
+[16Feb2025 03:53:01.435] [main/ERROR] [Curios API/]: example is not a registered slot type!
+[16Feb2025 03:53:01.436] [main/INFO] [Curios API/]: Loaded 11 curio entities
+[16Feb2025 03:53:01.439] [main/INFO] [Silent Gear/TraitManager]: Reloading trait files
+[16Feb2025 03:53:01.440] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:accelerate" in pack "mod/silentgear"
+[16Feb2025 03:53:01.441] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:adamant" in pack "mod/silentgear"
+[16Feb2025 03:53:01.441] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:advanced_aquatic" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.441] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:advanced_flame_ward" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.442] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:ancient" in pack "mod/silentgear"
+[16Feb2025 03:53:01.442] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:aquatic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.442] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bastion" in pack "mod/silentgear"
+[16Feb2025 03:53:01.445] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bending" in pack "mod/silentgear"
+[16Feb2025 03:53:01.445] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bounce" in pack "mod/silentgear"
+[16Feb2025 03:53:01.445] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:brilliant" in pack "mod/silentgear"
+[16Feb2025 03:53:01.445] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:brittle" in pack "mod/silentgear"
+[16Feb2025 03:53:01.445] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:bulky" in pack "mod/silentgear"
+[16Feb2025 03:53:01.446] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:chilled" in pack "mod/silentgear"
+[16Feb2025 03:53:01.446] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:chipping" in pack "mod/silentgear"
+[16Feb2025 03:53:01.446] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:confetti" in pack "mod/silentgear"
+[16Feb2025 03:53:01.446] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crackler" in pack "mod/silentgear"
+[16Feb2025 03:53:01.446] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crude" in pack "mod/silentgear"
+[16Feb2025 03:53:01.447] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:crushing" in pack "mod/silentgear"
+[16Feb2025 03:53:01.447] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_levitation" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.447] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_nausea" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.447] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_poison" in pack "mod/silentgear"
+[16Feb2025 03:53:01.448] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cure_wither" in pack "mod/silentgear"
+[16Feb2025 03:53:01.448] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:cursed" in pack "mod/silentgear"
+[16Feb2025 03:53:01.448] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:eroded" in pack "mod/silentgear"
+[16Feb2025 03:53:01.448] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:fiery" in pack "mod/silentgear"
+[16Feb2025 03:53:01.448] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:fireproof" in pack "mod/silentgear"
+[16Feb2025 03:53:01.449] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flame_ward" in pack "mod/silentgear"
+[16Feb2025 03:53:01.449] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flammable" in pack "mod/silentgear"
+[16Feb2025 03:53:01.449] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:flexible" in pack "mod/silentgear"
+[16Feb2025 03:53:01.449] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:floatstoner" in pack "mod/silentgear"
+[16Feb2025 03:53:01.449] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:gold_digger" in pack "mod/silentgear"
+[16Feb2025 03:53:01.450] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:greedy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.450] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:hard" in pack "mod/silentgear"
+[16Feb2025 03:53:01.451] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:heavy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.452] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:holy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.453] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:ignite" in pack "mod/silentgear"
+[16Feb2025 03:53:01.453] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:imperial" in pack "mod/silentgear"
+[16Feb2025 03:53:01.453] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:indestructible" in pack "mod/silentgear"
+[16Feb2025 03:53:01.453] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:jabberwocky" in pack "mod/silentgear"
+[16Feb2025 03:53:01.453] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:jagged" in pack "mod/silentgear"
+[16Feb2025 03:53:01.454] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:kitty_vision" in pack "mod/silentgear"
+[16Feb2025 03:53:01.454] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:light" in pack "mod/silentgear"
+[16Feb2025 03:53:01.454] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:lucky" in pack "mod/silentgear"
+[16Feb2025 03:53:01.455] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:lustrous" in pack "mod/silentgear"
+[16Feb2025 03:53:01.455] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:magmatic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.455] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:magnetic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.455] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:malleable" in pack "mod/silentgear"
+[16Feb2025 03:53:01.455] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:mighty" in pack "mod/silentgear"
+[16Feb2025 03:53:01.456] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:moonwalker" in pack "mod/silentgear"
+[16Feb2025 03:53:01.456] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:multi_break" in pack "mod/silentgear"
+[16Feb2025 03:53:01.456] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:organic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.456] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:racker" in pack "mod/silentgear"
+[16Feb2025 03:53:01.456] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:reach" in pack "mod/silentgear"
+[16Feb2025 03:53:01.457] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:red_card" in pack "mod/silentgear"
+[16Feb2025 03:53:01.457] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:refractive" in pack "mod/silentgear"
+[16Feb2025 03:53:01.457] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:renew" in pack "mod/silentgear"
+[16Feb2025 03:53:01.457] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:road_maker" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:rustic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:sharp" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:silky" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:snow_walker" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:soft" in pack "mod/silentgear"
+[16Feb2025 03:53:01.458] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:spoon" in pack "mod/silentgear"
+[16Feb2025 03:53:01.459] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:stellar" in pack "mod/silentgear"
+[16Feb2025 03:53:01.459] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:sturdy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.459] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:swift_swim" in pack "mod/silentgear"
+[16Feb2025 03:53:01.459] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:synergistic" in pack "mod/silentgear"
+[16Feb2025 03:53:01.459] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:terminus" in pack "mod/silentgear"
+[16Feb2025 03:53:01.460] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:turtle" in pack "mod/silentgear"
+[16Feb2025 03:53:01.460] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:venom" in pack "mod/silentgear"
+[16Feb2025 03:53:01.460] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:void_ward" in pack "mod/silentgear"
+[16Feb2025 03:53:01.460] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:vulcan" in pack "mod/silentgear"
+[16Feb2025 03:53:01.461] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:widen" in pack "mod/silentgear"
+[16Feb2025 03:53:01.461] [main/INFO] [Silent Gear/TraitManager]: Decoding trait "silentgear:yummy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.461] [main/INFO] [Silent Gear/TraitManager]: Decoded 74 traits
+[16Feb2025 03:53:01.465] [main/INFO] [Silent Gear/MaterialManager]: Reloading material files
+[16Feb2025 03:53:01.465] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:allthemodium" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.471] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:aluminum" in pack "mod/silentgear"
+[16Feb2025 03:53:01.471] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:aluminum_steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.472] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:amethyst" in pack "mod/silentgear"
+[16Feb2025 03:53:01.473] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:azure_electrum" in pack "mod/silentgear"
+[16Feb2025 03:53:01.473] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:azure_silver" in pack "mod/silentgear"
+[16Feb2025 03:53:01.474] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bamboo" in pack "mod/silentgear"
+[16Feb2025 03:53:01.475] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:barrier" in pack "mod/silentgear"
+[16Feb2025 03:53:01.475] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:basalt" in pack "mod/silentgear"
+[16Feb2025 03:53:01.476] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth" in pack "mod/silentgear"
+[16Feb2025 03:53:01.476] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth_brass" in pack "mod/silentgear"
+[16Feb2025 03:53:01.477] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bismuth_steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.478] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blackstone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.478] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blaze_gold" in pack "mod/silentgear"
+[16Feb2025 03:53:01.479] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:blaze_rod" in pack "mod/silentgear"
+[16Feb2025 03:53:01.479] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.480] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:brass" in pack "mod/silentgear"
+[16Feb2025 03:53:01.480] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:bronze" in pack "mod/silentgear"
+[16Feb2025 03:53:01.481] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:compressed_iron" in pack "mod/silentgear"
+[16Feb2025 03:53:01.482] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:copper" in pack "mod/silentgear"
+[16Feb2025 03:53:01.483] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:crimson_iron" in pack "mod/silentgear"
+[16Feb2025 03:53:01.483] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:crimson_steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.484] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:diamond" in pack "mod/silentgear"
+[16Feb2025 03:53:01.484] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:dimerald" in pack "mod/silentgear"
+[16Feb2025 03:53:01.486] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:electrum" in pack "mod/silentgear"
+[16Feb2025 03:53:01.486] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:emerald" in pack "mod/silentgear"
+[16Feb2025 03:53:01.487] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:end_rod" in pack "mod/silentgear"
+[16Feb2025 03:53:01.487] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:end_stone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.488] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:enderium" in pack "mod/silentgear"
+[16Feb2025 03:53:01.488] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:example" in pack "mod/silentgear"
+[16Feb2025 03:53:01.489] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:feather" in pack "mod/silentgear"
+[16Feb2025 03:53:01.489] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fine_silk" in pack "mod/silentgear"
+[16Feb2025 03:53:01.490] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fine_silk_cloth" in pack "mod/silentgear"
+[16Feb2025 03:53:01.490] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:flax" in pack "mod/silentgear"
+[16Feb2025 03:53:01.491] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:flint" in pack "mod/silentgear"
+[16Feb2025 03:53:01.491] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:fluffy_string" in pack "mod/silentgear"
+[16Feb2025 03:53:01.492] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:glowstone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.492] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:gold" in pack "mod/silentgear"
+[16Feb2025 03:53:01.493] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:high_carbon_steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.493] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:hybrid_gem" in pack "mod/silentgear"
+[16Feb2025 03:53:01.493] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:invar" in pack "mod/silentgear"
+[16Feb2025 03:53:01.494] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:iron" in pack "mod/silentgear"
+[16Feb2025 03:53:01.494] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lapis_lazuli" in pack "mod/silentgear"
+[16Feb2025 03:53:01.495] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lead" in pack "mod/silentgear"
+[16Feb2025 03:53:01.496] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:leather" in pack "mod/silentgear"
+[16Feb2025 03:53:01.496] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:leaves" in pack "mod/silentgear"
+[16Feb2025 03:53:01.496] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:lumium" in pack "mod/silentgear"
+[16Feb2025 03:53:01.497] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:metal_alloy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.497] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:mixed_fabric" in pack "mod/silentgear"
+[16Feb2025 03:53:01.497] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherite" in pack "mod/silentgear"
+[16Feb2025 03:53:01.498] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherrack" in pack "mod/silentgear"
+[16Feb2025 03:53:01.499] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:netherwood" in pack "mod/silentgear"
+[16Feb2025 03:53:01.499] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:nickel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.500] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:obsidian" in pack "mod/silentgear"
+[16Feb2025 03:53:01.500] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:osmium" in pack "mod/silentgear"
+[16Feb2025 03:53:01.500] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:paper" in pack "mod/silentgear"
+[16Feb2025 03:53:01.501] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:phantom_membrane" in pack "mod/silentgear"
+[16Feb2025 03:53:01.501] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:platinum" in pack "mod/silentgear"
+[16Feb2025 03:53:01.502] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:prismarine" in pack "mod/silentgear"
+[16Feb2025 03:53:01.502] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:quartz" in pack "mod/silentgear"
+[16Feb2025 03:53:01.503] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:redstone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.503] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:redstone_alloy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.504] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_glowstone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.504] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_iron" in pack "mod/silentgear"
+[16Feb2025 03:53:01.504] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:refined_obsidian" in pack "mod/silentgear"
+[16Feb2025 03:53:01.505] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sandstone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.505] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sandstone/red" in pack "mod/silentgear"
+[16Feb2025 03:53:01.506] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sheet_metal" in pack "mod/silentgear"
+[16Feb2025 03:53:01.506] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:signalum" in pack "mod/silentgear"
+[16Feb2025 03:53:01.507] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:silver" in pack "mod/silentgear"
+[16Feb2025 03:53:01.507] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:sinew" in pack "mod/silentgear"
+[16Feb2025 03:53:01.507] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:slime" in pack "mod/silentgear"
+[16Feb2025 03:53:01.508] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.508] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone" in pack "mod/silentgear"
+[16Feb2025 03:53:01.509] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/andesite" in pack "mod/silentgear"
+[16Feb2025 03:53:01.509] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/diorite" in pack "mod/silentgear"
+[16Feb2025 03:53:01.509] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:stone/granite" in pack "mod/silentgear"
+[16Feb2025 03:53:01.509] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:string" in pack "mod/silentgear"
+[16Feb2025 03:53:01.510] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:super_alloy" in pack "mod/silentgear"
+[16Feb2025 03:53:01.510] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta" in pack "mod/silentgear"
+[16Feb2025 03:53:01.510] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/black" in pack "mod/silentgear"
+[16Feb2025 03:53:01.510] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/blue" in pack "mod/silentgear"
+[16Feb2025 03:53:01.511] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/brown" in pack "mod/silentgear"
+[16Feb2025 03:53:01.511] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/cyan" in pack "mod/silentgear"
+[16Feb2025 03:53:01.511] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/gray" in pack "mod/silentgear"
+[16Feb2025 03:53:01.511] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/green" in pack "mod/silentgear"
+[16Feb2025 03:53:01.511] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/light_blue" in pack "mod/silentgear"
+[16Feb2025 03:53:01.512] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/light_gray" in pack "mod/silentgear"
+[16Feb2025 03:53:01.512] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/lime" in pack "mod/silentgear"
+[16Feb2025 03:53:01.512] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/magenta" in pack "mod/silentgear"
+[16Feb2025 03:53:01.512] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/orange" in pack "mod/silentgear"
+[16Feb2025 03:53:01.512] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/pink" in pack "mod/silentgear"
+[16Feb2025 03:53:01.513] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/purple" in pack "mod/silentgear"
+[16Feb2025 03:53:01.513] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/red" in pack "mod/silentgear"
+[16Feb2025 03:53:01.513] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/white" in pack "mod/silentgear"
+[16Feb2025 03:53:01.513] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:terracotta/yellow" in pack "mod/silentgear"
+[16Feb2025 03:53:01.513] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:tin" in pack "mod/silentgear"
+[16Feb2025 03:53:01.514] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:titanium" in pack "mod/silentgear"
+[16Feb2025 03:53:01.514] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:turtle" in pack "mod/silentgear"
+[16Feb2025 03:53:01.515] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:tyrian_steel" in pack "mod/silentgear"
+[16Feb2025 03:53:01.515] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:unobtainium" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.516] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:uranium" in pack "mod/silentgear"
+[16Feb2025 03:53:01.516] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:vibranium" in pack "KubeJS File Resource Pack [data]"
+[16Feb2025 03:53:01.517] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:vine" in pack "mod/silentgear"
+[16Feb2025 03:53:01.517] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood" in pack "mod/silentgear"
+[16Feb2025 03:53:01.517] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/acacia" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/birch" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/crimson" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/dark_oak" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/jungle" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/oak" in pack "mod/silentgear"
+[16Feb2025 03:53:01.518] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/rough" in pack "mod/silentgear"
+[16Feb2025 03:53:01.519] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/spruce" in pack "mod/silentgear"
+[16Feb2025 03:53:01.519] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wood/warped" in pack "mod/silentgear"
+[16Feb2025 03:53:01.519] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool" in pack "mod/silentgear"
+[16Feb2025 03:53:01.519] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/black" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/blue" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/brown" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/cyan" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/gray" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/green" in pack "mod/silentgear"
+[16Feb2025 03:53:01.520] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/light_blue" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/light_gray" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/lime" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/magenta" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/orange" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/pink" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/purple" in pack "mod/silentgear"
+[16Feb2025 03:53:01.521] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/red" in pack "mod/silentgear"
+[16Feb2025 03:53:01.522] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/white" in pack "mod/silentgear"
+[16Feb2025 03:53:01.522] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:wool/yellow" in pack "mod/silentgear"
+[16Feb2025 03:53:01.522] [main/INFO] [Silent Gear/MaterialManager]: Decoding material "silentgear:zinc" in pack "mod/silentgear"
+[16Feb2025 03:53:01.522] [main/INFO] [Silent Gear/MaterialManager]: Decoded 132 materials
+[16Feb2025 03:53:01.525] [main/INFO] [Silent Gear/PartManager]: Reloading part files
+[16Feb2025 03:53:01.525] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:arrow_heads" in pack "mod/silentgear"
+[16Feb2025 03:53:01.525] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:axe_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.525] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:binding" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:boot_plates" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:bow_limbs" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:bracelet_band" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:chestplate_plates" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:coating" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:cord" in pack "mod/silentgear"
+[16Feb2025 03:53:01.526] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:crossbow_limbs" in pack "mod/silentgear"
+[16Feb2025 03:53:01.527] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:dagger_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.527] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:elytra_wings" in pack "mod/silentgear"
+[16Feb2025 03:53:01.527] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:excavator_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.527] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:fishing_reel_and_hook" in pack "mod/silentgear"
+[16Feb2025 03:53:01.527] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:fletching" in pack "mod/silentgear"
+[16Feb2025 03:53:01.528] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:grip" in pack "mod/silentgear"
+[16Feb2025 03:53:01.528] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:hammer_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.528] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:helmet_plates" in pack "mod/silentgear"
+[16Feb2025 03:53:01.528] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:hoe_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.528] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:katana_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.529] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:knife_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.529] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:legging_plates" in pack "mod/silentgear"
+[16Feb2025 03:53:01.529] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:lining" in pack "mod/silentgear"
+[16Feb2025 03:53:01.529] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:mace_core" in pack "mod/silentgear"
+[16Feb2025 03:53:01.529] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:machete_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.530] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:mattock_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.530] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:misc/red_card" in pack "mod/silentgear"
+[16Feb2025 03:53:01.530] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:misc/road_maker" in pack "mod/silentgear"
+[16Feb2025 03:53:01.530] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:misc/spoon" in pack "mod/silentgear"
+[16Feb2025 03:53:01.531] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:misc/wide_plate" in pack "mod/silentgear"
+[16Feb2025 03:53:01.531] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:necklace_chain" in pack "mod/silentgear"
+[16Feb2025 03:53:01.531] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:paxel_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.531] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:pickaxe_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.531] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:prospector_hammer_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:ring_shank" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:rod" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:saw_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:setting" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shear_blades" in pack "mod/silentgear"
+[16Feb2025 03:53:01.532] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shield_plate" in pack "mod/silentgear"
+[16Feb2025 03:53:01.533] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:shovel_head" in pack "mod/silentgear"
+[16Feb2025 03:53:01.533] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:sickle_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.533] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:slingshot_limbs" in pack "mod/silentgear"
+[16Feb2025 03:53:01.533] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:spear_tip" in pack "mod/silentgear"
+[16Feb2025 03:53:01.533] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:sword_blade" in pack "mod/silentgear"
+[16Feb2025 03:53:01.534] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:tip" in pack "mod/silentgear"
+[16Feb2025 03:53:01.534] [main/INFO] [Silent Gear/PartManager]: Decoding part "silentgear:trident_prongs" in pack "mod/silentgear"
+[16Feb2025 03:53:01.534] [main/INFO] [Silent Gear/PartManager]: Decoded 47 parts
+[16Feb2025 03:53:01.543] [main/INFO] [Dungeon Crawl/]: Loading data...
+[16Feb2025 03:53:01.842] [main/INFO] [Dungeon Crawl/]: Done.
+[16Feb2025 03:53:01.862] [main/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[16Feb2025 03:53:01.875] [main/INFO] [Moonlight/]: Applied 20 data villager trades
+[16Feb2025 03:53:01.942] [main/INFO] [Gateways to Eternity/]: Registered 7 gateways.
+[16Feb2025 03:53:01.957] [main/INFO] [hostilenetworks/]: Registered 82 data_models.
+[16Feb2025 03:53:01.960] [main/INFO] [hostilenetworks/]: Registered 5 model_tiers.
+[16Feb2025 03:53:01.971] [main/INFO] [placebo/]: Registered 29 gear_sets.
+[16Feb2025 03:53:01.973] [main/INFO] [placebo/]: Registered 26 wanderer_trades.
+[16Feb2025 03:53:01.981] [main/INFO] [placebo/]: Registered 37 brewing_mixes.
+[16Feb2025 03:53:01.991] [main/INFO] [Apotheosis : Enchantment/]: Registered 27 enchanting_stats.
+[16Feb2025 03:53:02.000] [main/INFO] [apotheosis/]: Registered 5 rarities.
+[16Feb2025 03:53:02.012] [main/INFO] [apotheosis/]: Registered 88 affixes.
+[16Feb2025 03:53:02.016] [main/INFO] [apotheosis/]: Registered 19 gems.
+[16Feb2025 03:53:02.022] [main/INFO] [apotheosis/]: Registered 49 affix_loot_entries.
+[16Feb2025 03:53:02.039] [main/INFO] [apotheosis/]: Registered 23 apothic_invaders.
+[16Feb2025 03:53:02.042] [main/INFO] [apotheosis/]: Registered 9 rogue_spawners.
+[16Feb2025 03:53:02.046] [main/INFO] [apotheosis/]: Registered 4 apothic_elites.
+[16Feb2025 03:53:02.047] [main/INFO] [apotheosis/]: Registered 1 purity_weights.
+[16Feb2025 03:53:02.048] [main/INFO] [apotheosis/]: Registered 0 apothic_augments.
+[16Feb2025 03:53:02.050] [main/INFO] [apotheosis/]: Registered 19 tier_augments.
+[16Feb2025 03:53:02.076] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:enchantment] are present in data pack: forbidden_arcanus:modifier/soulbound_incompatible
+[16Feb2025 03:53:02.111] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: forge:leather
+[16Feb2025 03:53:02.141] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: c:valid_geyser_spawn
+[16Feb2025 03:53:02.142] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / irons_jewelry:pattern] are present in data pack: irons_jewelry:nether_findable
+[16Feb2025 03:53:02.185] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: allthemodium:blocks/blocklist, c:incorrect_for_unobtainium_tool, c:incorrect_for_vibranium_tool, c:needs_allthemodiumalloy_tool, mysticalagriculture:incorrect_for_awakened_supremium_tool, mysticalagriculture:incorrect_for_imperium_tool, mysticalagriculture:incorrect_for_inferium_tool, mysticalagriculture:incorrect_for_prudentium_tool, mysticalagriculture:incorrect_for_supremium_tool, mysticalagriculture:incorrect_for_tertium_tool
+[16Feb2025 03:53:02.446] [main/INFO] [evilcraft/]: 19 Broom modifiers can be applied!
+[16Feb2025 03:53:02.458] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but RawTradeOutputEntry[tag=Optional.empty, itemstack=Optional.empty, required=true, count=1, xpReward=0, weight=1] itemstack entry does not exist.
+[16Feb2025 03:53:02.458] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but RawTradeOutputEntry[tag=Optional.empty, itemstack=Optional.empty, required=true, count=1, xpReward=0, weight=1] itemstack entry does not exist.
+[16Feb2025 03:53:02.492] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but RawTradeOutputEntry[tag=Optional.empty, itemstack=Optional.empty, required=true, count=1, xpReward=0, weight=1] itemstack entry does not exist.
+[16Feb2025 03:53:02.507] [main/ERROR] [com.telepathicgrunt.the_bumblezone.Bumblezone/]: Trade result entry is set to required but RawTradeOutputEntry[tag=Optional.empty, itemstack=Optional.empty, required=true, count=1, xpReward=0, weight=1] itemstack entry does not exist.
+[16Feb2025 03:53:02.699] [main/INFO] [Supplementaries/]: Registering custom dispenser behaviors
+[16Feb2025 03:53:02.782] [main/INFO] [Mystical Agriculture/]: Recipe ingredient caching done in 3 ms
+[16Feb2025 03:53:02.784] [main/INFO] [Cucumber Library/]: Loaded cucumber-tags.json in 0 ms
+[16Feb2025 03:53:02.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[16Feb2025 03:53:02.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[16Feb2025 03:53:02.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[16Feb2025 03:53:02.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[16Feb2025 03:53:02.941] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on 0.0.0.0:25565
+[16Feb2025 03:53:03.027] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[16Feb2025 03:53:03.081] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16Feb2025 03:53:03.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[16Feb2025 03:53:03.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16Feb2025 03:53:03.082] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[16Feb2025 03:53:03.169] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[16Feb2025 03:53:03.233] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected deeperdarker:angler_fish that was registered with WATER_CREATURE mob category but was added under MONSTER mob category for deeperdarker:blooming_caverns biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[16Feb2025 03:53:03.274] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:eucalyptus_forest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[16Feb2025 03:53:03.337] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[16Feb2025 03:53:03.357] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:sparse_rainforest biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[16Feb2025 03:53:03.367] [Server thread/WARN] [net.neoforged.neoforge.server.ServerLifecycleHooks/]: Detected minecraft:ocelot that was registered with CREATURE mob category but was added under MONSTER mob category for regions_unexplored:tropics biome! Mobs should be added to biomes under the same mob category that the mob was registered as to prevent mob cap spawning issues.
+[16Feb2025 03:53:03.417] [Server thread/INFO] [FTB Teams/]: loaded team data: 1 known players, 1 teams total
+[16Feb2025 03:53:03.430] [Server thread/INFO] [Sawmill/]: Injecting Carpenter Village Houses
+[16Feb2025 03:53:03.579] [Server thread/INFO] [Framework/]: Loading server configs...
+[16Feb2025 03:53:03.627] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[16Feb2025 03:53:04.437] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[16Feb2025 03:53:04.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "kinbofox"
+[16Feb2025 03:53:05.395] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class cy.jdkdigital.everythingcopper.common.entity.CopperGolem from interface cy.jdkdigital.everythingcopper.common.entity.IWeatheringEntity
+[16Feb2025 03:53:05.395] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class cy.jdkdigital.everythingcopper.common.entity.CopperGolem from interface cy.jdkdigital.everythingcopper.common.entity.IWeatheringEntity
+[16Feb2025 03:53:06.027] [Server thread/INFO] [net.neoforged.coremod.CoreMod.apothic_enchanting/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/enchantment/EnchantmentHelper
+[16Feb2025 03:53:06.195] [Server thread/INFO] [Regions Unexplored/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[16Feb2025 03:53:06.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[16Feb2025 03:53:06.215] [Server thread/INFO] [KubeJS/]: Added bindings for script type SERVER from mod 'almostunified': [AlmostUnified]
+[16Feb2025 03:53:06.215] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
+[16Feb2025 03:53:06.583] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[16Feb2025 03:53:06.712] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
