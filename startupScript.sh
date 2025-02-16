@@ -24,12 +24,12 @@ fi
 
 if ! git config --local user.name &>/dev/null; then
     echo "Configurando usuário local do Git..."
-    git config --local user.name "Kinbo Fox"
+    git config --local user.name "Juan Pimentel"
 fi
 
 if ! git config --local user.email &>/dev/null; then
     echo "Configurando e-mail local do Git..."
-    git config --local user.email "kinbofox@exemplo.com"
+    git config --local user.email "juandbpimentel@gmail.com"
 fi
 
 # Iniciar o servidor usando screen no contexto do usuário kinbofox
