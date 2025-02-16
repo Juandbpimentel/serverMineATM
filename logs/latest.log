@@ -6957,3 +6957,209 @@ Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 
 [16Feb2025 03:53:06.215] [Server thread/INFO] [KubeJS Server/]: Server resource reload complete!
 [16Feb2025 03:53:06.583] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
 [16Feb2025 03:53:06.712] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 8%
+[16Feb2025 03:53:06.743] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 539 ms
+[16Feb2025 03:53:06.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.648s)! For help, type "help"
+[16Feb2025 03:53:06.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting GS4 status listener
+[16Feb2025 03:53:06.756] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener started
+[16Feb2025 03:53:06.757] [Query Listener #1/INFO] [net.minecraft.server.rcon.thread.QueryThreadGs4/]: Query running on 0.0.0.0:25565
+[16Feb2025 03:53:06.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting remote control listener
+[16Feb2025 03:53:06.758] [Server thread/WARN] [net.minecraft.server.rcon.thread.RconThread/]: No rcon password set in server.properties, rcon disabled!
+[16Feb2025 03:53:07.154] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[16Feb2025 03:53:07.171] [Server thread/INFO] [com.mamailes.herbsandharvest.HerbsAndHarvest/]: HELLO from server starting
+[16Feb2025 03:53:07.219] [Server thread/INFO] [com.mamailes.merrymaking.MerryMaking/]: HELLO from server starting
+[16Feb2025 03:53:07.222] [Server thread/INFO] [journeymap/]: Loaded null for service interface journeymap.api.services.WebMapService
+[16Feb2025 03:53:07.224] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeClientHooks@2a9c6c66 for service interface journeymap.api.services.ClientPlatformService
+[16Feb2025 03:53:07.226] [Server thread/INFO] [journeymap/]: Loaded journeymap.common.helpers.NeoForgeHooks@25481df2 for service interface journeymap.api.services.CommonPlatformService
+[16Feb2025 03:53:07.275] [Server thread/INFO] [Observable/]: Registered thread Server thread
+[16Feb2025 03:53:07.284] [Server thread/INFO] [FTB Quests/]: Loading quests from /home/kinbofox/github/serverMineATM/config/ftbquests/quests
+[16Feb2025 03:53:07.387] [Server thread/INFO] [FTB Quests/]: loaded translation tables for 6 language(s)
+[16Feb2025 03:53:07.597] [Server thread/INFO] [FTB Quests/]: Loaded 11 chapter groups, 48 chapters, 3157 quests, 44 reward tables
+[16Feb2025 03:53:07.605] [Server thread/INFO] [FTB Ranks/]: Loaded 3 ranks
+[16Feb2025 03:53:07.626] [Server thread/INFO] [evilcraft/]: Loading infobook /data/evilcraft/info/book.xml
+[16Feb2025 03:53:07.699] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:witherer has no valid items
+[16Feb2025 03:53:07.700] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:hungerer has no valid items
+[16Feb2025 03:53:07.700] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:kamikaze has no valid items
+[16Feb2025 03:53:07.700] [Server thread/WARN] [evilcraft/]: Invalid appendix info_book.evilcraft.second_age.tools.broom from mod evilcraft in an infobook: The broom modifier evilcraft:withershield has no valid items
+[16Feb2025 03:53:10.858] [Server thread/INFO] [Silent Gear/]: Traits loaded: 74
+[16Feb2025 03:53:10.859] [Server thread/INFO] [Silent Gear/]: Parts loaded: 47
+[16Feb2025 03:53:10.859] [Server thread/INFO] [Silent Gear/]: - Compound: 47
+[16Feb2025 03:53:10.862] [Server thread/INFO] [Silent Gear/]: - Simple: 0
+[16Feb2025 03:53:10.862] [Server thread/INFO] [Silent Gear/]: Materials loaded: 132
+[16Feb2025 03:53:10.863] [Server thread/INFO] [Silent Gear/]: - Standard: 125
+[16Feb2025 03:53:17.267] [Server thread/INFO] [gripe._90.megacells.misc.CompressionService/]: Initialised bulk compression. 538 compression chains gathered.
+[16Feb2025 03:53:17.268] [Server thread/INFO] [integrateddynamics/]: Loading infobook /data/integrateddynamics/info/on_the_dynamics_of_integration.xml
+[16Feb2025 03:53:17.305] [Server thread/INFO] [cyclopscore/]: Loading infobook /data/cyclopscore/info/test.xml
+[16Feb2025 03:53:31.508] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[16Feb2025 03:53:31.858] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sickle, missing knowledge for {1 mysticalagriculture:diamond_sickle=1.0}
+[16Feb2025 03:53:31.858] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_helmet, missing knowledge for {1 mysticalagriculture:inferium_helmet=1.0}
+[16Feb2025 03:53:31.859] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_scythe, missing knowledge for {1 mysticalagriculture:tertium_scythe=1.0}
+[16Feb2025 03:53:31.859] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:pneumatic_leggings, missing knowledge for {1 pneumaticcraft:compressed_iron_leggings=1.0}
+[16Feb2025 03:53:31.859] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_pickaxe, missing knowledge for {1 mysticalagriculture:imperium_pickaxe=1.0}
+[16Feb2025 03:53:31.859] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sword, missing knowledge for {1 mysticalagriculture:imperium_sword=1.0}
+[16Feb2025 03:53:31.859] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_shovel, missing knowledge for {1 mysticalagriculture:imperium_shovel=1.0}
+[16Feb2025 03:53:31.860] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_boots, missing knowledge for {1 minecraft:diamond_boots=1.0}
+[16Feb2025 03:53:31.860] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_axe, missing knowledge for {1 minecraft:diamond_axe=1.0}
+[16Feb2025 03:53:31.860] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_hoe, missing knowledge for {1 mysticalagriculture:tertium_hoe=1.0}
+[16Feb2025 03:53:31.860] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sword, missing knowledge for {1 minecraft:diamond_sword=1.0}
+[16Feb2025 03:53:31.860] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_boots, missing knowledge for {1 mysticalagriculture:inferium_boots=1.0}
+[16Feb2025 03:53:31.861] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_chestplate, missing knowledge for {1 mysticalagriculture:prudentium_chestplate=1.0}
+[16Feb2025 03:53:31.861] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sickle, missing knowledge for {1 mysticalagriculture:inferium_sickle=1.0}
+[16Feb2025 03:53:31.861] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_scythe, missing knowledge for {1 mysticalagriculture:inferium_scythe=1.0}
+[16Feb2025 03:53:31.861] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mekanism:free_runners_armored, missing knowledge for {1 mekanism:free_runners=1.0}
+[16Feb2025 03:53:31.861] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sword, missing knowledge for {1 mysticalagriculture:inferium_sword=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_pickaxe, missing knowledge for {1 minecraft:diamond_pickaxe=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_chestplate, missing knowledge for {1 minecraft:leather_chestplate=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_chestplate, missing knowledge for {1 mysticalagriculture:tertium_chestplate=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_hoe, missing knowledge for {1 mysticalagriculture:inferium_hoe=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_pickaxe, missing knowledge for {1 mysticalagriculture:prudentium_pickaxe=1.0}
+[16Feb2025 03:53:31.862] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_shovel, missing knowledge for {1 mysticalagriculture:prudentium_shovel=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_helmet, missing knowledge for {1 mysticalagriculture:prudentium_helmet=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sickle, missing knowledge for {1 mysticalagriculture:tertium_sickle=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sword, missing knowledge for {1 mysticalagriculture:prudentium_sword=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_hoe, missing knowledge for {1 mysticalagriculture:prudentium_hoe=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_helmet, missing knowledge for {1 mysticalagriculture:tertium_helmet=1.0}
+[16Feb2025 03:53:31.863] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_scythe, missing knowledge for {1 mysticalagriculture:diamond_scythe=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_scythe, missing knowledge for {1 mysticalagriculture:prudentium_scythe=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_shovel, missing knowledge for {1 minecraft:diamond_shovel=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_helmet, missing knowledge for {1 minecraft:leather_helmet=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sickle, missing knowledge for {1 mysticalagriculture:prudentium_sickle=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_leggings, missing knowledge for {1 minecraft:leather_leggings=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_pickaxe, missing knowledge for {1 mysticalagriculture:tertium_pickaxe=1.0}
+[16Feb2025 03:53:31.864] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_leggings, missing knowledge for {1 mysticalagriculture:imperium_leggings=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_chestplate, missing knowledge for {1 minecraft:diamond_chestplate=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_boots, missing knowledge for {1 mysticalagriculture:tertium_boots=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_shovel, missing knowledge for {1 mysticalagriculture:inferium_shovel=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_scythe, missing knowledge for {1 mysticalagriculture:imperium_scythe=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_boots, missing knowledge for {1 minecraft:leather_boots=1.0}
+[16Feb2025 03:53:31.865] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_helmet, missing knowledge for {1 minecraft:diamond_helmet=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_leggings, missing knowledge for {1 mysticalagriculture:tertium_leggings=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_axe, missing knowledge for {1 mysticalagriculture:imperium_axe=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_shovel, missing knowledge for {1 mysticalagriculture:tertium_shovel=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_chestplate, missing knowledge for {1 mysticalagriculture:imperium_chestplate=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_leggings, missing knowledge for {1 minecraft:diamond_leggings=1.0}
+[16Feb2025 03:53:31.866] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_helmet, missing knowledge for {1 mysticalagriculture:imperium_helmet=1.0}
+[16Feb2025 03:53:31.867] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_boots, missing knowledge for {1 mysticalagriculture:prudentium_boots=1.0}
+[16Feb2025 03:53:31.867] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_axe, missing knowledge for {1 mysticalagriculture:inferium_axe=1.0}
+[16Feb2025 03:53:31.867] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_axe, missing knowledge for {1 mysticalagriculture:tertium_axe=1.0}
+[16Feb2025 03:53:31.867] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_hoe, missing knowledge for {1 mysticalagriculture:imperium_hoe=1.0}
+[16Feb2025 03:53:31.867] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_axe, missing knowledge for {1 mysticalagriculture:prudentium_axe=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_pickaxe, missing knowledge for {1 mysticalagriculture:inferium_pickaxe=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_chestplate, missing knowledge for {1 mysticalagriculture:inferium_chestplate=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_boots, missing knowledge for {1 mysticalagriculture:imperium_boots=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sickle, missing knowledge for {1 mysticalagriculture:imperium_sickle=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_hoe, missing knowledge for {1 minecraft:diamond_hoe=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sword, missing knowledge for {1 mysticalagriculture:tertium_sword=1.0}
+[16Feb2025 03:53:31.868] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_leggings, missing knowledge for {1 mysticalagriculture:inferium_leggings=1.0}
+[16Feb2025 03:53:31.869] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_leggings, missing knowledge for {1 mysticalagriculture:prudentium_leggings=1.0}
+[16Feb2025 03:53:31.869] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 359 milliseconds
+[16Feb2025 03:53:32.016] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_pickaxe, missing knowledge for {1 mysticalagriculture:inferium_pickaxe=1.0}
+[16Feb2025 03:53:32.017] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_chestplate, missing knowledge for {1 mysticalagriculture:prudentium_chestplate=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_scythe, missing knowledge for {1 mysticalagriculture:tertium_scythe=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_shovel, missing knowledge for {1 mysticalagriculture:tertium_shovel=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 ironjetpacks:jetpack, missing knowledge for {1 ironjetpacks:jetpack=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_chestplate, missing knowledge for {1 minecraft:diamond_chestplate=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_helmet, missing knowledge for {1 mysticalagriculture:inferium_helmet=1.0}
+[16Feb2025 03:53:32.018] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_pickaxe, missing knowledge for {1 mysticalagriculture:imperium_pickaxe=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_hoe, missing knowledge for {1 mysticalagriculture:prudentium_hoe=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sickle, missing knowledge for {1 mysticalagriculture:inferium_sickle=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_leggings, missing knowledge for {1 mysticalagriculture:prudentium_leggings=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sickle, missing knowledge for {1 mysticalagriculture:imperium_sickle=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_scythe, missing knowledge for {1 mysticalagriculture:inferium_scythe=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_hoe, missing knowledge for {1 mysticalagriculture:imperium_hoe=1.0}
+[16Feb2025 03:53:32.019] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_shovel, missing knowledge for {1 mysticalagriculture:prudentium_shovel=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_shovel, missing knowledge for {1 mysticalagriculture:imperium_shovel=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mekanism:free_runners_armored, missing knowledge for {1 mekanism:free_runners=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_helmet, missing knowledge for {1 minecraft:diamond_helmet=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_axe, missing knowledge for {1 mysticalagriculture:tertium_axe=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_leggings, missing knowledge for {1 mysticalagriculture:imperium_leggings=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_boots, missing knowledge for {1 mysticalagriculture:prudentium_boots=1.0}
+[16Feb2025 03:53:32.020] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_sword, missing knowledge for {1 mysticalagriculture:imperium_sword=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_chestplate, missing knowledge for {1 mysticalagriculture:imperium_chestplate=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_chestplate, missing knowledge for {1 mysticalagriculture:tertium_chestplate=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sickle, missing knowledge for {1 mysticalagriculture:diamond_sickle=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_helmet, missing knowledge for {1 mysticalagriculture:imperium_helmet=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_hoe, missing knowledge for {1 mysticalagriculture:tertium_hoe=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sword, missing knowledge for {1 mysticalagriculture:tertium_sword=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_sickle, missing knowledge for {1 mysticalagriculture:tertium_sickle=1.0}
+[16Feb2025 03:53:32.021] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_sword, missing knowledge for {1 mysticalagriculture:inferium_sword=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_axe, missing knowledge for {1 mysticalagriculture:inferium_axe=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_axe, missing knowledge for {1 mysticalagriculture:prudentium_axe=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_chestplate, missing knowledge for {1 mysticalagriculture:inferium_chestplate=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_leggings, missing knowledge for {1 minecraft:leather_leggings=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_pickaxe, missing knowledge for {1 mysticalagriculture:tertium_pickaxe=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_leggings, missing knowledge for {1 mysticalagriculture:inferium_leggings=1.0}
+[16Feb2025 03:53:32.022] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_leggings, missing knowledge for {1 minecraft:diamond_leggings=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_boots, missing knowledge for {1 minecraft:diamond_boots=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:pneumatic_leggings, missing knowledge for {1 pneumaticcraft:compressed_iron_leggings=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sickle, missing knowledge for {1 mysticalagriculture:prudentium_sickle=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_shovel, missing knowledge for {1 minecraft:diamond_shovel=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_hoe, missing knowledge for {1 mysticalagriculture:inferium_hoe=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_chestplate, missing knowledge for {1 minecraft:leather_chestplate=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_pickaxe, missing knowledge for {1 minecraft:diamond_pickaxe=1.0}
+[16Feb2025 03:53:32.023] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_pickaxe, missing knowledge for {1 mysticalagriculture:prudentium_pickaxe=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_sword, missing knowledge for {1 minecraft:diamond_sword=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_helmet, missing knowledge for {1 mysticalagriculture:prudentium_helmet=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_helmet, missing knowledge for {1 mysticalagriculture:tertium_helmet=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_helmet, missing knowledge for {1 minecraft:leather_helmet=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_boots, missing knowledge for {1 mysticalagriculture:imperium_boots=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_boots, missing knowledge for {1 mysticalagriculture:tertium_boots=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_scythe, missing knowledge for {1 mysticalagriculture:prudentium_scythe=1.0}
+[16Feb2025 03:53:32.024] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_shovel, missing knowledge for {1 mysticalagriculture:inferium_shovel=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_axe, missing knowledge for {1 mysticalagriculture:imperium_axe=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 pneumaticcraft:compressed_iron_boots, missing knowledge for {1 minecraft:leather_boots=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:tertium_sword, missing knowledge for {1 mysticalagriculture:prudentium_sword=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:imperium_leggings, missing knowledge for {1 mysticalagriculture:tertium_leggings=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_hoe, missing knowledge for {1 minecraft:diamond_hoe=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:supremium_scythe, missing knowledge for {1 mysticalagriculture:imperium_scythe=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_axe, missing knowledge for {1 minecraft:diamond_axe=1.0}
+[16Feb2025 03:53:32.025] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:inferium_scythe, missing knowledge for {1 mysticalagriculture:diamond_scythe=1.0}
+[16Feb2025 03:53:32.026] [Server thread/INFO] [immersiveengineering/]: Couldn't fully analyze 1 mysticalagriculture:prudentium_boots, missing knowledge for {1 mysticalagriculture:inferium_boots=1.0}
+[16Feb2025 03:53:32.026] [Server thread/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 155 milliseconds
+[16Feb2025 03:53:32.027] [Server thread/WARN] [ModernFix/]: Dedicated server took 144.754 seconds to load
+[16Feb2025 03:53:32.182] [Server thread/WARN] [minecolonies/]: Starting Compat Discovery
+[16Feb2025 03:53:32.917] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 189 140
+[16Feb2025 03:53:32.918] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 291
+[16Feb2025 03:53:32.918] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[16Feb2025 03:53:32.918] [Server thread/INFO] [minecolonies/]: Finished discovering food 1789 1923
+[16Feb2025 03:53:32.918] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 7491
+[16Feb2025 03:53:32.918] [Server thread/INFO] [minecolonies/]: Finished discovering flowers 180
+[16Feb2025 03:53:32.919] [Server thread/INFO] [minecolonies/]: Finished discovering items 48841
+[16Feb2025 03:53:32.919] [Server thread/INFO] [minecolonies/]: Finished discovering recruitment costs
+[16Feb2025 03:53:32.987] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 3391
+[16Feb2025 03:53:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Feb2025 03:53:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Feb2025 03:53:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16Feb2025 03:53:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16Feb2025 03:53:33.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16Feb2025 03:53:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16Feb2025 03:53:33.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
+[16Feb2025 03:53:33.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
+[16Feb2025 03:53:33.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
+[16Feb2025 03:53:33.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
+[16Feb2025 03:53:33.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
+[16Feb2025 03:53:33.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
+[16Feb2025 03:53:33.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
+[16Feb2025 03:53:33.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
+[16Feb2025 03:53:33.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
+[16Feb2025 03:53:33.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
+[16Feb2025 03:53:33.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
+[16Feb2025 03:53:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
+[16Feb2025 03:53:33.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
+[16Feb2025 03:53:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
+[16Feb2025 03:53:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16Feb2025 03:53:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[16Feb2025 03:53:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[16Feb2025 03:53:33.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16Feb2025 03:53:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[16Feb2025 03:53:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[16Feb2025 03:53:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[16Feb2025 03:53:33.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[16Feb2025 03:53:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[16Feb2025 03:53:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[16Feb2025 03:53:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16Feb2025 03:53:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[16Feb2025 03:53:33.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16Feb2025 03:53:33.850] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16Feb2025 03:53:33.852] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[16Feb2025 03:53:33.855] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16Feb2025 03:53:34.356] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
