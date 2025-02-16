@@ -206,3 +206,4 @@
 [03:52:13.203] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:storage_blocks/raw_lead' -> [immersiveengineering:raw_block_lead, mekanism:block_raw_lead, modern_industrialization:raw_lead_block]
 [03:52:15.020] [INFO]: Loading config 'duplicates.json'.
 [03:52:15.024] [INFO]: Recipe count: 57905
+[03:52:42.707] [INFO]: Recipe count afterwards: 57108 (done in 27.68 s)
