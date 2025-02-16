@@ -197,21 +197,22 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "tombstone:recipe/enchanted_grave_key": {
     "criteria": {
-      "iron_chestplate": "2025-02-13 23:44:06 +0000"
+      "has_ingredient": "2025-02-13 23:37:10 +0000"
     },
     "done": true
   },
-  "naturesaura:positive_imbalance": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "triggered_in_code": "2025-02-13 23:53:04 +0000"
+      "minecraft:desert": "2025-02-13 23:49:53 +0000",
+      "minecraft:warm_ocean": "2025-02-13 23:40:13 +0000"
     },
-    "done": true
+    "done": false
   },
-  "farmersdelight:main/get_fd_seed": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "onion": "2025-02-13 23:45:02 +0000"
+      "coded_trigger": "2025-02-13 23:40:47 +0000"
     },
     "done": true
   },
@@ -227,39 +228,15 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-13 23:41:46 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipe/bone_needle": {
     "criteria": {
       "has_ingredient": "2025-02-13 23:41:17 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/cancel_ghostly_shape": {
-    "criteria": {
-      "coded_trigger": "2025-02-13 23:40:47 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipe/smoke_ball": {
     "criteria": {
       "has_ingredient": "2025-02-13 23:41:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-13 23:52:54 +0000"
     },
     "done": true
   },
@@ -272,12 +249,6 @@
   "tombstone:recipe/carmin_marble": {
     "criteria": {
       "has_ingredient": "2025-02-13 23:41:17 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/root": {
-    "criteria": {
-      "affixed": "2025-02-13 23:41:47 +0000"
     },
     "done": true
   },
@@ -299,37 +270,6 @@
     },
     "done": true
   },
-  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
-    "criteria": {
-      "apple": "2025-02-13 23:44:07 +0000"
-    },
-    "done": false
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-02-13 23:45:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:desert": "2025-02-13 23:49:53 +0000",
-      "minecraft:warm_ocean": "2025-02-13 23:40:13 +0000"
-    },
-    "done": false
-  },
-  "biomeswevegone:biomeswevegone/husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-13 23:52:54 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipe/dark_marble": {
     "criteria": {
       "has_ingredient": "2025-02-13 23:41:17 +0000"
@@ -348,21 +288,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-02-13 23:52:54 +0000"
-    },
-    "done": false
-  },
-  "tombstone:recipe/enchanted_grave_key": {
-    "criteria": {
-      "has_ingredient": "2025-02-13 23:37:10 +0000"
-    },
-    "done": true
-  },
   "tombstone:recipe/impregnated_diamond": {
     "criteria": {
       "has_ingredient": "2025-02-13 23:41:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-13 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "affixed": "2025-02-13 23:41:47 +0000"
     },
     "done": true
   },
@@ -378,6 +318,78 @@
       "common_chest": "2025-02-13 23:43:34 +0000"
     },
     "done": false
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-13 23:44:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
+    "criteria": {
+      "apple": "2025-02-13 23:44:07 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-13 23:45:02 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-02-13 23:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-13 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-13 23:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-13 23:52:54 +0000"
+    },
+    "done": false
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-02-13 23:53:04 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:get_book": {
+    "criteria": {
+      "book": "2025-02-16 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:root": {
+    "criteria": {
+      "book": "2025-02-16 17:43:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
