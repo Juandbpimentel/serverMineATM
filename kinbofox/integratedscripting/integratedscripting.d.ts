@@ -61,6 +61,7 @@ export interface Operations {
   nbtWithTag: (arg0: Record<string, any>, arg1: string, arg2: Record<string, any>) => Record<string, any>;
   integerIntegerToLong: (arg0: number) => number;
   nbtMinus: (arg0: Record<string, any>, arg1: Record<string, any>) => Record<string, any>;
+  entityEntityItemTooltip: (arg0: ValueEntity, arg1: ValueItemstack) => any[];
   nbtWithListLong: (arg0: Record<string, any>, arg1: string, arg2: any[]) => Record<string, any>;
   stringLength: (arg0: string) => number;
   stringItemsByTag: (arg0: string) => any[];
@@ -192,6 +193,7 @@ export interface Operations {
   fluidstackNbt: (arg0: ValueFluidstack) => Record<string, any>;
   itemstackIsStackable: (arg0: ValueItemstack) => boolean;
   entityHurtSound: (arg0: ValueEntity) => string;
+  itemstackTooltip: (arg0: ValueItemstack) => any[];
   fluidstackDensity: (arg0: ValueFluidstack) => number;
   fluidstackFluidVaporizeSound: (arg0: ValueFluidstack) => string;
   fluidstackDataKeys: (arg0: ValueFluidstack) => any[];
@@ -309,6 +311,7 @@ export interface ValueItemstack {
   strength: (arg0: ValueBlock) => number;
   feStored: () => number;
   maxDamage: () => number;
+  tooltip: () => any[];
   maxSize: () => number;
   withSize: (arg0: number) => ValueItemstack;
   feCapacity: () => number;
@@ -405,6 +408,7 @@ export interface ValueEntity {
 
   isPlayer: () => boolean;
   nbt: () => Record<string, any>;
+  entityItemTooltip: (arg0: ValueItemstack) => any[];
   mod: () => string;
   targetEntity: () => ValueEntity;
   isMinecart: () => boolean;

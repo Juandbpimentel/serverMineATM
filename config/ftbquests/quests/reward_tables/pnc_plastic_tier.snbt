@@ -1,10 +1,11 @@
 {
 	id: "5A138D1EDF8AA0C1"
 	loot_size: 1
-	order_index: 21
+	order_index: 23
 	rewards: [
 		{
 			count: 5
+			id: "25DDEDC540382996"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_black"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 5
+			id: "00A04AC1A7A1F07D"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_blue"
@@ -23,6 +25,7 @@
 		}
 		{
 			count: 5
+			id: "03B313FCA88260F4"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_brown"
@@ -32,6 +35,7 @@
 		}
 		{
 			count: 5
+			id: "15676C5B63AF3226"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_cyan"
@@ -41,6 +45,7 @@
 		}
 		{
 			count: 5
+			id: "68D98CC8C6E72329"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_gray"
@@ -50,6 +55,7 @@
 		}
 		{
 			count: 5
+			id: "79917AAABD862C78"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_green"
@@ -59,6 +65,7 @@
 		}
 		{
 			count: 5
+			id: "142794F0AA617C00"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_light_blue"
@@ -68,6 +75,7 @@
 		}
 		{
 			count: 5
+			id: "439749C041F68D0D"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_light_gray"
@@ -77,6 +85,7 @@
 		}
 		{
 			count: 5
+			id: "6318099C0A9FAAFD"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_lime"
@@ -86,6 +95,7 @@
 		}
 		{
 			count: 5
+			id: "3B7E0989BEB8B70B"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_magenta"
@@ -95,6 +105,7 @@
 		}
 		{
 			count: 5
+			id: "40A4A75611FA6E52"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_orange"
@@ -104,6 +115,7 @@
 		}
 		{
 			count: 5
+			id: "597C7931019CAF8E"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_pink"
@@ -113,6 +125,7 @@
 		}
 		{
 			count: 5
+			id: "3F7C0CF3B2749755"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_purple"
@@ -122,6 +135,7 @@
 		}
 		{
 			count: 5
+			id: "3CEC9471208217A5"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_red"
@@ -131,6 +145,7 @@
 		}
 		{
 			count: 5
+			id: "5938F5B0829E64D2"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_white"
@@ -140,6 +155,7 @@
 		}
 		{
 			count: 5
+			id: "7DEFD41722AB85CD"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic_brick_yellow"
@@ -149,34 +165,72 @@
 		}
 		{
 			count: 5
+			id: "054A0D41CB443F80"
 			item: {
 				count: 1
 				id: "pneumaticcraft:plastic"
 			}
 			random_bonus: 5
 		}
-		{ item: { count: 1, id: "pneumaticcraft:elevator_base" }, random_bonus: 1 }
-		{ item: { count: 1, id: "pneumaticcraft:elevator_caller" }, random_bonus: 1 }
+		{
+			id: "1B3128FCE3F70C06"
+			item: {
+				count: 1
+				id: "pneumaticcraft:elevator_base"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "2170EA81BCE45965"
+			item: {
+				count: 1
+				id: "pneumaticcraft:elevator_caller"
+			}
+			random_bonus: 1
+		}
 		{
 			count: 5
+			id: "23D854024D5C26D8"
 			item: {
 				count: 1
 				id: "pneumaticcraft:elevator_frame"
 			}
 			random_bonus: 5
 		}
-		{ item: { count: 1, id: "pneumaticcraft:pneumatic_door" }, random_bonus: 2 }
-		{ item: { count: 1, id: "pneumaticcraft:pneumatic_door_base" }, random_bonus: 1 }
+		{
+			id: "6355CA31010B115A"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pneumatic_door"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "6DA16888307FF375"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pneumatic_door_base"
+			}
+			random_bonus: 1
+		}
 		{
 			count: 2
+			id: "4D605ADAC06A0086"
 			item: {
 				count: 1
 				id: "pneumaticcraft:empty_pcb"
 			}
 			random_bonus: 1
 		}
-		{ item: { count: 1, id: "pneumaticcraft:pcb_blueprint" }, weight: 0.5f }
-		{ item: { count: 1, id: "pneumaticcraft:solar_wafer" } }
+		{
+			id: "4D57E42B782B766D"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pcb_blueprint"
+			}
+			weight: 0.5f
+		}
+		{ id: "7A13B82C68E356CA", item: { count: 1, id: "pneumaticcraft:solar_wafer" } }
 	]
 	use_title: true
 }

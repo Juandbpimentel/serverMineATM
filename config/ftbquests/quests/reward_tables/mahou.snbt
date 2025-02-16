@@ -1,14 +1,63 @@
 {
 	id: "779C873798AE0A92"
 	loot_size: 1
-	order_index: 41
+	order_index: 43
 	rewards: [
-		{ count: 3, item: { count: 1, id: "mahoutsukai:powdered_diamond" } }
-		{ count: 3, item: { count: 1, id: "mahoutsukai:powdered_emerald" } }
-		{ count: 6, item: { count: 1, id: "mahoutsukai:powdered_ender" } }
-		{ count: 3, item: { count: 1, id: "mahoutsukai:powdered_eye" } }
-		{ count: 6, item: { count: 1, id: "mahoutsukai:powdered_gold" } }
-		{ count: 6, item: { count: 1, id: "mahoutsukai:powdered_iron" } }
-		{ count: 6, item: { count: 1, id: "mahoutsukai:powdered_quartz" } }
+		{
+			count: 3
+			id: "06C6875A420CB92E"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_diamond"
+			}
+		}
+		{
+			count: 3
+			id: "7B6CB7FE4B7811C1"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_emerald"
+			}
+		}
+		{
+			count: 6
+			id: "0FB60781AEA6A349"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_ender"
+			}
+		}
+		{
+			count: 3
+			id: "15C976A99235589B"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_eye"
+			}
+		}
+		{
+			count: 6
+			id: "5585994C97D52399"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_gold"
+			}
+		}
+		{
+			count: 6
+			id: "19FA7D06A7CB2C27"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_iron"
+			}
+		}
+		{
+			count: 6
+			id: "6417B379B67F3AEB"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_quartz"
+			}
+		}
 	]
 }

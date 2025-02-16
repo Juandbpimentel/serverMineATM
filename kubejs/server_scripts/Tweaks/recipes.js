@@ -64,6 +64,39 @@ ServerEvents.recipes(allthemods => {
             "id": "powah:uraninite"
         }
     }).id('powah:energizing/uraninite_from_ore')
+
+    allthemods.shapeless(
+        Item.of('minecraft:potion[potion_contents={potion:"minecraft:water"}]', 1),
+        [
+            'minecraft:glass_bottle',
+            'mysticalagriculture:water_essence'
+        ]
+    )
+
+    allthemods.shapeless(
+        Item.of('minecraft:honey_block'),
+        [
+            '9x mysticalagriculture:honey_essence'
+        ]
+    )
+    allthemods.shaped("minecraft:crafting_table", ['XX','XX'], {X: "#minecraft:planks"}).id("minecraft:crafting_table")
+
+    //soy sauce from unified tag
+    allthemods.custom({
+        type: "sushigocrafting:fermenting_barrel",
+        fluid: {
+            amount: 250,
+            id: "minecraft:water"
+        },
+        input: {
+            tag: "c:crops/soybean"
+        },
+        output: {
+            count: 1,
+            id: "sushigocrafting:soy_sauce"
+        }
+    })
+
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

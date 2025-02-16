@@ -38,6 +38,8 @@ minimumRedstoneClockTick = 5
 betterSleepEnabled = true
 #Enable No Trampling module
 noTramplingEnabled = true
+#Enable Flower Duplication. Duplicate small flowers when bonemealed just like tall flowers
+flowerDuplicationEnabled = true
 #When true using a wind charge will replenish some of the players air supply
 windChargeAirSupplyEnabled = true
 #How much air should a charge refill. Full air supply for a player is 300.

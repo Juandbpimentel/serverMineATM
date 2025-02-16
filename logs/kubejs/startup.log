@@ -1,26 +1,31 @@
-[04:01:01] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
-[04:01:01] [INIT] Loaded plugins:
-[04:01:01] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
-[04:01:01] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
-[04:01:01] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
-[04:01:01] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
-[04:01:01] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
-[04:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
-[04:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[04:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[04:01:01] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[04:01:01] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
-[04:01:01] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
-[04:01:01] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
-[04:01:02] [INFO] Loaded script startup_scripts:Potionsmaster/potionsmaster.js in 0.264 s
-[04:01:02] [INFO] Loaded script startup_scripts:Theurgy/SulfurAdditions.js in 0.007 s
-[04:01:02] [INFO] startup_scripts:CustomAdditions.js#4: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
-[04:01:02] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.012 s
-[04:01:02] [INFO] Loaded script startup_scripts:Farmer's Delight/Compatibility.js in 0.002 s
-[04:01:02] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.0 s
-[04:01:02] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.Chemical'
-[04:01:02] [INFO] startup_scripts:Mekanism/Compatibility.js#19: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
-[04:01:02] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.011 s
-[04:01:02] [INFO] Loaded script startup_scripts:Modern-Industrialization/atm_stuff.js in 0.002 s
-[04:01:02] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.002 s
-[04:01:02] [INFO] Loaded 8/8 KubeJS startup scripts in 0.798 s with 0 errors and 0 warnings
+[18:35:46] [INIT] KubeJS 2101.7.1-build.181; MC 2101 NeoForge
+[18:35:46] [INIT] Loaded plugins:
+[18:35:46] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[18:35:46] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[18:35:46] [INIT] - com.klikli_dev.theurgykubejs.kubejs.TheurgyKubeJSPlugin
+[18:35:46] [INIT] - es.degrassi.mmreborn.common.integration.kubejs.MMRKubeJSPlugin
+[18:35:46] [INIT] - es.degrassi.mmreborn.mekanism.common.integration.kubejs.MMRKubeJSPlugin
+[18:35:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[18:35:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[18:35:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[18:35:46] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[18:35:46] [INIT] - com.klikli_dev.occultism_kubejs.KubeJSOccultismPlugin
+[18:35:46] [INIT] - com.glodblock.github.extendedae.xmod.kjs.KJSPlugin
+[18:35:46] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[18:35:46] [INFO] Loaded script startup_scripts:Potionsmaster/potionsmaster.js in 0.046 s
+[18:35:46] [INFO] Loaded script startup_scripts:Applied Energistics/Universal_Press.js in 0.0 s
+[18:35:46] [INFO] startup_scripts:CustomAdditions.js#4: Loaded Java class 'net.minecraft.core.registries.BuiltInRegistries'
+[18:35:46] [INFO] Loaded script startup_scripts:CustomAdditions.js in 0.007 s
+[18:35:46] [INFO] Loaded script startup_scripts:ExtendedAE/InfinityCells.js in 0.002 s
+[18:35:46] [INFO] Loaded script startup_scripts:Farmer's Delight/Compatibility.js in 0.001 s
+[18:35:46] [INFO] startup_scripts:hyperbox/hyperbox.js#1: Loaded Java class 'net.neoforged.neoforge.event.entity.player.PlayerEvent$PlayerChangedDimensionEvent'
+[18:35:46] [INFO] Loaded script startup_scripts:hyperbox/hyperbox.js in 0.005 s
+[18:35:46] [INFO] startup_scripts:Mekanism/Compatibility.js#18: Loaded Java class 'mekanism.api.chemical.Chemical'
+[18:35:46] [INFO] startup_scripts:Mekanism/Compatibility.js#19: Loaded Java class 'mekanism.api.chemical.ChemicalBuilder'
+[18:35:46] [INFO] Loaded script startup_scripts:Mekanism/Compatibility.js in 0.006 s
+[18:35:46] [INFO] Loaded script startup_scripts:Modern-Industrialization/atm_stuff.js in 0.0 s
+[18:35:46] [INFO] startup_scripts:Shrink/polylib_fix.js#1: Loaded Java class 'net.creeperhost.polylib.init.DataComps'
+[18:35:46] [INFO] Loaded script startup_scripts:Shrink/polylib_fix.js in 0.001 s
+[18:35:46] [INFO] Loaded script startup_scripts:Theurgy/SulfurAdditions.js in 0.0 s
+[18:35:46] [INFO] Loaded script startup_scripts:Xycraft/Compatibility.js in 0.0 s
+[18:35:46] [INFO] Loaded 11/11 KubeJS startup scripts in 0.306 s with 0 errors and 0 warnings

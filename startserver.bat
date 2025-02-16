@@ -1,5 +1,5 @@
 @echo off
-set NEOFORGE_VERSION=21.1.91
+set NEOFORGE_VERSION=21.1.116
 :: To use a specific Java runtime, set an environment variable named ATM10_JAVA to the full path of java.exe.
 :: To disable automatic restarts, set an environment variable named ATM10_RESTART to false.
 :: To install the pack without starting the server, set an environment variable named ATM10_INSTALL_ONLY to true.

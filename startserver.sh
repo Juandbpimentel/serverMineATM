@@ -1,15 +1,18 @@
 #!/bin/sh
 set -eu
+NEOFORGE_VERSION=21.1.116
+# To use a specific Java runtime, set an environment variable named ATM10_JAVA to the full path of java.exe.
+# To disable automatic restarts, set an environment variable named ATM10_RESTART to false.
+# To install the pack without starting the server, set an environment variable named ATM10_INSTALL_ONLY to true.
+
+INSTALLER="neoforge-$NEOFORGE_VERSION-installer.jar"
+NEOFORGE_URL="https://maven.neoforged.net/releases/net/neoforged/neoforge/$NEOFORGE_VERSION/neoforge-$NEOFORGE_VERSION-installer.jar"
 
 # Definir o diretório de instalação do Java
 export JAVA_HOME="/home/kinbofox/.sdkman/candidates/java/21-oracle"
 
 # Adicionar o diretório bin do Java ao PATH
 export PATH="$JAVA_HOME/bin:$PATH"
-
-NEOFORGE_VERSION=21.1.91
-INSTALLER="neoforge-$NEOFORGE_VERSION-installer.jar"
-NEOFORGE_URL="https://maven.neoforged.net/releases/net/neoforged/neoforge/$NEOFORGE_VERSION/neoforge-$NEOFORGE_VERSION-installer.jar"
 
 pause() {
     printf "%s\n" "Press enter to continue..."

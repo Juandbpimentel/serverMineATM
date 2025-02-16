@@ -14,44 +14,33 @@
 		#Capacity is the number of materials that can be stored (all types combined)
 		#Setting to zero would make the repair kit unusable.
 		[item.repairKits.capacity]
-			# Default: 8
-			# Range: > 0
+			#Range: > 0
 			very_crude = 8
-			# Default: 16
-			# Range: > 0
+			#Range: > 0
 			crude = 16
-			# Default: 32
-			# Range: > 0
+			#Range: > 0
 			sturdy = 32
-			# Default: 48
-			# Range: > 0
+			#Range: > 0
 			crimson = 48
-			# Default: 64
-			# Range: > 0
+			#Range: > 0
 			azure = 64
 
 		#Efficiency is the percentage of the repair value used. Higher values mean less materials used.
 		#Setting to zero would make the repair kit unusable.
 		[item.repairKits.efficiency]
-			# Default: 0.30000001192092896
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			very_crude = 0.30000001192092896
-			# Default: 0.3499999940395355
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			crude = 0.3499999940395355
-			# Default: 0.4000000059604645
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			sturdy = 0.4000000059604645
-			# Default: 0.44999998807907104
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			crimson = 0.44999998807907104
-			# Default: 0.5
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			azure = 0.5
 			#Repair efficiency with loose materials if no repair kit is used.
 			#Setting a value greater than zero makes repair kits optional.
-			# Default: 0.0
-			# Range: 0.0 ~ 10.0
+			#Range: 0.0 ~ 10.0
 			missing = 0.0
 
 #Settings for nerfed items.
@@ -61,12 +50,10 @@
 	#Enable this feature. If false, the other settings in this group are ignored.
 	enabled = false
 	#Multiplies max durability by this value. If the result would be zero, a value of 1 is assigned.
-	# Default: 0.05
-	# Range: 0.0 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	durabilityMultiplier = 0.05
 	#Multiplies harvest speed by this value.
-	# Default: 0.5
-	# Range: 0.0 ~ 1.0
+	#Range: 0.0 ~ 1.0
 	harvestSpeedMultiplier = 0.5
 	#These items will have reduced durability
 	items = ["diamond_axe", "iron_axe", "golden_axe", "stone_axe", "wooden_axe", "diamond_hoe", "iron_hoe", "golden_hoe", "stone_hoe", "wooden_hoe", "diamond_pickaxe", "iron_pickaxe", "golden_pickaxe", "stone_pickaxe", "wooden_pickaxe", "diamond_shovel", "iron_shovel", "golden_shovel", "stone_shovel", "wooden_shovel", "diamond_sword", "iron_sword", "golden_sword", "stone_sword", "wooden_sword"]
@@ -81,8 +68,7 @@
 	sendBrokenMessage = true
 	#How frequently gear will recalcute stats as damaged
 	#Higher numbers will cause more recalculations, allowing traits to update stat values more often
-	# Default: 10
-	# Range: > 1
+	#Range: > 1
 	damageFactorLevels = 10
 	#If true, gear breaks permanently, like vanilla tools and armor
 	breaksPermanently = false
@@ -98,15 +84,13 @@
 
 	[gear.prospector_hammer]
 		#The range in blocks the prospector hammer will search for blocks of interest
-		# Default: 16
-		# Range: 0 ~ 64
+		#Range: 0 ~ 64
 		range = 16
 
 	[gear.saw]
 		#Caps how far the saw can look for blocks when chopping down trees. Try decreasing this if you get stack overflow exceptions.
 		#Increasing this value is allowed, but not recommended unless you know what you are doing.
-		# Default: 200
-		# Range: > 0
+		#Range: > 0
 		recursionDepth = 200
 
 	#Settings for AOE tools (hammer, excavator)
@@ -126,12 +110,10 @@
 
 	[gear.repairs]
 		#Effectiveness of gear repairs done in an anvil. Set to 0 to disable anvil repairs.
-		# Default: 0.5
-		# Range: 0.0 ~ 1.0
+		#Range: 0.0 ~ 1.0
 		anvilEffectiveness = 0.5
 		#DEPRECATED! Use repair kit configs instead.
-		# Default: 0.35
-		# Range: 0.0 ~ 1.0
+		#Range: 0.0 ~ 1.0
 		quickEffectiveness = 0.35
 
 	[gear.upgrades]
@@ -151,8 +133,7 @@
 	#Grades are normally distributed, with the median grade being at the center of the bell curve.
 	#Larger numbers will make both higher and lower grades more common.
 	#Extremely large values may completely break the curve, yielding mostly the lowest and highest grades.
-	# Default: 1.5
-	# Range: 0.0 ~ 100.0
+	#Range: 0.0 ~ 100.0
 	standardDeviation = 1.5
 
 #Settings for the salvager
@@ -161,24 +142,20 @@
 	[salvager.partLossRate]
 		#Minimum rate of part loss when salvaging items. 0 = no loss, 1 = complete loss.
 		#Rate depends on remaining durability.
-		# Default: 0.0
-		# Range: 0.0 ~ 1.0
+		#Range: 0.0 ~ 1.0
 		min = 0.0
 		#Maximum rate of part loss when salvaging items. 0 = no loss, 1 = complete loss.
 		#Rate depends on remaining durability.
-		# Default: 0.5
-		# Range: 0.0 ~ 1.0
+		#Range: 0.0 ~ 1.0
 		max = 0.5
 
 #Settings for the starlight charger
 [starlightCharger]
 	#The rate at which the starlight charger gathers energy during the night
-	# Default: 50
-	# Range: > 0
+	#Range: > 0
 	chargeRate = 50
 	#The maximum amount of energy the starlight charger can store
-	# Default: 1000000
-	# Range: > 0
+	#Range: > 0
 	maxCharge = 1000000
 
 	[debug.logging]

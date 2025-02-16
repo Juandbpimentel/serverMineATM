@@ -6,11 +6,26 @@
 	loot_size: 1
 	order_index: 5
 	rewards: [
-		{ item: { count: 1, id: "minecraft:dragon_egg" }, weight: 2.0f }
-		{ item: { count: 1, id: "minecraft:dragon_head" } }
-		{ item: { count: 1, id: "ironfurnaces:diamond_furnace" }, weight: 3.0f }
-		{ item: { count: 1, id: "ironfurnaces:emerald_furnace" } }
 		{
+			id: "674A7CD75DB76B71"
+			item: {
+				count: 1
+				id: "minecraft:dragon_egg"
+			}
+			weight: 2.0f
+		}
+		{ id: "4CE4D60F2E580128", item: { count: 1, id: "minecraft:dragon_head" } }
+		{
+			id: "5A140BAA10D02119"
+			item: {
+				count: 1
+				id: "ironfurnaces:diamond_furnace"
+			}
+			weight: 3.0f
+		}
+		{ id: "460AD2D815DFE949", item: { count: 1, id: "ironfurnaces:emerald_furnace" } }
+		{
+			id: "764D5397D94497FB"
 			item: {
 				count: 1
 				id: "alltheores:enderium_ingot"
@@ -20,6 +35,7 @@
 		}
 		{
 			count: 8
+			id: "48B53B3F8CCF1F83"
 			item: {
 				count: 1
 				id: "mekanism:ultimate_universal_cable"
@@ -29,6 +45,7 @@
 		}
 		{
 			count: 4
+			id: "075360DB071F915B"
 			item: {
 				count: 1
 				id: "mekanism:ingot_refined_obsidian"
@@ -36,8 +53,16 @@
 			random_bonus: 4
 			weight: 5.0f
 		}
-		{ item: { count: 1, id: "minecraft:beacon" }, weight: 2.0f }
 		{
+			id: "0A6BC3B6FF52D55F"
+			item: {
+				count: 1
+				id: "minecraft:beacon"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "31C8DC97FA61B12A"
 			item: {
 				count: 1
 				id: "minecraft:nether_star"
@@ -45,12 +70,19 @@
 			random_bonus: 2
 			weight: 2.0f
 		}
-		{ item: { count: 1, id: "mininggadgets:mininggadget_simple" }, weight: 2.0f }
-		{ item: { count: 1, id: "mininggadgets:mininggadget_fancy" } }
-		{ item: { count: 1, id: "functionalstorage:netherite_upgrade" } }
-		{ item: { count: 1, id: "pipez:ultimate_upgrade" } }
-		{ item: { count: 1, id: "mekanism:basic_fluid_tank" } }
-		{ item: { count: 1, id: "productivelib:upgrade_productivity" } }
+		{
+			id: "1395389B1B2F0B57"
+			item: {
+				count: 1
+				id: "mininggadgets:mininggadget_simple"
+			}
+			weight: 2.0f
+		}
+		{ id: "4BF52A708E23B4EF", item: { count: 1, id: "mininggadgets:mininggadget_fancy" } }
+		{ id: "36A946011FDF301F", item: { count: 1, id: "functionalstorage:netherite_upgrade" } }
+		{ id: "516B360A61BE028A", item: { count: 1, id: "pipez:ultimate_upgrade" } }
+		{ id: "5B1ED64087EDF781", item: { count: 1, id: "mekanism:basic_fluid_tank" } }
+		{ id: "12050D9982B07C06", item: { count: 1, id: "productivelib:upgrade_productivity" } }
 	]
 	use_title: true
 }

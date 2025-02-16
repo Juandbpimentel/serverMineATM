@@ -1,13 +1,41 @@
 {
 	id: "611A165B35847A5A"
 	loot_size: 1
-	order_index: 31
+	order_index: 33
 	rewards: [
-		{ count: 5, item: { count: 1, id: "the_bumblezone:bee_stinger" } }
-		{ count: 4, item: { count: 1, id: "minecraft:honey_bottle" } }
-		{ count: 10, item: { count: 1, id: "the_bumblezone:honey_crystal_shards" } }
-		{ item: { count: 1, id: "the_bumblezone:honeycomb_brood_block" } }
-		{ item: { count: 1, id: "the_bumblezone:royal_jelly_bottle" }, weight: 0.05f }
+		{
+			count: 5
+			id: "667A2304731FE822"
+			item: {
+				count: 1
+				id: "the_bumblezone:bee_stinger"
+			}
+		}
+		{
+			count: 4
+			id: "0FBE0CCFEB02269C"
+			item: {
+				count: 1
+				id: "minecraft:honey_bottle"
+			}
+		}
+		{
+			count: 10
+			id: "42E11BAA1B27BE9E"
+			item: {
+				count: 1
+				id: "the_bumblezone:honey_crystal_shards"
+			}
+		}
+		{ id: "7E82613C6CC73D6C", item: { count: 1, id: "the_bumblezone:honeycomb_brood_block" } }
+		{
+			id: "1FFD6C6BFBECC021"
+			item: {
+				count: 1
+				id: "the_bumblezone:royal_jelly_bottle"
+			}
+			weight: 0.05f
+		}
 	]
 	use_title: true
 }

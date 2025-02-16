@@ -11,6 +11,8 @@
 	# Default: 16
 	# Range: 2 ~ 4096
 	oversize_interface_multiplier = 16
+	#Set multiplier for specific AEKeyType in oversize interface
+	custom_oversize_interface_multiplier = ["appbot:mana 2", "appflux:flux 4"]
 	#Allow Crystal Assembler to do processor inscriber recipes
 	enable_crystal_assembler_inscribe_processors = true
 	#The max size of Assembler Matrix

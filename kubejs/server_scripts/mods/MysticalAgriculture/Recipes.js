@@ -51,6 +51,12 @@ ServerEvents.recipes(allthemods => {
         A: 'mysticalagriculture:nether_essence'
     }).id('allthemods:essence/minecraft/warped_wart_block')
 
+    // Moss Blocks
+    allthemods.shaped('8x minecraft:moss_block', ['NNN', 'NDN', 'NNN'],{
+        N: 'mysticalagriculture:nature_essence',
+        D: 'mysticalagriculture:dirt_essence'
+    }).id('allthemods:essence/minecraft/moss_block')
+
     // Shroomlights
     allthemods.shaped('6x minecraft:shroomlight', ['AGA', 'GAG', 'AGA'],{
         A: 'mysticalagriculture:nether_essence',
@@ -155,6 +161,28 @@ ServerEvents.recipes(allthemods => {
         A: 'mysticalagriculture:unexplored_wood_essence'
     }).id('allthemods:essence/regions_unexplored/willow_log')
 
+    //Xychorium Gems
+    allthemods.shaped('5x xycraft_world:xychorium_gem_light',
+        ['XX ',
+         'X  ',
+         '   '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_light').noMirror()
+    allthemods.shaped('5x xycraft_world:xychorium_gem_dark',
+        [' XX',
+         '  X',
+         '   '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_dark').noMirror()
+    allthemods.shaped('5x xycraft_world:xychorium_gem_red',
+        ['   ',
+         'X  ',
+         'XX '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_red').noMirror()
+    allthemods.shaped('5x xycraft_world:xychorium_gem_green',
+        ['   ',
+         '  X',
+         ' XX'],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_green').noMirror()
+    allthemods.shaped('5x xycraft_world:xychorium_gem_blue',
+        [' X ',
+         ' X ',
+         ' X '],{X: 'mysticalagriculture:xychorium_gem_essence'}).id('allthemods:essence/xycraft/gem_blue').noMirror()
+
     function addInfustion(seed, item, essence) {
         allthemods.custom(
             {
@@ -197,6 +225,19 @@ ServerEvents.recipes(allthemods => {
 
     //addInfustion('mysticalagriculture:silicon_seeds', 'ae2:silicon', 'mysticalagriculture:prudentium_essence')
     //addInfustion('mysticalagriculture:steel_seeds', 'alltheores:steel_ingot', 'mysticalagriculture:imperium_essence')
+
+    allthemods.custom(
+        {
+            type: "mysticalagriculture:soul_extraction",
+            input: {
+              tag: "c:foods/raw_fish"
+            },
+            result: {
+              type: "mysticalagriculture:fish",
+              souls: 0.5
+            }
+        })
+
 })
 
 // This File has been authored by AllTheMods Staff, or a Community contributor for use in AllTheMods - AllTheMods 10.

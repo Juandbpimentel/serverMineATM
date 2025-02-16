@@ -1,20 +1,35 @@
 {
 	id: "43C220CBD5447FE6"
 	loot_size: 1
-	order_index: 23
+	order_index: 25
 	rewards: [
-		{ item: { count: 1, id: "pneumaticcraft:unassembled_pcb" } }
-		{ item: { count: 1, id: "pneumaticcraft:printed_circuit_board" }, weight: 0.5f }
-		{ item: { count: 1, id: "pneumaticcraft:failed_pcb" } }
-		{ item: { count: 1, id: "pneumaticcraft:micromissiles" }, weight: 0.5f }
-		{ item: { count: 1, id: "pneumaticcraft:drone" } }
-		{ item: { count: 1, id: "pneumaticcraft:drone_interface" } }
-		{ item: { count: 1, id: "pneumaticcraft:programmer" } }
-		{ item: { count: 1, id: "pneumaticcraft:security_station" } }
-		{ item: { count: 1, id: "pneumaticcraft:smart_chest" } }
-		{ item: { count: 1, id: "pneumaticcraft:smart_chest_kit" } }
+		{ id: "0CE684B30ED28BB5", item: { count: 1, id: "pneumaticcraft:unassembled_pcb" } }
+		{
+			id: "14557E8CEE7D2A73"
+			item: {
+				count: 1
+				id: "pneumaticcraft:printed_circuit_board"
+			}
+			weight: 0.5f
+		}
+		{ id: "7263504E18892056", item: { count: 1, id: "pneumaticcraft:failed_pcb" } }
+		{
+			id: "3CE3A4288DD7D4BC"
+			item: {
+				count: 1
+				id: "pneumaticcraft:micromissiles"
+			}
+			weight: 0.5f
+		}
+		{ id: "2B8888ED7FCACA76", item: { count: 1, id: "pneumaticcraft:drone" } }
+		{ id: "46E023A4A220043C", item: { count: 1, id: "pneumaticcraft:drone_interface" } }
+		{ id: "28457DE997B08009", item: { count: 1, id: "pneumaticcraft:programmer" } }
+		{ id: "386F9592ADF1A147", item: { count: 1, id: "pneumaticcraft:security_station" } }
+		{ id: "4C63C0EAE97B65F7", item: { count: 1, id: "pneumaticcraft:smart_chest" } }
+		{ id: "7CC8C522BA7C723F", item: { count: 1, id: "pneumaticcraft:smart_chest_kit" } }
 		{
 			count: 4
+			id: "6DFE1CA2DD342003"
 			item: {
 				count: 1
 				id: "pneumaticcraft:programming_puzzle"

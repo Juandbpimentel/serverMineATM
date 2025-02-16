@@ -164,7 +164,7 @@
 		# Range: -1.0E7 ~ 1.0E7
 		EQUIVALENT_DISPLACEMENT_MAX_DISTANCE = -1.0
 		#This is the cooldown between teleports (so you don't get shot back and forth rapidly)
-		# Default: 15
+		# Default: 40
 		# Range: 0 ~ 100000000
 		EQUIVALENT_DISPLACEMENT_RECEIVE_COOLDOWN = 15
 		#This is the cost per teleport
@@ -1741,3 +1741,7 @@
 	# Default: 1.0
 	# Range: 0.0 ~ 10.0
 	SMITE_VOLUME = 1.0
+
+[integration]
+	#Whether Apotheosis gems are explicitly considered in Caliburn creation
+	POWER_CONSOLIDATION_UNSOCKETS_APOTH_GEMS = true

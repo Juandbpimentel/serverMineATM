@@ -1,14 +1,43 @@
 {
 	id: "04285B94275AB879"
 	loot_size: 1
-	order_index: 9
+	order_index: 10
 	rewards: [
-		{ item: { count: 1, id: "powah:energizing_rod_starter" }, weight: 25.0f }
-		{ item: { count: 1, id: "powah:energizing_rod_basic" }, weight: 25.0f }
-		{ item: { count: 1, id: "powah:energizing_rod_hardened" }, weight: 5.0f }
-		{ item: { count: 1, id: "powah:energizing_rod_blazing" } }
-		{ item: { count: 1, id: "powah:energy_cable_starter" }, weight: 25.0f }
 		{
+			id: "795CC7ED45466565"
+			item: {
+				count: 1
+				id: "powah:energizing_rod_starter"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "270D969BDD9F66DA"
+			item: {
+				count: 1
+				id: "powah:energizing_rod_basic"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "0037508FC9870ABD"
+			item: {
+				count: 1
+				id: "powah:energizing_rod_hardened"
+			}
+			weight: 5.0f
+		}
+		{ id: "4879D0ECD48CABC9", item: { count: 1, id: "powah:energizing_rod_blazing" } }
+		{
+			id: "332D782006E39D72"
+			item: {
+				count: 1
+				id: "powah:energy_cable_starter"
+			}
+			weight: 25.0f
+		}
+		{
+			id: "1442429ABB4C6ED3"
 			item: {
 				count: 1
 				id: "powah:energy_cable_basic"
@@ -17,6 +46,7 @@
 			weight: 25.0f
 		}
 		{
+			id: "650B4CE161BC500E"
 			item: {
 				count: 1
 				id: "powah:energy_cable_hardened"
@@ -24,7 +54,14 @@
 			random_bonus: 2
 			weight: 5.0f
 		}
-		{ item: { count: 1, id: "powah:energy_cable_blazing" }, random_bonus: 2 }
+		{
+			id: "493DB52C405A4FC4"
+			item: {
+				count: 1
+				id: "powah:energy_cable_blazing"
+			}
+			random_bonus: 2
+		}
 	]
 	use_title: true
 }

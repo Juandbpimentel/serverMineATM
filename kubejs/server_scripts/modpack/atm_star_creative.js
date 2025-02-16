@@ -47,13 +47,13 @@ ServerEvents.recipes(allthemods => {
                 keepNbtOfReagent: false,
                 pedestalItems: [
                     Ingredient.of('ars_nouveau:source_gem_block').toJson(),
-                    Ingredient.of('ars_nouveau:source_jar[ars_nouveau:block_fill_contents=10000]').toJson(),
+                    Ingredient.of('allthemodium:allthemodium_source_jar[ars_nouveau:block_fill_contents=100000]').toJson(),
                     Ingredient.of('ars_nouveau:source_gem_block').toJson(),
-                    Ingredient.of('ars_nouveau:source_jar[ars_nouveau:block_fill_contents=10000]').toJson(),
+                    Ingredient.of('allthemodium:allthemodium_source_jar[ars_nouveau:block_fill_contents=100000]').toJson(),
                     Ingredient.of('ars_nouveau:source_gem_block').toJson(),
-                    Ingredient.of('ars_nouveau:source_jar[ars_nouveau:block_fill_contents=10000]').toJson(),
+                    Ingredient.of('allthemodium:allthemodium_source_jar[ars_nouveau:block_fill_contents=100000]').toJson(),
                     Ingredient.of('ars_nouveau:source_gem_block').toJson(),
-                    Ingredient.of('ars_nouveau:source_jar[ars_nouveau:block_fill_contents=10000]').toJson()
+                    Ingredient.of('allthemodium:allthemodium_source_jar[ars_nouveau:block_fill_contents=100000]').toJson()
                 ],
                 reagent: [
                     Ingredient.of('allthetweaks:atm_star').toJson()
@@ -164,6 +164,32 @@ ServerEvents.recipes(allthemods => {
         ).id('allthemods:ironjetpacks_creative_jetpack')
 
     //Mekanism
+
+        allthemods.recipes.kubejs.shaped('mekanism:creative_chemical_tank',
+            [
+                'TUT',
+                'USU',
+                'TUT'
+            ],
+            {
+                T: 'mekanism:ultimate_chemical_tank',
+                U: 'allthemodium:unobtainium_ingot',
+                S: 'allthetweaks:atm_star_block',
+            }
+        ).id('allthemods:mekanism/creative_chemical_tank')
+
+        allthemods.recipes.kubejs.shaped('mekanism:creative_fluid_tank',
+            [
+                'TUT',
+                'USU',
+                'TUT'
+            ],
+            {
+                T: 'mekanism:ultimate_fluid_tank',
+                U: 'allthemodium:unobtainium_ingot',
+                S: 'allthetweaks:atm_star_block',
+            }
+        ).id('allthemods:mekanism/creative_fluid_tank')
 
         allthemods.recipes.kubejs.shaped('mekanism:creative_energy_cube',
             [

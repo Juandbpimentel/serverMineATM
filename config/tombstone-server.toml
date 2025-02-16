@@ -15,10 +15,6 @@
 
 #Allows to customize or disable the enchantments
 [enchantments]
-	#Allows Plague Bringer to combine with Magic Siphon [false/true|default:false]
-	plague_bringer_combining_magic_siphon = false
-	#Allows Frostbite to combine with Fire Aspect [false/true|default:false]
-	frostbite_combining_fire_aspect = true
 	#Allows Soulbound at enchanting table [false/true|default:false]
 	soulbound_enchanting_table = true
 	#Allows Spectral Bite at enchanting table [false/true|default:false]
@@ -35,6 +31,14 @@
 	frostbite_enchanting_table = true
 	#Allows Spectral Conjurer at enchanting table [false/true|default:false]
 	spectral_conjurer_enchanting_table = true
+	#Allows Incurable Wounds at enchanting table [false/true|default:false]
+	incurable_wounds_enchanting_table = true
+	#Allows Decrepitude at enchanting table [false/true|default:false]
+	decrepitude_enchanting_table = true
+	#Allows Sanctified at enchanting table [false/true|default:false]
+	sanctified_enchanting_table = true
+	#Allows Ruthless Strike at enchanting table [false/true|default:false]
+	ruthless_strike_enchanting_table = true
 
 #Allows to customize or disable the potions
 [potions]
@@ -129,6 +133,12 @@
 	# Default: 120
 	# Range: 20 ~ 1440
 	cooldown_reset_perk = 120
+	#Allows the perk Priest [false/true|default:true]
+	allow_priest = true
+	#Defines the level max of the perk Priest [1..5|default:5]
+	# Default: 5
+	# Range: 1 ~ 5
+	level_max_priest = 5
 
 #For settings related to magic items
 [magic_item]
@@ -144,10 +154,6 @@
 	# Default: 0
 	# Range: 0 ~ 90
 	scroll_of_knowledge_loss = 0
-	#Maximum uses of a tablet [1..10|default:3]
-	# Default: 3
-	# Range: 1 ~ 10
-	tablet_max_use = 3
 	#Cooldown in second after using a tablet [60..1200|default:300]
 	# Default: 300
 	# Range: 60 ~ 1200
@@ -242,3 +248,5 @@
 	allow_gemstone_of_prayer = true
 	#Gemstone of Guardian [false/true|default:true]
 	allow_gemstone_of_guardian = true
+	#Scroll of Projectile Reflection [false/true|default:true]
+	allow_scroll_of_projectile_reflection = true

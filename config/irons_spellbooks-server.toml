@@ -265,7 +265,7 @@
 		MinRarity = "COMMON"
 		ManaCostMultiplier = 1.0
 		SpellPowerMultiplier = 1.0
-		CooldownInSeconds = 35.0
+		CooldownInSeconds = 90.0
 		AllowCrafting = true
 
 	[Spells."irons_spellbooks:spider_aspect"]

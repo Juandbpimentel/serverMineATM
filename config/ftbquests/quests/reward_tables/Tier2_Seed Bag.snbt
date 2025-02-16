@@ -1,21 +1,106 @@
 {
 	id: "21B1896C13F84C09"
 	loot_size: 1
-	order_index: 22
+	order_index: 24
 	rewards: [
-		{ item: { count: 1, id: "mysticalagriculture:nether_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:nature_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:honey_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:coral_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:dye_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:coal_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:kivi_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:silicon_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:amethyst_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:sulfur_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:aluminum_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:menril_seeds" }, weight: 2.0f }
 		{
+			id: "40B4DBBF18A82DB7"
+			item: {
+				count: 1
+				id: "mysticalagriculture:nether_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "4BE7BF56B0815183"
+			item: {
+				count: 1
+				id: "mysticalagriculture:nature_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5467BA0216745540"
+			item: {
+				count: 1
+				id: "mysticalagriculture:honey_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7FF4274E1756B383"
+			item: {
+				count: 1
+				id: "mysticalagriculture:coral_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "17C3206A540E6F5C"
+			item: {
+				count: 1
+				id: "mysticalagriculture:dye_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "32513ED3F07CBD5A"
+			item: {
+				count: 1
+				id: "mysticalagriculture:coal_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "028326C53279D92D"
+			item: {
+				count: 1
+				id: "mysticalagriculture:kivi_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "7C102E2717242A4F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:silicon_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "623EA15668A52593"
+			item: {
+				count: 1
+				id: "mysticalagriculture:amethyst_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "772FB4397D7D6335"
+			item: {
+				count: 1
+				id: "mysticalagriculture:sulfur_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "28806E97A10A3C0F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:aluminum_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6C69F0B321E9706B"
+			item: {
+				count: 1
+				id: "mysticalagriculture:menril_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "0BFBAE6C14DF5561"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prudentium_block"
@@ -25,6 +110,7 @@
 		}
 		{
 			count: 4
+			id: "287AD3344FBBF440"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prudentium_essence"
@@ -32,8 +118,16 @@
 			random_bonus: 4
 			weight: 5.0f
 		}
-		{ item: { count: 1, id: "mysticalagriculture:prudentium_farmland" }, weight: 5.0f }
 		{
+			id: "4603764589778724"
+			item: {
+				count: 1
+				id: "mysticalagriculture:prudentium_farmland"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "78EE190D6EA7EB23"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prudentium_ingot"
@@ -42,6 +136,7 @@
 			weight: 6.0f
 		}
 		{
+			id: "3AAEB27944DC3DA5"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prudentium_gemstone"
@@ -50,6 +145,7 @@
 			weight: 4.0f
 		}
 		{
+			id: "4269F2E4BDF10B40"
 			item: {
 				count: 1
 				id: "mysticalagriculture:prudentium_growth_accelerator"
@@ -57,11 +153,40 @@
 			random_bonus: 2
 			weight: 3.0f
 		}
-		{ item: { count: 1, id: "mysticalagriculture:pig_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:cow_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:sheep_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:chicken_seeds" }, weight: 2.0f }
 		{
+			id: "2978C4C44E286B97"
+			item: {
+				count: 1
+				id: "mysticalagriculture:pig_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "29DF27AD89154DF8"
+			item: {
+				count: 1
+				id: "mysticalagriculture:cow_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "60A14F6669821E45"
+			item: {
+				count: 1
+				id: "mysticalagriculture:sheep_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "1AC8F7C000769D0F"
+			item: {
+				count: 1
+				id: "mysticalagriculture:chicken_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "014B3832B22FB6B4"
 			item: {
 				count: 1
 				id: "mysticalagriculture:slime_seeds"
@@ -69,12 +194,54 @@
 			random_bonus: 2
 			weight: 2.0f
 		}
-		{ item: { count: 1, id: "mysticalagriculture:armadillo_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:turtle_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:squid_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:fish_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:unexplored_wood_seeds" }, weight: 2.0f }
-		{ item: { count: 1, id: "mysticalagriculture:grains_of_infinity_seeds" }, weight: 2.0f }
+		{
+			id: "1C14664F937B04C3"
+			item: {
+				count: 1
+				id: "mysticalagriculture:armadillo_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "30FC4853EF476871"
+			item: {
+				count: 1
+				id: "mysticalagriculture:turtle_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "42504BFDC13F321B"
+			item: {
+				count: 1
+				id: "mysticalagriculture:squid_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "0AB16DB2C4E34608"
+			item: {
+				count: 1
+				id: "mysticalagriculture:fish_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "106DCE736FA7E15A"
+			item: {
+				count: 1
+				id: "mysticalagriculture:unexplored_wood_seeds"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "03373A43C88E4C45"
+			item: {
+				count: 1
+				id: "mysticalagriculture:grains_of_infinity_seeds"
+			}
+			weight: 2.0f
+		}
 	]
 	use_title: true
 }

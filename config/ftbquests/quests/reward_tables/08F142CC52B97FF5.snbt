@@ -1,10 +1,11 @@
 {
 	id: "08F142CC52B97FF5"
 	loot_size: 1
-	order_index: 40
+	order_index: 42
 	rewards: [
 		{
 			count: 2
+			id: "295CD2C7E72083D7"
 			item: {
 				count: 1
 				id: "twilightforest:steeleaf_ingot"
@@ -14,6 +15,7 @@
 		}
 		{
 			count: 2
+			id: "74F210F66CBD4BFC"
 			item: {
 				count: 1
 				id: "twilightforest:knightmetal_ingot"
@@ -23,6 +25,7 @@
 		}
 		{
 			count: 2
+			id: "4A1DF873C6ABB0C4"
 			item: {
 				count: 1
 				id: "twilightforest:raw_ironwood"
@@ -31,6 +34,7 @@
 		}
 		{
 			count: 2
+			id: "205B6FF0E536CD94"
 			item: {
 				count: 1
 				id: "twilightforest:ironwood_ingot"
@@ -40,6 +44,7 @@
 		}
 		{
 			count: 2
+			id: "382CE42E64F97942"
 			item: {
 				count: 1
 				id: "twilightforest:fiery_blood"
@@ -49,6 +54,7 @@
 		}
 		{
 			count: 2
+			id: "6B1793499ED4ADCA"
 			item: {
 				count: 1
 				id: "twilightforest:hydra_chop"
@@ -58,6 +64,7 @@
 		}
 		{
 			count: 5
+			id: "1C7A851207F914DA"
 			item: {
 				count: 1
 				id: "twilightforest:raw_venison"
@@ -66,6 +73,7 @@
 		}
 		{
 			count: 5
+			id: "3523CF208DB3998F"
 			item: {
 				count: 1
 				id: "twilightforest:cooked_venison"
@@ -73,6 +81,7 @@
 			random_bonus: 5
 		}
 		{
+			id: "5E539325D749B0AC"
 			item: {
 				count: 1
 				id: "twilightforest:charm_of_life_1"
@@ -81,6 +90,7 @@
 			weight: 0.5f
 		}
 		{
+			id: "4859C0A18CB21516"
 			item: {
 				count: 1
 				id: "twilightforest:charm_of_keeping_1"
@@ -88,9 +98,17 @@
 			random_bonus: 1
 			weight: 0.3f
 		}
-		{ item: { count: 1, id: "twilightforest:ore_magnet" }, weight: 0.1f }
+		{
+			id: "6CD1BB11264DCF24"
+			item: {
+				count: 1
+				id: "twilightforest:ore_magnet"
+			}
+			weight: 0.1f
+		}
 		{
 			count: 3
+			id: "4945363EE4B285B5"
 			item: {
 				count: 1
 				id: "twilightforest:reappearing_block"
@@ -100,6 +118,7 @@
 		}
 		{
 			count: 2
+			id: "1AC16F5611C75718"
 			item: {
 				count: 1
 				id: "twilightforest:transformation_powder"
@@ -109,6 +128,7 @@
 		}
 		{
 			count: 4
+			id: "0B4495B59875BA7B"
 			item: {
 				count: 1
 				id: "twilightforest:cicada"
@@ -116,12 +136,55 @@
 			random_bonus: 4
 			weight: 0.5f
 		}
-		{ item: { components: { "minecraft:enchantments": { levels: { "minecraft:knockback": 1 } } }, count: 1, id: "twilightforest:ironwood_sword" }, weight: 0.2f }
-		{ item: { components: { "minecraft:enchantments": { levels: { "minecraft:looting": 2 } } }, count: 1, id: "twilightforest:steeleaf_sword" }, weight: 0.1f }
-		{ item: { count: 1, id: "twilightforest:boar_spawn_egg" }, weight: 0.25f }
-		{ item: { count: 1, id: "twilightforest:deer_spawn_egg" }, weight: 0.25f }
+		{
+			id: "3914AE36022DB484"
+			item: {
+				components: {
+					"minecraft:enchantments": {
+						levels: {
+							"minecraft:knockback": 1
+						}
+					}
+				}
+				count: 1
+				id: "twilightforest:ironwood_sword"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "4FD136D210E90D0F"
+			item: {
+				components: {
+					"minecraft:enchantments": {
+						levels: {
+							"minecraft:looting": 2
+						}
+					}
+				}
+				count: 1
+				id: "twilightforest:steeleaf_sword"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "73A550DC38A79524"
+			item: {
+				count: 1
+				id: "twilightforest:boar_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "2C1F5F73763DAD01"
+			item: {
+				count: 1
+				id: "twilightforest:deer_spawn_egg"
+			}
+			weight: 0.25f
+		}
 		{
 			count: 2
+			id: "52FEB3034EFD3242"
 			item: {
 				count: 1
 				id: "twilightforest:raven_feather"
@@ -129,9 +192,37 @@
 			random_bonus: 1
 			weight: 0.5f
 		}
-		{ item: { count: 1, id: "twilightforest:penguin_spawn_egg" }, weight: 0.25f }
-		{ item: { count: 1, id: "twilightforest:raven_spawn_egg" }, weight: 0.25f }
-		{ item: { count: 1, id: "twilightforest:squirrel_spawn_egg" }, weight: 0.25f }
-		{ item: { count: 1, id: "twilightforest:tiny_bird_spawn_egg" }, weight: 0.25f }
+		{
+			id: "0E4D5490D5B1B79C"
+			item: {
+				count: 1
+				id: "twilightforest:penguin_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "1E1093A7D63F0501"
+			item: {
+				count: 1
+				id: "twilightforest:raven_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "6F12B132EAA6B6C1"
+			item: {
+				count: 1
+				id: "twilightforest:squirrel_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "16FAEE20A9F1C00A"
+			item: {
+				count: 1
+				id: "twilightforest:tiny_bird_spawn_egg"
+			}
+			weight: 0.25f
+		}
 	]
 }

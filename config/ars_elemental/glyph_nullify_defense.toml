@@ -1,7 +1,7 @@
 #General settings
 [general]
 	#Is Enabled?
-	enabled = false
+	enabled = true
 	#Cost
 	# Default: 1000
 	# Range: > -2147483648

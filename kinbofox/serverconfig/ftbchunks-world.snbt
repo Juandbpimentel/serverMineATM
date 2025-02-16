@@ -85,6 +85,11 @@
 		# Valid values: "largest", "owner", "sum", "average"
 		party_limit_mode: "largest"
 	}
+	dev: {
+		# Enable dev commands
+		# Default: false
+		commands: false
+	}
 	fake_players: {
 		# Override to disable/enable fake players like miners and auto-clickers globally.
 		# Default will check this setting for each team

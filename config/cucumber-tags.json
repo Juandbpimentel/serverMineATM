@@ -1,7 +1,6 @@
 {
   "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
   "c:dusts/niter": "immersiveengineering:dust_saltpeter",
-  "c:gems/sapphire": "alltheores:sapphire",
   "c:ingots/graphite": "bigreactors:graphite_ingot",
   "c:rubbers": "null",
   "c:gems/apatite": "null",
