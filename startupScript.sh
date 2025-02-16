@@ -34,7 +34,7 @@ fi
 
 # Iniciar o servidor usando screen no contexto do usuário kinbofox
 echo "Iniciando o servidor dentro de uma sessão screen chamada 'mcs'..."
-su - kinbofox -c "cd '$SERVER_DIR' && screen -d -m -S mcs ./start.sh"
+su - kinbofox -c "cd '$SERVER_DIR' && screen -d -m -S mcs ./startserver.sh"
 
 # Verificar se a sessão screen foi iniciada
 if screen -list | grep -q "mcs"; then
