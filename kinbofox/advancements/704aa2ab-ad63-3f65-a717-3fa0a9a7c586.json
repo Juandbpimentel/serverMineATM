@@ -92,7 +92,9 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
-      "biomeswevegone:windswept_desert": "2025-02-13 18:54:47 +0000"
+      "biomeswevegone:atacama_outback": "2025-02-16 23:16:23 +0000",
+      "biomeswevegone:windswept_desert": "2025-02-13 18:54:47 +0000",
+      "biomeswevegone:dead_sea": "2025-02-16 22:20:22 +0000"
     },
     "done": false
   },
@@ -205,7 +207,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-02-16 23:19:30 +0000",
+      "minecraft:beach": "2025-02-16 23:59:31 +0000",
       "minecraft:desert": "2025-02-13 23:49:53 +0000",
+      "minecraft:river": "2025-02-16 23:17:13 +0000",
+      "minecraft:wooded_badlands": "2025-02-16 23:16:46 +0000",
       "minecraft:warm_ocean": "2025-02-13 23:40:13 +0000"
     },
     "done": false
@@ -345,7 +351,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-13 23:50:49 +0000"
+      "minecraft:pillager": "2025-02-17 00:17:08 +0000",
+      "minecraft:skeleton": "2025-02-13 23:50:49 +0000",
+      "minecraft:spider": "2025-02-16 23:49:37 +0000",
+      "minecraft:zombie": "2025-02-16 23:24:04 +0000",
+      "minecraft:husk": "2025-02-16 23:49:48 +0000"
     },
     "done": false
   },
@@ -369,7 +379,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-02-13 23:52:54 +0000"
+      "apple": "2025-02-16 22:16:30 +0000",
+      "bread": "2025-02-13 23:52:54 +0000",
+      "cookie": "2025-02-16 23:43:32 +0000",
+      "cooked_cod": "2025-02-16 23:27:00 +0000",
+      "melon_slice": "2025-02-16 23:47:51 +0000"
     },
     "done": false
   },
@@ -388,6 +402,166 @@
   "naturesaura:root": {
     "criteria": {
       "book": "2025-02-16 17:43:09 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-16 22:12:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-16 22:12:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_rainforest": "2025-02-16 23:38:09 +0000",
+      "joshua_desert": "2025-02-17 00:05:38 +0000",
+      "rocky_reef": "2025-02-16 22:23:37 +0000",
+      "chalk_cliffs": "2025-02-17 00:19:46 +0000",
+      "rainforest": "2025-02-16 23:19:57 +0000",
+      "tropical_river": "2025-02-16 23:43:15 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_rainforest": "2025-02-16 23:38:09 +0000",
+      "joshua_desert": "2025-02-17 00:05:38 +0000",
+      "rocky_reef": "2025-02-16 22:23:37 +0000",
+      "chalk_cliffs": "2025-02-17 00:19:46 +0000",
+      "rainforest": "2025-02-16 23:19:57 +0000",
+      "tropical_river": "2025-02-16 23:43:15 +0000"
+    },
+    "done": false
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2025-02-16 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 22:27:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 22:30:45 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-02-16 22:36:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "palm_log": "2025-02-16 22:40:34 +0000"
+    },
+    "done": false
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-02-16 23:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 23:14:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-02-16 23:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-16 23:12:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-02-17 00:19:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-16 23:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-16 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2025-02-16 23:28:21 +0000"
+    },
+    "done": false
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-02-17 00:01:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-02-17 00:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-16 23:53:07 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-02-16 23:44:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-02-17 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/inside_quicksand": {
+    "criteria": {
+      "inside_red_quicksand": "2025-02-16 23:50:51 +0000"
     },
     "done": true
   },
