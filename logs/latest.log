@@ -1,226 +1,37 @@
-[17Feb2025 00:01:34.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Ancient Gateway]
-[17Feb2025 00:03:47.961] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
-[17Feb2025 00:04:22.465] [Worker-Main-6/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:04:22.466] [Worker-Main-6/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:04:24.027] [Worker-Main-6/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:04:24.028] [Worker-Main-6/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:04:27.108] [Worker-Main-5/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;617252372,-1332721100,-1914322941,1289992458],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:04:27.109] [Worker-Main-5/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: Failed to parse vibration listener for Allay: 'No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1071003585,-742438505,-1885935989,1040940811],type:"minecraft:entity",y_offset:0.36f}}]'
-[17Feb2025 00:05:59.008] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:05:59.009] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:05:59.010] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:05:59.010] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:05:59.012] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:05:59.013] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:05:59.070] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:05:59.071] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:05:59.071] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:05:59.072] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:06:03.693] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:06:03.693] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:06:03.694] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:06:03.695] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:06:05.810] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:06:05.811] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:06:05.812] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:06:05.812] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:06:30.480] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
-[17Feb2025 00:06:30.481] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/desert
-[17Feb2025 00:06:30.482] [Worker-Main-2/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
-[17Feb2025 00:07:10.553] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
-[17Feb2025 00:07:10.560] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/sand
-[17Feb2025 00:07:10.579] [Worker-Main-1/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/desert
-[17Feb2025 00:07:14.644] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:14.644] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:14.645] [Worker-Main-2/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.004] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.005] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.005] [Worker-Main-6/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.081] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.082] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:07:15.082] [Worker-Main-5/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
-[17Feb2025 00:13:16.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Ashes 'n Bones]
-[17Feb2025 00:14:57.301] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$autoSave$13(PersistentEntitySectionManager.java:277) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:762) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:153) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.autoSave(PersistentEntitySectionManager.java:272) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.save(ServerLevel.java:823) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveAllChunks(MinecraftServer.java:551) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:576) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:929) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 19 more
-[17Feb2025 00:14:57.357] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$autoSave$13(PersistentEntitySectionManager.java:277) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:762) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:153) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.autoSave(PersistentEntitySectionManager.java:272) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.save(ServerLevel.java:823) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveAllChunks(MinecraftServer.java:551) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:576) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:929) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 19 more
-[17Feb2025 00:17:08.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Ambush]
-[17Feb2025 00:19:13.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has reached the goal [Fortuitous Militia]
-[17Feb2025 00:19:57.289] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$autoSave$13(PersistentEntitySectionManager.java:277) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:762) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:153) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.autoSave(PersistentEntitySectionManager.java:272) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.save(ServerLevel.java:823) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveAllChunks(MinecraftServer.java:551) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:576) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:929) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 19 more
-[17Feb2025 00:19:57.347] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$autoSave$13(PersistentEntitySectionManager.java:277) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:762) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:153) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.autoSave(PersistentEntitySectionManager.java:272) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.save(ServerLevel.java:823) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveAllChunks(MinecraftServer.java:551) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.saveEverything(MinecraftServer.java:576) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:929) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 19 more
-[17Feb2025 00:23:37.336] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.processChunkUnload(PersistentEntitySectionManager.java:225) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$processUnloads$10(PersistentEntitySectionManager.java:240) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:274) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:306) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.removeIf(AbstractLongCollection.java:163) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.processUnloads(PersistentEntitySectionManager.java:240) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.tick(PersistentEntitySectionManager.java:256) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:432) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:320) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 21 more
-[17Feb2025 00:23:37.389] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.minecraft.villager has thrown an exception trying to write state. It will not persist. Report this to the mod author
-net.minecraft.ReportedException: Saving entity NBT
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1744) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveAsPassenger(Entity.java:1651) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.save(Entity.java:1658) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.lambda$storeEntities$1(EntityStorage.java:98) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1708) ~[?:?]
-	at java.base/java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.EntityStorage.storeEntities(EntityStorage.java:95) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.storeChunkSections(PersistentEntitySectionManager.java:208) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.processChunkUnload(PersistentEntitySectionManager.java:225) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.lambda$processUnloads$10(PersistentEntitySectionManager.java:240) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:274) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.LongCollection.removeIf(LongCollection.java:306) ~[fastutil-8.5.12.jar%23113!/:?]
-	at MC-BOOTSTRAP/it.unimi.dsi.fastutil@8.5.12/it.unimi.dsi.fastutil.longs.AbstractLongCollection.removeIf(AbstractLongCollection.java:163) ~[fastutil-8.5.12.jar%23113!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.processUnloads(PersistentEntitySectionManager.java:240) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.entity.PersistentEntitySectionManager.tick(PersistentEntitySectionManager.java:256) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:432) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1037) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:320) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:917) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:707) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalStateException: Item must not be minecraft:air
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar%23102!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.AbstractVillager.addAdditionalSaveData(AbstractVillager.java:168) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.npc.Villager.addAdditionalSaveData(Villager.java:508) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.entity.Entity.saveWithoutId(Entity.java:1723) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
-	... 21 more
-[17Feb2025 00:25:11.067] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height_addition'
-[17Feb2025 00:25:11.067] [Worker-Main-6/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[17Feb2025 00:29:45.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinbofox lost connection: Disconnected
-[17Feb2025 00:29:45.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox left the game
+[18Feb2025 05:00:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Feb2025 05:00:33.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Feb2025 05:00:33.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Feb2025 05:00:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Feb2025 05:00:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
+[18Feb2025 05:00:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
+[18Feb2025 05:00:34.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
+[18Feb2025 05:00:34.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
+[18Feb2025 05:00:34.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
+[18Feb2025 05:00:34.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
+[18Feb2025 05:00:34.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
+[18Feb2025 05:00:34.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
+[18Feb2025 05:00:34.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
+[18Feb2025 05:00:34.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
+[18Feb2025 05:00:34.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
+[18Feb2025 05:00:34.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
+[18Feb2025 05:00:34.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
+[18Feb2025 05:00:34.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
+[18Feb2025 05:00:34.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
+[18Feb2025 05:00:34.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Feb2025 05:00:34.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[18Feb2025 05:00:34.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[18Feb2025 05:00:34.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18Feb2025 05:00:34.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[18Feb2025 05:00:34.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Feb2025 05:00:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[18Feb2025 05:00:34.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[18Feb2025 05:00:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[18Feb2025 05:00:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[18Feb2025 05:00:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[18Feb2025 05:00:34.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[18Feb2025 05:00:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[18Feb2025 05:00:34.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Feb2025 05:00:34.109] [Server thread/INFO] [Framework/]: Unloading server configs...
+[18Feb2025 05:00:34.112] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[18Feb2025 05:00:34.118] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[18Feb2025 05:00:34.586] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
