@@ -1,38 +1,555 @@
-[19Feb2025 00:36:28.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: ServerSeekerV2 (/45.135.194.65:42024) lost connection: Disconnected
-[19Feb2025 05:00:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[19Feb2025 05:00:33.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[19Feb2025 05:00:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[19Feb2025 05:00:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[19Feb2025 05:00:33.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
-[19Feb2025 05:00:33.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
-[19Feb2025 05:00:33.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
-[19Feb2025 05:00:33.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
-[19Feb2025 05:00:33.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
-[19Feb2025 05:00:33.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
-[19Feb2025 05:00:33.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
-[19Feb2025 05:00:33.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
-[19Feb2025 05:00:33.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
-[19Feb2025 05:00:33.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
-[19Feb2025 05:00:33.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
-[19Feb2025 05:00:33.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
-[19Feb2025 05:00:33.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
-[19Feb2025 05:00:33.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
-[19Feb2025 05:00:33.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
-[19Feb2025 05:00:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
-[19Feb2025 05:00:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19Feb2025 05:00:33.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
-[19Feb2025 05:00:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[19Feb2025 05:00:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[19Feb2025 05:00:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[19Feb2025 05:00:33.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
-[19Feb2025 05:00:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[19Feb2025 05:00:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[19Feb2025 05:00:33.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[19Feb2025 05:00:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[19Feb2025 05:00:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19Feb2025 05:00:33.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[19Feb2025 05:00:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[19Feb2025 05:00:33.418] [Server thread/INFO] [Framework/]: Unloading server configs...
-[19Feb2025 05:00:33.421] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[19Feb2025 05:00:33.423] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[19Feb2025 05:00:33.700] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
+[20Feb2025 00:19:40.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ryanns19[/177.37.185.83:53466] logged in with entity id 21461 at (49.55718832494109, 59.0, -869.5269171096708)
+[20Feb2025 00:19:40.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 joined the game
+[20Feb2025 00:19:41.160] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Ryanns19} with UUID 5cea872f-6d97-36de-99da-4c81c6eb6bb2.
+[20Feb2025 00:22:01.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was blown up by Jungle Creeper
+[20Feb2025 00:22:01.369] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 00:22:10.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kinbofox: Teleported Ryanns19 to Kinbofox]
+[20Feb2025 00:22:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kinbofox: Gamerule keepInventory is now set to: true]
+[20Feb2025 00:29:08.335] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+[20Feb2025 00:29:08.336] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[20Feb2025 00:29:08.336] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.Container.getContainerSize()" because the return value of "net.neoforged.neoforge.items.wrapper.InvWrapper.getInv()" is null
+	at TRANSFORMER/neoforge@21.1.116/net.neoforged.neoforge.items.wrapper.InvWrapper.getSlots(InvWrapper.java:38) ~[neoforge-21.1.116-universal.jar%23504!/:?]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:38) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.util.JadeForgeUtils$1.getSlotCount(JadeForgeUtils.java:35) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.universal.ItemIterator$SlottedItemIterator.populate(ItemIterator.java:72) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.universal.ItemCollector.update(ItemCollector.java:67) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.universal.ItemStorageProvider$Extension.getGroups(ItemStorageProvider.java:313) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.util.CommonProxy.getServerExtensionData(CommonProxy.java:583) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.universal.ItemStorageProvider.putData(ItemStorageProvider.java:208) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.universal.ItemStorageProvider.appendServerData(ItemStorageProvider.java:243) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20Feb2025 00:29:57.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [An Ancient Tomb]
+[20Feb2025 00:30:49.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Knowledge of Death]
+[20Feb2025 00:30:49.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Ambush]
+[20Feb2025 00:31:06.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Barrel Booty]
+[20Feb2025 00:31:46.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Delightful Decade]
+[20Feb2025 00:33:30.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> -409 z -1748
+[20Feb2025 00:33:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> -409 z -1768
+[20Feb2025 00:35:06.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [A Strange Grave Dust]
+[20Feb2025 00:36:30.843] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.857] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.871] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.877] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.885] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.905] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.917] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.935] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.942] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.949] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.964] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.971] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:30.997] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:31.020] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:31.027] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:36:31.034] [Worker-Main-17/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:38:11.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was slain by Spider
+[20Feb2025 00:38:11.946] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 00:38:59.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has reached the goal [Chain Death]
+[20Feb2025 00:38:59.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was shot by Skeleton
+[20Feb2025 00:38:59.363] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 00:42:07.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> [name:"Casa do Levy", x:-407, y:137, z:-1771, dim:minecraft:overworld]
+[20Feb2025 00:42:16.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> [name:"Floresta de bambu", x:-745, y:64, z:-1817, dim:minecraft:overworld]
+[20Feb2025 00:43:03.075] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:03.076] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:03.076] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:32.131] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:32.132] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:32.132] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:35.960] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:35.961] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:35.961] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:36.144] [Worker-Main-17/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:37.665] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:37.665] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:43:37.665] [Worker-Main-13/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:46:16.728] [Worker-Main-17/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:46:16.728] [Worker-Main-17/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:52:32.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [How long's this been here?]
+[20Feb2025 00:52:38.712] [pool-13-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains_fortified], ResourceKey[minecraft:worldgen/structure / ctov:small/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean]] from pos BlockPos{x=-821, y=70, z=-1157}
+[20Feb2025 00:52:39.465] [Worker-Main-17/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[20Feb2025 00:52:39.466] [Worker-Main-17/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/normal
+[20Feb2025 00:52:40.043] [Worker-Main-17/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/swamp
+[20Feb2025 00:52:42.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3289ms or 65 ticks behind
+[20Feb2025 00:52:43.224] [Worker-Main-18/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/bounty/plains
+[20Feb2025 00:52:43.340] [Worker-Main-18/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/waystone/normal
+[20Feb2025 00:52:43.340] [Worker-Main-18/WARN] [lithostitched/]: Couldn't find template pool reference: ctov:village/vampirism/totem
+[20Feb2025 00:52:49.894] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:52:49.896] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:00.496] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:00.498] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:01.552] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:01.554] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:01.593] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:03.951] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:03.952] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:03.980] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:03.980] [Worker-Main-15/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:07.399] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:09.236] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:09.237] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:09.238] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:53:09.239] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 00:57:14.044] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:57:14.044] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:57:14.045] [Worker-Main-15/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:57:16.690] [Worker-Main-16/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[20Feb2025 00:58:04.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Best Friends Forever]
+[20Feb2025 00:58:19.889] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.898] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.902] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.921] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.933] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.937] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.945] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.949] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.961] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.965] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.981] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.993] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:19.997] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:20.001] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:20.014] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 00:58:20.018] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Feb2025 01:02:16.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [The First Explosion (of many?)]
+[20Feb2025 01:03:11.565] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 01:03:11.566] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 01:03:18.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Close Quarters]
+[20Feb2025 01:04:10.070] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 01:04:10.071] [Worker-Main-17/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 01:04:10.317] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
+[20Feb2025 01:06:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Time to Tinker]
+[20Feb2025 01:09:38.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has completed the challenge [With Our Powers Combined!]
+[20Feb2025 01:09:38.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [A True Source of Evil]
+[20Feb2025 01:12:45.379] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryanns19 lost connection: Timed out
+[20Feb2025 01:12:45.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 left the game
+[20Feb2025 01:12:45.432] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Feb2025 01:12:47.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinbofox lost connection: Timed out
+[20Feb2025 01:12:47.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox left the game
+[20Feb2025 01:48:32.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kinbofox[/177.37.185.49:14013] logged in with entity id 44432 at (225.09543500494794, 120.0, -1993.695616159572)
+[20Feb2025 01:48:32.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox joined the game
+[20Feb2025 01:48:32.349] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Kinbofox} with UUID 704aa2ab-ad63-3f65-a717-3fa0a9a7c586.
+[20Feb2025 01:52:24.682] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HawkStrife[/177.37.185.153:39193] logged in with entity id 44931 at (-134.5, 72.0, -22.5)
+[20Feb2025 01:52:24.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife joined the game
+[20Feb2025 01:52:24.931] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{HawkStrife} with UUID 463876ef-67d6-3b9c-b122-84dca7b757e5.
+[20Feb2025 01:53:07.752] [Server thread/INFO] [journeymap/]: Kinbofox teleported to 31.0 63.0 -849.0 minecraft:overworld
+[20Feb2025 01:53:43.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was slain by Shark
+[20Feb2025 01:53:43.998] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 01:54:10.771] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=155, y=-42, z=145}
+[20Feb2025 01:54:50.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ialá
+[20Feb2025 01:54:53.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Gayzão kkk
+[20Feb2025 01:55:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> É o thiago né?
+[20Feb2025 01:55:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> meu pau na sua mao
+[20Feb2025 01:55:39.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> nao, sou o caio
+[20Feb2025 01:56:42.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kinbofox: Set the world spawn point to -135, 68, -937 [0.0]]
+[20Feb2025 01:56:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Sérião kkk
+[20Feb2025 01:56:56.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Barrel Booty]
+[20Feb2025 01:56:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> É o Caio msm?
+[20Feb2025 01:56:57.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [World Tier: Haven]
+[20Feb2025 01:56:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Isn't It Iron Pick]
+[20Feb2025 01:56:57.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Amateur Archaeologist]
+[20Feb2025 01:57:02.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Pq o thiago usa às vezes kkk
+[20Feb2025 01:57:11.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Suit Up]
+[20Feb2025 01:57:17.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> A conta do Caio kkk
+[20Feb2025 01:57:26.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Aí n sei quem é quem
+[20Feb2025 01:57:29.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> ;-;
+[20Feb2025 01:57:54.088] [Server thread/INFO] [journeymap/]: Kinbofox teleported to -341.0 64.0 52.0 minecraft:overworld
+[20Feb2025 01:58:04.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> descubra
+[20Feb2025 01:58:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Crops of the Wild]
+[20Feb2025 01:58:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> No mesmo canto em que eu peguei as relíquias kkk
+[20Feb2025 01:59:15.164] [Server thread/INFO] [journeymap/]: Kinbofox teleported to 50.5 63.0 -876.5 minecraft:overworld
+[20Feb2025 01:59:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement ['X' Marks the Spot]
+[20Feb2025 02:00:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Monster Hunter]
+[20Feb2025 02:02:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [The First Explosion (of many?)]
+[20Feb2025 02:03:17.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Mlk, tú já tá explorando a pirâmide kkkkk
+[20Feb2025 02:03:30.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> sim
+[20Feb2025 02:03:55.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [A Strange Grave Dust]
+[20Feb2025 02:04:43.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> deu ruim
+[20Feb2025 02:04:57.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> kkkk
+[20Feb2025 02:05:25.596] [Worker-Main-20/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/warped_house
+net.minecraft.nbt.ReportedNbtException: Loading NBT data
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:519) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/mvs@4.2.8-1.21/com.finndog.mvs.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:108) ~[mvs-4.2.8-1.21.jar%23750!/:?]
+	at TRANSFORMER/mvs@4.2.8-1.21/com.finndog.mvs.world.structures.GenericJigsawStructure.findGenerationPoint(GenericJigsawStructure.java:213) ~[mvs-4.2.8-1.21.jar%23750!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.findValidGenerationPoint(Structure.java:197) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.Structure.generate(Structure.java:96) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.tryGenerateStructure(ChunkGenerator.java:555) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.lambda$createStructures$14(ChunkGenerator.java:489) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.ChunkGenerator.createStructures(ChunkGenerator.java:473) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStatusTasks.generateStructureStarts(ChunkStatusTasks.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.status.ChunkStep.apply(ChunkStep.java:33) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.applyStep(ChunkMap.java:628) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.GenerationChunkHolder.applyStep(GenerationChunkHolder.java:64) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleChunkInLayer(ChunkGenerationTask.java:143) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleLayer(ChunkGenerationTask.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.scheduleNextLayer(ChunkGenerationTask.java:74) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkGenerationTask.runUntilWait(ChunkGenerationTask.java:59) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$runGenerationTask$21(ChunkMap.java:657) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkTaskPriorityQueueSorter.lambda$message$1(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollTask(ProcessorMailbox.java:91) [server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.pollUntil(ProcessorMailbox.java:146) [server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) [server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1423) [?:?]
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
+Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
+	at java.base/java.util.zip.GZIPInputStream.readTrailer(GZIPInputStream.java:236) ~[?:?]
+	at java.base/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:130) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.FastBufferedInputStream.fill(FastBufferedInputStream.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:208) ~[?:?]
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.readAccounted(IntTag.java:40) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:30) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:27) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	... 55 more
+[20Feb2025 02:05:57.189] [Server thread/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mvs:houses/warped_house
+net.minecraft.nbt.ReportedNbtException: Loading NBT data
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:519) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.loadCompound(CompoundTag.java:62) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:41) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag$1.load(CompoundTag.java:35) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readTagSafe(NbtIo.java:193) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readUnnamedTag(NbtIo.java:187) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.read(NbtIo.java:121) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.NbtIo.readCompressed(NbtIo.java:53) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.readStructure(StructureTemplateManager.java:242) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.load(StructureTemplateManager.java:232) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.loadFromResource(StructureTemplateManager.java:136) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.tryLoad(StructureTemplateManager.java:114) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3606) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2278) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.compute(LocalCache.java:4262) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4269) ~[guava-32.1.2-jre.jar%2383!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.get(StructureTemplateManager.java:104) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.getOrCreate(StructureTemplateManager.java:92) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at MC-BOOTSTRAP/datafixerupper@8.0.16/com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-8.0.16.jar%23102!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getTemplate(SinglePoolElement.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.getBoundingBox(SinglePoolElement.java:134) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.<init>(PoolElementStructurePiece.java:61) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:73) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.levelgen.structure.StructureStart.loadStaticStart(StructureStart.java:57) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:493) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.world.level.chunk.storage.ChunkSerializer.read(ChunkSerializer.java:231) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ChunkMap.lambda$scheduleChunkLoad$16(ChunkMap.java:558) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.doRunTask(ServerChunkCache.java:559) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache$MainThreadExecutor.pollTask(ServerChunkCache.java:568) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.level.ServerChunkCache.pollTask(ServerChunkCache.java:275) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:860) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.util.zip.ZipException: Corrupt GZIP trailer
+	at java.base/java.util.zip.GZIPInputStream.readTrailer(GZIPInputStream.java:236) ~[?:?]
+	at java.base/java.util.zip.GZIPInputStream.read(GZIPInputStream.java:130) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.FastBufferedInputStream.fill(FastBufferedInputStream.java:94) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.FastBufferedInputStream.read(FastBufferedInputStream.java:47) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:208) ~[?:?]
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:385) ~[?:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.readAccounted(IntTag.java:40) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:30) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.IntTag$1.load(IntTag.java:27) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.loadList(ListTag.java:48) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:31) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.ListTag$1.load(ListTag.java:26) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.nbt.CompoundTag.readNamedTagData(CompoundTag.java:513) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	... 49 more
+[20Feb2025 02:06:09.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was shot by Illusioner
+[20Feb2025 02:06:09.342] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 02:06:58.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Kasdkaskdsa
+[20Feb2025 02:07:22.872] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ryanns19[/177.37.185.83:53352] logged in with entity id 49224 at (-408.43423828857937, 130.0, -1761.300000011921)
+[20Feb2025 02:07:22.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 joined the game
+[20Feb2025 02:07:23.120] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Ryanns19} with UUID 5cea872f-6d97-36de-99da-4c81c6eb6bb2.
+[20Feb2025 02:07:35.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> pq eu spawnei num local aleatorio 1000 blocos de distancia de onde eu morri?
+[20Feb2025 02:08:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Knowledge of Death]
+[20Feb2025 02:08:02.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has reached the goal [Here They Come]
+[20Feb2025 02:08:22.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Ashes 'n Bones]
+[20Feb2025 02:08:44.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Tu tá perto de mim kkk
+[20Feb2025 02:08:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ei, usa o mapa do j
+[20Feb2025 02:09:01.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> da letra j
+[20Feb2025 02:09:06.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> OXE
+[20Feb2025 02:09:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> é melhor
+[20Feb2025 02:09:12.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> TU TA FAZENDO OQ AQ MLK
+[20Feb2025 02:09:17.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> A SARAH
+[20Feb2025 02:09:19.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> N VAI TE COMER?
+[20Feb2025 02:09:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Kasdkasdkasdkksad
+[20Feb2025 02:09:50.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> O caio tá jogando tbm
+[20Feb2025 02:09:54.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> oq
+[20Feb2025 02:09:56.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> é o caio?
+[20Feb2025 02:09:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> o hawkstrife
+[20Feb2025 02:10:02.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ss
+[20Feb2025 02:10:05.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was mauled by Necromancer's undead
+[20Feb2025 02:10:05.696] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 02:10:06.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> achei q era o thiago
+[20Feb2025 02:10:10.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ela tá no celular
+[20Feb2025 02:10:14.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Oh, duck
+[20Feb2025 02:10:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Morreu
+[20Feb2025 02:10:26.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> morri
+[20Feb2025 02:10:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> eu sei ver onde eu tou
+[20Feb2025 02:10:44.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> so nao sei pq meu spawn veio pra ca
+[20Feb2025 02:12:31.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ah, é que eu mudei o spawn do mundo praí
+[20Feb2025 02:12:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Mb
+[20Feb2025 02:12:40.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> pq?
+[20Feb2025 02:12:43.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> É que aquele canto era mt hard
+[20Feb2025 02:12:47.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Pro pessoal comessar
+[20Feb2025 02:12:49.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> um lugar sem nada
+[20Feb2025 02:12:50.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> N tem nada
+[20Feb2025 02:12:53.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Ss
+[20Feb2025 02:13:20.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Fortalece o pessoal, mas o jogo ´é pra relaxar tbm kkk
+[20Feb2025 02:13:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Tô pensando em colocar no easy os mobs pra n ficar cheio de tanto monstro
+[20Feb2025 02:13:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Apesar de que aí n spawna os mobs pica
+[20Feb2025 02:13:57.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> tu que sabe
+[20Feb2025 02:14:06.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> so fica ruim de fazer mob farm
+[20Feb2025 02:14:12.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> O que cê acha mano? Tá tranquilo o game ou mt hard?
+[20Feb2025 02:14:22.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Pior que antes de fazer uma casa e farmar sempre é meio assim msm
+[20Feb2025 02:14:26.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Então n sei
+[20Feb2025 02:14:26.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> tanto faz
+[20Feb2025 02:14:37.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Se quiser pegar uma bota emprestada pra explorar, eu te dou
+[20Feb2025 02:14:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Achei nos baús kk
+[20Feb2025 02:14:45.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> vamo caçar um canto pra fazer uma base?
+[20Feb2025 02:14:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was impaled on a stalagmite
+[20Feb2025 02:14:53.637] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 02:14:57.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Pode ser, o levy tava procurando planice
+[20Feb2025 02:15:05.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> A minha é aqui ó
+[20Feb2025 02:15:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Temporária
+[20Feb2025 02:15:21.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> [x:50, y:59, z:-877, dim:minecraft:overworld]
+[20Feb2025 02:15:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Só clicar com o botão direito pra adicionar
+[20Feb2025 02:16:52.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Eu tô buscando as coisas da casa antiga, aí n tem nada direito ainda
+[20Feb2025 02:16:54.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> kkk
+[20Feb2025 02:17:24.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Vou ter que sair aqui mano, senão a sarah faz um sarapatel comigo
+[20Feb2025 02:17:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> kaskdkasdkaskd
+[20Feb2025 02:17:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Kinbofox> Vlw mano :3 <3
+[20Feb2025 02:18:02.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinbofox lost connection: Disconnected
+[20Feb2025 02:18:02.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox left the game
+[20Feb2025 02:19:19.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Sweet Dreams]
+[20Feb2025 02:25:12.842] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from HawkStrife#463876ef to manos#03ae5827
+[20Feb2025 02:25:12.843] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 463876ef-67d6-3b9c-b122-84dca7b757e5 (HawkStrife#463876ef) to 03ae5827-6ddb-49f3-95d3-747ad6f1a6e0 (manos#03ae5827)
+[20Feb2025 02:25:12.843] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 463876ef-67d6-3b9c-b122-84dca7b757e5 (HawkStrife#463876ef) due to claim limits
+[20Feb2025 02:25:12.843] [Server thread/INFO] [FTB Chunks/]: Team manos#03ae5827 had 0 claimed chunks, now has 0
+[20Feb2025 02:25:57.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ihh
+[20Feb2025 02:26:00.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ele meteu o pé
+[20Feb2025 02:26:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> eae caio
+[20Feb2025 02:26:07.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ta onde
+[20Feb2025 02:27:20.683] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Ryanns19#5cea872f to manos#03ae5827
+[20Feb2025 02:27:20.684] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) to 03ae5827-6ddb-49f3-95d3-747ad6f1a6e0 (manos#03ae5827)
+[20Feb2025 02:27:20.684] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) due to claim limits
+[20Feb2025 02:27:20.684] [Server thread/INFO] [FTB Chunks/]: Team manos#03ae5827 had 0 claimed chunks, now has 1
+[20Feb2025 02:27:22.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> eita
+[20Feb2025 02:27:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> party
+[20Feb2025 02:27:26.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> sim
+[20Feb2025 02:27:32.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> brabao
+[20Feb2025 02:27:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> tu ja jogou ?
+[20Feb2025 02:27:47.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> pra quando eu criar os sistemas de intventario tu conseguir acessar
+[20Feb2025 02:27:50.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ss
+[20Feb2025 02:27:58.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> tu entrou agora?
+[20Feb2025 02:28:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Captured!]
+[20Feb2025 02:28:21.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> carai
+[20Feb2025 02:28:22.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> já
+[20Feb2025 02:29:21.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has completed the challenge [With Our Powers Combined!]
+[20Feb2025 02:29:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> carai
+[20Feb2025 02:29:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ai sabe
+[20Feb2025 02:30:04.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Stone Age]
+[20Feb2025 02:30:20.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Acquire Hardware]
+[20Feb2025 02:32:09.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> caio
+[20Feb2025 02:32:13.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> quer uma waystone
+[20Feb2025 02:32:14.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> pra botar ai?
+[20Feb2025 02:32:18.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> onde tu ta fazendo tua acsa
+[20Feb2025 02:32:19.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> casa
+[20Feb2025 02:32:23.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> é o thiago animal
+[20Feb2025 02:32:26.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ah tá porra
+[20Feb2025 02:32:32.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> o david disse que er ao caio
+[20Feb2025 02:32:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> na base do juan
+[20Feb2025 02:32:36.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> burrao
+[20Feb2025 02:32:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> manda localizacao
+[20Feb2025 02:32:42.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> nao fala pra ela
+[20Feb2025 02:32:43.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> vou levar uma waystone ai
+[20Feb2025 02:32:48.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> que
+[20Feb2025 02:32:50.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ela quem
+[20Feb2025 02:32:51.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> '-'
+[20Feb2025 02:32:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> pro juan?
+[20Feb2025 02:32:54.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> [x:47, y:57, z:-868, dim:minecraft:overworld]
+[20Feb2025 02:32:56.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> KKKKKKKKKKK
+[20Feb2025 02:33:01.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> sim
+[20Feb2025 02:33:04.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> blz
+[20Feb2025 02:33:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Ashes 'n Bones]
+[20Feb2025 02:33:25.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> longe pra caralho
+[20Feb2025 02:33:26.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> 1km
+[20Feb2025 02:33:32.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> nem ferrando q eu vou ai agora kk
+[20Feb2025 02:33:33.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> dps vou
+[20Feb2025 02:33:39.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> vou fazer um geração de energia e uma backpack primeiro
+[20Feb2025 02:33:44.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> bora dormir?
+[20Feb2025 02:34:11.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [The First Explosion (of many?)]
+[20Feb2025 02:34:31.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> dar tp
+[20Feb2025 02:34:36.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ahh é
+[20Feb2025 02:34:37.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> tem tpa
+[20Feb2025 02:35:08.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> pega a way
+[20Feb2025 02:35:11.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> vou botar aq fora na real
+[20Feb2025 02:35:13.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [A True Source of Evil]
+[20Feb2025 02:35:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> manda tpa dps
+[20Feb2025 02:35:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [World Tier: Haven]
+[20Feb2025 02:35:33.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Suit Up]
+[20Feb2025 02:35:41.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> robei
+[20Feb2025 02:36:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> manda tpa pra ir na minha casa dps
+[20Feb2025 02:36:12.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> pra tu pegar a waystone
+[20Feb2025 02:36:30.445] [Server thread/ERROR] [snownee.jade.Jade/]: Caught unhandled exception : [INSTANCE] java.lang.ClassCastException: class ironfurnaces.tileentity.furnaces.BlockCopperFurnaceTile cannot be cast to class snownee.jade.mixin.AbstractFurnaceBlockEntityAccess (ironfurnaces.tileentity.furnaces.BlockCopperFurnaceTile is in module ironfurnaces@4.2.6 of loader 'TRANSFORMER' @29b8df5; snownee.jade.mixin.AbstractFurnaceBlockEntityAccess is in module jade@15.9.3+neoforge of loader 'TRANSFORMER' @29b8df5)
+[20Feb2025 02:36:30.445] [Server thread/ERROR] [snownee.jade.Jade/]: See JadeErrorOutput.txt for more information
+[20Feb2025 02:36:30.445] [Server thread/ERROR] [snownee.jade.Jade/]: 
+java.lang.ClassCastException: class ironfurnaces.tileentity.furnaces.BlockCopperFurnaceTile cannot be cast to class snownee.jade.mixin.AbstractFurnaceBlockEntityAccess (ironfurnaces.tileentity.furnaces.BlockCopperFurnaceTile is in module ironfurnaces@4.2.6 of loader 'TRANSFORMER' @29b8df5; snownee.jade.mixin.AbstractFurnaceBlockEntityAccess is in module jade@15.9.3+neoforge of loader 'TRANSFORMER' @29b8df5)
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:41) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.addon.vanilla.FurnaceProvider.streamData(FurnaceProvider.java:21) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.api.StreamServerDataProvider.appendServerData(StreamServerDataProvider.java:16) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/jade@15.9.3+neoforge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:76) ~[Jade-1.21.1-NeoForge-15.9.3.jar%23686!/:15.9.3+neoforge]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:148) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:872) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:170) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:122) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:855) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:849) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:132) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:821) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:826) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:712) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23503!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[20Feb2025 02:36:35.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> ok
+[20Feb2025 02:37:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> dorme ai
+[20Feb2025 02:37:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> bo
+[20Feb2025 02:40:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Don't forget to recycle]
+[20Feb2025 02:43:15.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [First Age]
+[20Feb2025 02:44:42.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Diamonds!]
+[20Feb2025 02:45:09.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has reached the goal [Strong or Careful]
+[20Feb2025 02:45:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 drowned
+[20Feb2025 02:45:09.983] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 02:45:26.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Knowledge raises the soul]
+[20Feb2025 02:51:43.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> DORME AI
+[20Feb2025 02:52:32.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> drumi
+[20Feb2025 02:54:53.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was slain by Husk
+[20Feb2025 02:54:53.279] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 03:00:28.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was slain by Zombie Villager using    [Priest's Scapel]
+[20Feb2025 03:00:28.378] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 03:02:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was slain by jiehanlihan
+[20Feb2025 03:02:28.430] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 03:04:27.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Delightful Decade]
+[20Feb2025 03:05:01.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <HawkStrife> dormir
+[20Feb2025 03:08:48.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was shot by Skeleton
+[20Feb2025 03:08:48.794] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
+[20Feb2025 03:09:06.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryanns19 lost connection: Disconnected
+[20Feb2025 03:09:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 left the game
+[20Feb2025 03:09:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Getting an Upgrade]
+[20Feb2025 03:13:22.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Close Quarters]
+[20Feb2025 03:17:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [I'm Sinking?]
+[20Feb2025 03:35:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Ancient Gateway]
+[20Feb2025 03:35:24.205] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
+[20Feb2025 03:35:27.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3440ms or 68 ticks behind
+[20Feb2025 03:41:53.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Not Today, Thank You]
+[20Feb2025 03:41:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Ambush]
+[20Feb2025 03:46:25.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has reached the goal [Fortuitous Militia]
+[20Feb2025 03:47:16.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was slain by Vindicator
+[20Feb2025 03:47:16.671] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[20Feb2025 04:02:37.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HawkStrife lost connection: Disconnected
+[20Feb2025 04:02:37.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife left the game
+[20Feb2025 05:00:33.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Feb2025 05:00:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Feb2025 05:00:33.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Feb2025 05:00:33.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Feb2025 05:00:33.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
+[20Feb2025 05:00:33.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
+[20Feb2025 05:00:33.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
+[20Feb2025 05:00:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
+[20Feb2025 05:00:33.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
+[20Feb2025 05:00:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
+[20Feb2025 05:00:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
+[20Feb2025 05:00:33.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
+[20Feb2025 05:00:33.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
+[20Feb2025 05:00:33.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
+[20Feb2025 05:00:33.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
+[20Feb2025 05:00:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
+[20Feb2025 05:00:33.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
+[20Feb2025 05:00:33.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
+[20Feb2025 05:00:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
+[20Feb2025 05:00:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[20Feb2025 05:00:33.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Feb2025 05:00:33.900] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Feb2025 05:00:33.901] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[20Feb2025 05:00:33.904] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Feb2025 05:00:34.341] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped

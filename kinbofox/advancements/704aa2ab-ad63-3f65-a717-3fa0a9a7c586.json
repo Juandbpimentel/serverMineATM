@@ -94,6 +94,7 @@
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-02-16 23:16:23 +0000",
       "biomeswevegone:windswept_desert": "2025-02-13 18:54:47 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-02-20 00:30:48 +0000",
       "biomeswevegone:dead_sea": "2025-02-16 22:20:22 +0000"
     },
     "done": false
@@ -208,10 +209,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-02-16 23:19:30 +0000",
+      "minecraft:eroded_badlands": "2025-02-20 00:58:16 +0000",
       "minecraft:beach": "2025-02-16 23:59:31 +0000",
       "minecraft:desert": "2025-02-13 23:49:53 +0000",
+      "minecraft:sparse_jungle": "2025-02-20 00:36:08 +0000",
       "minecraft:river": "2025-02-16 23:17:13 +0000",
       "minecraft:wooded_badlands": "2025-02-16 23:16:46 +0000",
+      "minecraft:plains": "2025-02-20 00:39:37 +0000",
       "minecraft:warm_ocean": "2025-02-13 23:40:13 +0000"
     },
     "done": false
@@ -353,9 +357,11 @@
     "criteria": {
       "minecraft:pillager": "2025-02-17 00:17:08 +0000",
       "minecraft:skeleton": "2025-02-13 23:50:49 +0000",
+      "minecraft:enderman": "2025-02-20 00:20:32 +0000",
       "minecraft:spider": "2025-02-16 23:49:37 +0000",
       "minecraft:zombie": "2025-02-16 23:24:04 +0000",
       "minecraft:creeper": "2025-02-18 20:16:27 +0000",
+      "minecraft:zombie_villager": "2025-02-20 00:36:37 +0000",
       "minecraft:husk": "2025-02-16 23:49:48 +0000"
     },
     "done": false
@@ -385,7 +391,8 @@
       "cookie": "2025-02-16 23:43:32 +0000",
       "cooked_cod": "2025-02-16 23:27:00 +0000",
       "cooked_beef": "2025-02-18 19:22:20 +0000",
-      "melon_slice": "2025-02-16 23:47:51 +0000"
+      "melon_slice": "2025-02-16 23:47:51 +0000",
+      "golden_carrot": "2025-02-20 01:02:56 +0000"
     },
     "done": false
   },
@@ -421,12 +428,19 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "sparse_rainforest": "2025-02-16 23:38:09 +0000",
       "joshua_desert": "2025-02-17 00:05:38 +0000",
       "rocky_reef": "2025-02-16 22:23:37 +0000",
+      "redstone_caves": "2025-02-20 00:54:02 +0000",
+      "baobab_savanna": "2025-02-20 00:53:04 +0000",
+      "dry_bushland": "2025-02-20 00:43:47 +0000",
+      "steppe": "2025-02-20 00:44:33 +0000",
+      "sparse_rainforest": "2025-02-16 23:38:09 +0000",
+      "redwoods": "2025-02-20 00:36:30 +0000",
       "chalk_cliffs": "2025-02-17 00:19:46 +0000",
+      "prismachasm": "2025-02-20 00:47:20 +0000",
       "rainforest": "2025-02-16 23:19:57 +0000",
-      "tropical_river": "2025-02-16 23:43:15 +0000"
+      "tropical_river": "2025-02-16 23:43:15 +0000",
+      "bamboo_forest": "2025-02-20 00:41:46 +0000"
     },
     "done": false
   },
@@ -434,10 +448,15 @@
     "criteria": {
       "sparse_rainforest": "2025-02-16 23:38:09 +0000",
       "joshua_desert": "2025-02-17 00:05:38 +0000",
+      "redwoods": "2025-02-20 00:36:30 +0000",
       "rocky_reef": "2025-02-16 22:23:37 +0000",
       "chalk_cliffs": "2025-02-17 00:19:46 +0000",
+      "baobab_savanna": "2025-02-20 00:53:04 +0000",
+      "dry_bushland": "2025-02-20 00:43:47 +0000",
       "rainforest": "2025-02-16 23:19:57 +0000",
-      "tropical_river": "2025-02-16 23:43:15 +0000"
+      "tropical_river": "2025-02-16 23:43:15 +0000",
+      "bamboo_forest": "2025-02-20 00:41:46 +0000",
+      "steppe": "2025-02-20 00:44:33 +0000"
     },
     "done": false
   },
@@ -516,6 +535,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-02-20 00:31:06 +0000",
       "opened_chest": "2025-02-16 23:28:21 +0000"
     },
     "done": false
@@ -585,6 +605,85 @@
       "criteria_0": "2025-02-18 20:07:50 +0000"
     },
     "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-02-20 00:29:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-02-20 00:31:06 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "opened_10": "2025-02-20 00:31:46 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-20 00:54:02 +0000",
+      "prismachasm": "2025-02-20 00:47:20 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-02-20 00:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "2025-02-20 00:58:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-20 00:58:04 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2025-02-20 01:02:16 +0000"
+    },
+    "done": false
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-02-20 01:02:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "opened_25": "2025-02-20 01:03:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-02-20 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-02-20 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/ascent": {
+    "criteria": {
+      "uncommon_hand": "2025-02-20 02:13:45 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
