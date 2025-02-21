@@ -1,0 +1,39 @@
+{
+	id: "973e87a7-c7de-432c-b677-dc8845e1ef47"
+	type: "party"
+	owner: "5cea872f-6d97-36de-99da-4c81c6eb6bb2"
+	ranks: {
+		463876ef-67d6-3b9c-b122-84dca7b757e5: "member"
+		5cea872f-6d97-36de-99da-4c81c6eb6bb2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Os Manos"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7A"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740099185114L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Ryanns19\"],\"color\":\"yellow\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099226259L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099226867L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099227494L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099228111L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099228779L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "5cea872f-6d97-36de-99da-4c81c6eb6bb2", date: 1740099229331L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"HawkStrife\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1740099229742L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"HawkStrife\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
