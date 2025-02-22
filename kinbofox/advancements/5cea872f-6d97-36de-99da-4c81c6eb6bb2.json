@@ -849,28 +849,39 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "crying_obsidian": "2025-02-21 02:07:31 +0000"
+      "requirement": "2025-02-20 22:58:24 +0000"
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/menril_production": {
+  "mekanism:advanced_control_circuit": {
     "criteria": {
-      "criteria_0": "2025-02-21 01:04:31 +0000"
+      "advanced_control_circuit": "2025-02-20 23:02:55 +0000"
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/drying": {
+  "mekanismtools:alternate_tools": {
     "criteria": {
-      "criteria_0": "2025-02-21 01:03:55 +0000"
+      "tools": "2025-02-20 23:05:26 +0000"
     },
     "done": true
   },
-  "silentgear:nether_plants": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "banana": "2025-02-21 02:08:13 +0000",
-      "sapling": "2025-02-20 23:12:10 +0000"
+      "entered_nether": "2025-02-20 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-20 23:05:56 +0000"
+    },
+    "done": true
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2025-02-20 23:05:56 +0000"
     },
     "done": true
   },
@@ -883,36 +894,6 @@
     },
     "done": false
   },
-  "apothic_spawners:root": {
-    "criteria": {
-      "spawner": "2025-02-21 01:44:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/fluix": {
-    "criteria": {
-      "certus": "2025-02-20 23:26:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-20 23:05:56 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/crafting_terminal": {
-    "criteria": {
-      "certus": "2025-02-21 00:04:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-21 00:40:04 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "mycotoxic_undergrowth": "2025-02-21 00:38:43 +0000",
@@ -921,99 +902,9 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "diamond_helmet": "2025-02-20 23:13:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-02-21 01:13:21 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-02-21 00:08:58 +0000"
-    },
-    "done": true
-  },
-  "mekanism:configurator": {
-    "criteria": {
-      "configurator": "2025-02-21 01:35:12 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/storage_cell": {
-    "criteria": {
-      "c1k": "2025-02-21 00:06:10 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2025-02-20 22:58:24 +0000"
-    },
-    "done": true
-  },
-  "integrateddynamics:root": {
-    "criteria": {
-      "criteria_0": "2025-02-21 01:03:20 +0000"
-    },
-    "done": true
-  },
-  "ars_additions:find_ruined_portal": {
-    "criteria": {
-      "find_ruined_portal": "2025-02-21 00:08:52 +0000"
-    },
-    "done": true
-  },
-  "silentgear:crimson_iron": {
-    "criteria": {
-      "get_ingot": "2025-02-21 01:32:53 +0000"
-    },
-    "done": false
-  },
-  "mekanism:advanced_control_circuit": {
-    "criteria": {
-      "advanced_control_circuit": "2025-02-20 23:02:55 +0000"
-    },
-    "done": true
-  },
-  "silentgear:blaze_gold": {
-    "criteria": {
-      "get_item": "2025-02-21 02:07:24 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "opened_50": "2025-02-21 02:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-20 23:05:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-02-21 02:18:46 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:progression/summit": {
-    "criteria": {
-      "rare_hand": "2025-02-20 23:12:37 +0000"
-    },
-    "done": false
-  },
-  "mekanismtools:paxel": {
-    "criteria": {
-      "any_paxel": "2025-02-21 01:50:58 +0000"
+      "bastion": "2025-02-20 23:10:57 +0000"
     },
     "done": true
   },
@@ -1023,9 +914,28 @@
     },
     "done": true
   },
-  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+  "silentgear:nether_plants": {
     "criteria": {
-      "criteria_0": "2025-02-21 01:03:20 +0000"
+      "banana": "2025-02-21 02:08:13 +0000",
+      "sapling": "2025-02-20 23:12:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_hand": "2025-02-20 23:12:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-20 23:13:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-02-20 23:26:00 +0000"
     },
     "done": true
   },
@@ -1035,21 +945,33 @@
     },
     "done": true
   },
-  "silentgear:nether": {
+  "ae2:main/controller": {
     "criteria": {
-      "entered_nether": "2025-02-20 23:05:56 +0000"
+      "certus": "2025-02-20 23:45:42 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "ae2:main/crafting_terminal": {
     "criteria": {
-      "bastion": "2025-02-20 23:10:57 +0000"
+      "certus": "2025-02-21 00:04:26 +0000"
     },
     "done": true
   },
-  "mekanismtools:alternate_tools": {
+  "ae2:main/storage_cell": {
     "criteria": {
-      "tools": "2025-02-20 23:05:26 +0000"
+      "c1k": "2025-02-21 00:06:10 +0000"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2025-02-21 00:08:52 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-02-21 00:08:58 +0000"
     },
     "done": true
   },
@@ -1059,9 +981,87 @@
     },
     "done": true
   },
-  "ae2:main/controller": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "certus": "2025-02-20 23:45:42 +0000"
+      "blaze_rod": "2025-02-21 00:40:04 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-02-21 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-02-21 01:03:20 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2025-02-21 01:03:55 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2025-02-21 01:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-21 01:13:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-02-21 01:32:53 +0000"
+    },
+    "done": false
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-02-21 01:35:12 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-02-21 01:44:04 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-02-21 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "opened_50": "2025-02-21 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2025-02-21 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-21 02:07:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-21 02:18:46 +0000"
     },
     "done": true
   },

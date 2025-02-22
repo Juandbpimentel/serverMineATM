@@ -1,188 +1,66 @@
-[21Feb2025 00:04:26.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [A (Much) Bigger Table]
-[21Feb2025 00:08:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Ancient Gateway]
-[21Feb2025 00:08:54.695] [Server thread/WARN] [com.github.jarva.arsadditions.ArsAdditions/]: Running locate on server thread. If this causes lag please install Async Locator https://modrinth.com/mod/async-locator
-[21Feb2025 00:08:58.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Warped]
-[21Feb2025 00:11:55.560] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
-[21Feb2025 00:19:05.157] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HawkStrife[/177.37.185.84:46574] logged in with entity id 69467 at (586.5970410141114, 72.5, -582.073209653167)
-[21Feb2025 00:19:05.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife joined the game
-[21Feb2025 00:19:05.450] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{HawkStrife} with UUID 463876ef-67d6-3b9c-b122-84dca7b757e5.
-[21Feb2025 00:34:04.899] [Netty Epoll Server IO #6/ERROR] [net.minecraft.network.Connection/]: Exception caught in connection
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[21Feb2025 00:34:04.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinbofox lost connection: Disconnected
-[21Feb2025 00:34:04.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox left the game
-[21Feb2025 00:38:20.853] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 00:38:34.434] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:38.860] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:38.865] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:38.866] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:39.454] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:39.455] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:39.605] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:40.301] [Worker-Main-142/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:40.304] [Worker-Main-142/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:40.612] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:40.613] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:40.619] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:44.784] [Worker-Main-133/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76122, l='ServerLevel[kinbofox]', x=-409.00, y=31.00, z=-239.00] as it would cause deadlock
-[21Feb2025 00:38:46.946] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:38:46.947] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:39:12.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [A Terrible Fortress]
-[21Feb2025 00:40:04.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Into Fire]
-[21Feb2025 00:41:16.752] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 00:41:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has completed the challenge [Premium!]
-[21Feb2025 00:41:40.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Tools of the Trade]
-[21Feb2025 00:50:04.301] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Os_Picas#05978aca to Ryanns19#5cea872f
-[21Feb2025 00:50:04.302] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 05978aca-cad7-4675-88f8-bbf0fdb727ef (Os_Picas#05978aca) to 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f)
-[21Feb2025 00:50:04.302] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 05978aca-cad7-4675-88f8-bbf0fdb727ef (Os_Picas#05978aca) due to claim limits
-[21Feb2025 00:50:04.302] [Server thread/INFO] [FTB Chunks/]: Team Ryanns19#5cea872f had 0 claimed chunks, now has 1
-[21Feb2025 00:50:15.964] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Ryanns19#5cea872f to Os_Manos#85bd338a
-[21Feb2025 00:50:15.965] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) to 85bd338a-0a35-412d-8b86-74604a8a3ef7 (Os_Manos#85bd338a)
-[21Feb2025 00:50:15.965] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) due to claim limits
-[21Feb2025 00:50:15.965] [Server thread/INFO] [FTB Chunks/]: Team Os_Manos#85bd338a had 0 claimed chunks, now has 1
-[21Feb2025 00:52:57.116] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Os_Manos#85bd338a to Ryanns19#5cea872f
-[21Feb2025 00:52:57.117] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 85bd338a-0a35-412d-8b86-74604a8a3ef7 (Os_Manos#85bd338a) to 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f)
-[21Feb2025 00:52:57.117] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 85bd338a-0a35-412d-8b86-74604a8a3ef7 (Os_Manos#85bd338a) due to claim limits
-[21Feb2025 00:52:57.117] [Server thread/INFO] [FTB Chunks/]: Team Ryanns19#5cea872f had 0 claimed chunks, now has 1
-[21Feb2025 00:53:05.115] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 1 chunks from Ryanns19#5cea872f to Os_Manos#973e87a7
-[21Feb2025 00:53:05.116] [Server thread/INFO] [FTB Chunks/]: Transferred 1 chunks from 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) to 973e87a7-c7de-432c-b677-dc8845e1ef47 (Os_Manos#973e87a7)
-[21Feb2025 00:53:05.116] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 5cea872f-6d97-36de-99da-4c81c6eb6bb2 (Ryanns19#5cea872f) due to claim limits
-[21Feb2025 00:53:05.116] [Server thread/INFO] [FTB Chunks/]: Team Os_Manos#973e87a7 had 0 claimed chunks, now has 1
-[21Feb2025 00:53:12.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kinbofox[/177.37.185.49:39470] logged in with entity id 79205 at (-580.2817564594559, 85.0, -1963.4153046733188)
-[21Feb2025 00:53:12.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox joined the game
-[21Feb2025 00:53:12.483] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{Kinbofox} with UUID 704aa2ab-ad63-3f65-a717-3fa0a9a7c586.
-[21Feb2025 00:53:19.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ryanns19> ./ftbteams party leave
-[21Feb2025 00:53:45.757] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from manos#03ae5827 to HawkStrife#463876ef
-[21Feb2025 00:53:45.757] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 03ae5827-6ddb-49f3-95d3-747ad6f1a6e0 (manos#03ae5827) to 463876ef-67d6-3b9c-b122-84dca7b757e5 (HawkStrife#463876ef)
-[21Feb2025 00:53:45.758] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 03ae5827-6ddb-49f3-95d3-747ad6f1a6e0 (manos#03ae5827) due to claim limits
-[21Feb2025 00:53:45.758] [Server thread/INFO] [FTB Chunks/]: Team HawkStrife#463876ef had 0 claimed chunks, now has 0
-[21Feb2025 00:53:49.745] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from HawkStrife#463876ef to Os_Manos#973e87a7
-[21Feb2025 00:53:49.746] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 463876ef-67d6-3b9c-b122-84dca7b757e5 (HawkStrife#463876ef) to 973e87a7-c7de-432c-b677-dc8845e1ef47 (Os_Manos#973e87a7)
-[21Feb2025 00:53:49.746] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 463876ef-67d6-3b9c-b122-84dca7b757e5 (HawkStrife#463876ef) due to claim limits
-[21Feb2025 00:53:49.746] [Server thread/INFO] [FTB Chunks/]: Team Os_Manos#973e87a7 had 1 claimed chunks, now has 1
-[21Feb2025 00:54:38.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
-[21Feb2025 00:55:51.343] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 00:56:01.711] [Worker-Main-141/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:56:01.715] [Worker-Main-141/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:56:01.716] [Worker-Main-141/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:56:03.244] [Worker-Main-141/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:56:03.285] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:56:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 fell from a high place
-[21Feb2025 00:56:07.098] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
-[21Feb2025 00:57:32.290] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 00:57:54.863] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 00:59:53.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Into Fire]
-[21Feb2025 01:02:27.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Squeezing like a boss]
-[21Feb2025 01:03:20.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Meneglin Discovery]
-[21Feb2025 01:03:55.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Drying like a boss]
-[21Feb2025 01:04:31.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Menril Production]
-[21Feb2025 01:04:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Meneglin Discovery]
-[21Feb2025 01:04:36.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Menril Production]
-[21Feb2025 01:13:21.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Voluntary Exile]
-[21Feb2025 01:13:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has reached the goal [Strong or Careful]
-[21Feb2025 01:13:24.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife fell from a high place
-[21Feb2025 01:13:24.919] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
-[21Feb2025 01:17:12.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Infusing Efficiency]
-[21Feb2025 01:17:33.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Tricking a Rock Into Thinking]
-[21Feb2025 01:17:55.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-410, y=21, z=-1865} BlockPos{x=-409, y=20, z=-1866}
-[21Feb2025 01:18:33.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was shot by Skeleton
-[21Feb2025 01:18:33.144] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
-[21Feb2025 01:18:59.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [The Alloy That Started it All]
-[21Feb2025 01:19:21.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Yeah I'm Freeeeee Fallin']
-[21Feb2025 01:28:39.240] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 01:30:15.496] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 01:30:24.161] [Worker-Main-140/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86580, l='ServerLevel[kinbofox]', x=223.00, y=31.00, z=-239.10] as it would cause deadlock
-[21Feb2025 01:30:34.209] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:30:34.248] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:30:34.248] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:30:34.399] [Worker-Main-134/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86706, l='ServerLevel[kinbofox]', x=141.00, y=31.00, z=-491.00] as it would cause deadlock
-[21Feb2025 01:30:45.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Cables, for logic]
-[21Feb2025 01:30:52.733] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:30:58.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Variables, For Values]
-[21Feb2025 01:30:59.857] [Worker-Main-144/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/86928, l='ServerLevel[kinbofox]', x=330.00, y=31.00, z=-351.10] as it would cause deadlock
-[21Feb2025 01:31:03.710] [Worker-Main-143/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:03.741] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:03.874] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:05.511] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:05.512] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:05.852] [Worker-Main-140/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:08.321] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:08.322] [Worker-Main-134/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:08.431] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:31:08.432] [Worker-Main-133/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:entity_gravity'
-[21Feb2025 01:35:03.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Configure Everything]
-[21Feb2025 01:35:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Configure Everything]
-[21Feb2025 01:38:55.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Hydrogen Powered Flight]
-[21Feb2025 01:41:20.090] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 01:44:04.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Apothic Spawners]
-[21Feb2025 01:45:23.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [A Seedy Place]
-[21Feb2025 01:46:41.940] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 01:49:59.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Ice Bucket Challenge]
-[21Feb2025 01:50:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Multi-Tool]
-[21Feb2025 02:00:45.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Construction Paper]
-[21Feb2025 02:06:01.042] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
-[21Feb2025 02:06:02.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Shocking]
-[21Feb2025 02:07:10.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was burned to a crisp while fighting Magma Cube
-[21Feb2025 02:07:10.501] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
-[21Feb2025 02:07:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Half-Century]
-[21Feb2025 02:07:24.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Blaze Gold]
-[21Feb2025 02:07:31.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Who is Cutting Onions?]
-[21Feb2025 02:08:13.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has made the advancement [Strange Flora]
-[21Feb2025 02:08:15.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 was slain by Piglin
-[21Feb2025 02:08:15.849] [Server thread/INFO] [tombstone/]: The player Ryanns19 has successfully been saved
-[21Feb2025 02:11:44.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Hunt and Gather]
-[21Feb2025 02:13:21.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [I Am Stone Age]
-[21Feb2025 02:13:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Those'll Do For Now]
-[21Feb2025 02:13:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Blueprint Storage]
-[21Feb2025 02:18:46.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 has reached the goal [Bone Crusher]
-[21Feb2025 02:19:02.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has reached the goal [Bone Crusher]
-[21Feb2025 02:21:06.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HawkStrife lost connection: Disconnected
-[21Feb2025 02:21:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife left the game
-[21Feb2025 02:21:11.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ryanns19 lost connection: Disconnected
-[21Feb2025 02:21:11.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ryanns19 left the game
-[21Feb2025 02:52:47.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has reached the goal [Bone Crusher]
-[21Feb2025 02:53:55.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has made the advancement [Knowledge raises the soul]
-[21Feb2025 02:55:53.292] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from Os_Picas#05978aca to Kinbofox#704aa2ab
-[21Feb2025 02:55:53.293] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 05978aca-cad7-4675-88f8-bbf0fdb727ef (Os_Picas#05978aca) to 704aa2ab-ad63-3f65-a717-3fa0a9a7c586 (Kinbofox#704aa2ab)
-[21Feb2025 02:55:53.293] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 05978aca-cad7-4675-88f8-bbf0fdb727ef (Os_Picas#05978aca) due to claim limits
-[21Feb2025 02:55:53.293] [Server thread/INFO] [FTB Chunks/]: Team Kinbofox#704aa2ab had 0 claimed chunks, now has 0
-[21Feb2025 02:57:16.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox has reached the goal [Die Classy]
-[21Feb2025 03:01:50.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kinbofox lost connection: Disconnected
-[21Feb2025 03:01:50.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kinbofox left the game
-[21Feb2025 03:03:04.821] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: ServerSeekerV2 (/45.135.194.65:38634) lost connection: Disconnected
-[21Feb2025 05:00:33.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[21Feb2025 05:00:33.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[21Feb2025 05:00:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[21Feb2025 05:00:33.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[21Feb2025 05:00:33.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
-[21Feb2025 05:00:33.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
-[21Feb2025 05:00:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
-[21Feb2025 05:00:33.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
-[21Feb2025 05:00:33.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
-[21Feb2025 05:00:33.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
-[21Feb2025 05:00:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
-[21Feb2025 05:00:33.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
-[21Feb2025 05:00:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
-[21Feb2025 05:00:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
-[21Feb2025 05:00:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
-[21Feb2025 05:00:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
-[21Feb2025 05:00:33.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
-[21Feb2025 05:00:33.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[21Feb2025 05:00:33.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[21Feb2025 05:00:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21Feb2025 05:00:33.867] [Server thread/INFO] [Framework/]: Unloading server configs...
-[21Feb2025 05:00:33.870] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[21Feb2025 05:00:33.873] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[21Feb2025 05:00:33.936] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
+[22Feb2025 00:20:35.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HawkStrife[/177.37.185.168:64033] logged in with entity id 13649 at (-412.17806602759134, 130.0, -1762.9248475932284)
+[22Feb2025 00:20:35.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife joined the game
+[22Feb2025 00:20:36.310] [Server thread/INFO] [actuallyadditions/]: Sending Player Data to player literal{HawkStrife} with UUID 463876ef-67d6-3b9c-b122-84dca7b757e5.
+[22Feb2025 00:30:32.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Ka-chink! 1]
+[22Feb2025 00:33:51.758] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Feb2025 00:34:15.509] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[22Feb2025 00:35:13.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has reached the goal [The Upgrade]
+[22Feb2025 00:46:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has completed the challenge [Learn to Fart]
+[22Feb2025 01:01:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [What a Deal!]
+[22Feb2025 01:07:37.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has completed the challenge [Centennial]
+[22Feb2025 01:34:20.703] [Server thread/INFO] [naturescompass/]: Starting search: 64 sample space, 50000 max samples, 10000 max radius
+[22Feb2025 01:34:20.733] [Server thread/INFO] [naturescompass/]: Search succeeded: 181 radius, 10 samples
+[22Feb2025 01:35:32.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-489, y=125, z=-1629} BlockPos{x=-488, y=116, z=-1629}
+[22Feb2025 01:42:54.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Sneak 100]
+[22Feb2025 01:49:29.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was obliterated by a sonically-charged shriek
+[22Feb2025 01:49:29.987] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[22Feb2025 01:52:26.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was obliterated by a sonically-charged shriek
+[22Feb2025 01:52:26.040] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[22Feb2025 01:58:47.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was obliterated by a sonically-charged shriek
+[22Feb2025 01:58:47.591] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[22Feb2025 02:07:19.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has completed the challenge [Phantom Thief]
+[22Feb2025 02:18:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Handyman]
+[22Feb2025 02:18:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife has made the advancement [Hoes Mad]
+[22Feb2025 02:27:40.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=-35, z=-1619} BlockPos{x=-484, y=-34, z=-1618}
+[22Feb2025 02:27:40.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=-35, z=-1618} BlockPos{x=-484, y=-34, z=-1618}
+[22Feb2025 02:28:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife was obliterated by a sonically-charged shriek
+[22Feb2025 02:28:11.038] [Server thread/INFO] [tombstone/]: The player HawkStrife has successfully been saved
+[22Feb2025 02:28:18.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HawkStrife lost connection: Disconnected
+[22Feb2025 02:28:18.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HawkStrife left the game
+[22Feb2025 05:00:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Feb2025 05:00:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Feb2025 05:00:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Feb2025 05:00:33.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Feb2025 05:00:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
+[22Feb2025 05:00:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
+[22Feb2025 05:00:33.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
+[22Feb2025 05:00:33.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
+[22Feb2025 05:00:33.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
+[22Feb2025 05:00:33.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
+[22Feb2025 05:00:33.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
+[22Feb2025 05:00:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
+[22Feb2025 05:00:33.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
+[22Feb2025 05:00:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
+[22Feb2025 05:00:33.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
+[22Feb2025 05:00:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
+[22Feb2025 05:00:33.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
+[22Feb2025 05:00:33.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
+[22Feb2025 05:00:33.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
+[22Feb2025 05:00:33.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[22Feb2025 05:00:33.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Feb2025 05:00:33.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[22Feb2025 05:00:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Feb2025 05:00:33.477] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Feb2025 05:00:33.480] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Feb2025 05:00:33.482] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Feb2025 05:00:33.620] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
