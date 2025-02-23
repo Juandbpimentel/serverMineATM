@@ -106,7 +106,8 @@
     "criteria": {
       "biomeswevegone:atacama_outback": "2025-02-20 02:07:52 +0000",
       "biomeswevegone:windswept_desert": "2025-02-20 01:52:25 +0000",
-      "biomeswevegone:dead_sea": "2025-02-20 02:13:20 +0000"
+      "biomeswevegone:dead_sea": "2025-02-20 02:13:20 +0000",
+      "biomeswevegone:forgotten_forest": "2025-02-23 03:47:19 +0000"
     },
     "done": false
   },
@@ -131,12 +132,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-02-22 01:35:00 +0000",
+      "minecraft:cold_ocean": "2025-02-23 03:47:58 +0000",
       "minecraft:beach": "2025-02-20 02:09:32 +0000",
+      "minecraft:dark_forest": "2025-02-23 03:44:51 +0000",
+      "minecraft:sparse_jungle": "2025-02-23 03:37:38 +0000",
+      "minecraft:deep_ocean": "2025-02-23 03:46:05 +0000",
+      "minecraft:river": "2025-02-20 02:06:11 +0000",
+      "minecraft:stony_shore": "2025-02-23 03:49:53 +0000",
+      "minecraft:lush_caves": "2025-02-23 04:13:57 +0000",
+      "minecraft:dripstone_caves": "2025-02-22 01:35:34 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-23 03:44:55 +0000",
       "minecraft:desert": "2025-02-20 02:00:12 +0000",
       "minecraft:deep_dark": "2025-02-22 01:42:25 +0000",
-      "minecraft:river": "2025-02-20 02:06:11 +0000",
-      "minecraft:dripstone_caves": "2025-02-22 01:35:34 +0000",
+      "minecraft:ocean": "2025-02-23 03:45:30 +0000",
       "minecraft:wooded_badlands": "2025-02-20 02:06:42 +0000",
+      "minecraft:plains": "2025-02-22 16:32:19 +0000",
       "minecraft:warm_ocean": "2025-02-20 01:53:36 +0000"
     },
     "done": false
@@ -221,9 +231,10 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-20 01:56:56 +0000",
-      "opened_chest": "2025-02-20 01:59:31 +0000"
+      "opened_chest": "2025-02-20 01:59:31 +0000",
+      "opened_cart": "2025-02-23 04:52:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "lootr:1barrel": {
     "criteria": {
@@ -301,6 +312,7 @@
       "cookie": "2025-02-20 03:48:27 +0000",
       "cooked_cod": "2025-02-20 03:17:57 +0000",
       "cooked_beef": "2025-02-20 03:24:19 +0000",
+      "baked_potato": "2025-02-22 16:46:46 +0000",
       "rabbit_stew": "2025-02-20 03:51:56 +0000",
       "cooked_salmon": "2025-02-20 02:57:18 +0000"
     },
@@ -315,13 +327,17 @@
       "minecraft:witch": "2025-02-22 01:12:25 +0000",
       "minecraft:wither_skeleton": "2025-02-21 17:32:35 +0000",
       "minecraft:husk": "2025-02-20 03:20:45 +0000",
+      "minecraft:cave_spider": "2025-02-22 17:14:34 +0000",
       "minecraft:piglin": "2025-02-21 17:18:57 +0000",
       "minecraft:vindicator": "2025-02-20 03:47:23 +0000",
+      "minecraft:stray": "2025-02-22 17:03:30 +0000",
+      "minecraft:enderman": "2025-02-23 04:32:55 +0000",
       "minecraft:magma_cube": "2025-02-21 17:58:27 +0000",
       "minecraft:spider": "2025-02-20 02:09:15 +0000",
       "minecraft:piglin_brute": "2025-02-21 17:18:56 +0000",
       "minecraft:zombie": "2025-02-20 03:07:04 +0000",
       "minecraft:creeper": "2025-02-20 02:17:36 +0000",
+      "minecraft:drowned": "2025-02-23 03:52:21 +0000",
       "minecraft:zombie_villager": "2025-02-20 03:00:28 +0000"
     },
     "done": false
@@ -442,27 +458,53 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-02-21 17:30:52 +0000",
-      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
       "joshua_desert": "2025-02-21 17:08:49 +0000",
+      "sparse_redwoods": "2025-02-23 03:44:36 +0000",
+      "silver_birch_forest": "2025-02-23 03:47:57 +0000",
+      "cold_river": "2025-02-23 03:58:52 +0000",
+      "redstone_caves": "2025-02-22 17:06:08 +0000",
+      "poppy_fields": "2025-02-23 03:48:05 +0000",
       "dry_bushland": "2025-02-22 00:32:07 +0000",
+      "scorching_caves": "2025-02-22 00:30:35 +0000",
+      "grassy_beach": "2025-02-23 03:47:46 +0000",
+      "steppe": "2025-02-21 00:45:19 +0000",
+      "glistering_meadow": "2025-02-21 17:14:58 +0000",
+      "grassland": "2025-02-22 16:43:24 +0000",
+      "rocky_meadow": "2025-02-23 03:47:54 +0000",
+      "blackwood_taiga": "2025-02-23 03:44:40 +0000",
+      "mycotoxic_undergrowth": "2025-02-21 17:30:52 +0000",
+      "pine_taiga": "2025-02-23 04:58:45 +0000",
+      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
+      "redwoods": "2025-02-23 03:38:32 +0000",
       "prismachasm": "2025-02-21 01:13:23 +0000",
       "rainforest": "2025-02-20 02:09:30 +0000",
-      "scorching_caves": "2025-02-22 00:30:35 +0000",
       "tropical_river": "2025-02-20 02:16:16 +0000",
-      "steppe": "2025-02-21 00:45:19 +0000",
-      "glistering_meadow": "2025-02-21 17:14:58 +0000"
+      "bamboo_forest": "2025-02-22 16:35:40 +0000",
+      "magnolia_highlands": "2025-02-23 03:47:41 +0000",
+      "ancient_delta": "2025-02-23 04:31:06 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
       "joshua_desert": "2025-02-21 17:08:49 +0000",
+      "sparse_redwoods": "2025-02-23 03:44:36 +0000",
+      "silver_birch_forest": "2025-02-23 03:47:57 +0000",
+      "cold_river": "2025-02-23 03:58:52 +0000",
+      "poppy_fields": "2025-02-23 03:48:05 +0000",
       "dry_bushland": "2025-02-22 00:32:07 +0000",
+      "grassy_beach": "2025-02-23 03:47:46 +0000",
+      "steppe": "2025-02-21 00:45:19 +0000",
+      "grassland": "2025-02-22 16:43:24 +0000",
+      "rocky_meadow": "2025-02-23 03:47:54 +0000",
+      "blackwood_taiga": "2025-02-23 03:44:40 +0000",
+      "pine_taiga": "2025-02-23 04:58:45 +0000",
+      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
+      "redwoods": "2025-02-23 03:38:32 +0000",
       "rainforest": "2025-02-20 02:09:30 +0000",
       "tropical_river": "2025-02-20 02:16:16 +0000",
-      "steppe": "2025-02-21 00:45:19 +0000"
+      "bamboo_forest": "2025-02-22 16:35:40 +0000",
+      "magnolia_highlands": "2025-02-23 03:47:41 +0000"
     },
     "done": false
   },
@@ -631,6 +673,7 @@
   "apotheosis:progression/ascent": {
     "criteria": {
       "kill_apothic_invader": "2025-02-21 17:07:58 +0000",
+      "uncommon_hand": "2025-02-22 16:55:18 +0000",
       "uncommon_helm": "2025-02-20 03:52:48 +0000"
     },
     "done": false
@@ -692,8 +735,10 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-02-22 17:06:08 +0000",
       "prismachasm": "2025-02-21 01:13:23 +0000",
-      "scorching_caves": "2025-02-22 00:30:35 +0000"
+      "scorching_caves": "2025-02-22 00:30:35 +0000",
+      "ancient_delta": "2025-02-23 04:31:06 +0000"
     },
     "done": false
   },
@@ -863,6 +908,7 @@
   },
   "silentgear:swords": {
     "criteria": {
+      "sword": "2025-02-23 03:26:14 +0000",
       "machete": "2025-02-21 17:00:12 +0000"
     },
     "done": false
@@ -1022,21 +1068,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
+  "mekanism:energy_cube": {
     "criteria": {
-      "deep_dark": "2025-02-22 01:42:25 +0000"
-    },
-    "done": true
-  },
-  "silentgear:repair_kit": {
-    "criteria": {
-      "sturdy_repair_kit": "2025-02-22 02:18:10 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/make_steel": {
-    "criteria": {
-      "has_item": "2025-02-22 00:35:13 +0000"
+      "basic_energy_cube": "2025-02-22 00:22:10 +0000"
     },
     "done": true
   },
@@ -1046,9 +1080,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "immersiveengineering:main/make_steel": {
     "criteria": {
-      "traded": "2025-02-22 01:01:47 +0000"
+      "has_item": "2025-02-22 00:35:13 +0000"
     },
     "done": true
   },
@@ -1064,33 +1098,9 @@
     },
     "done": true
   },
-  "mekanism:energy_cube": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "basic_energy_cube": "2025-02-22 00:22:10 +0000"
-    },
-    "done": true
-  },
-  "silentgear:mattock": {
-    "criteria": {
-      "get_item": "2025-02-22 02:18:39 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2025-02-22 02:07:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2025-02-22 01:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-02-22 01:42:54 +0000"
+      "traded": "2025-02-22 01:01:47 +0000"
     },
     "done": true
   },
@@ -1100,11 +1110,233 @@
     },
     "done": true
   },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-22 01:19:45 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-22 01:42:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-22 01:42:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-02-22 02:07:19 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "warden": "2025-02-22 02:07:19 +0000"
     },
     "done": false
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "sturdy_repair_kit": "2025-02-22 02:18:10 +0000"
+    },
+    "done": true
+  },
+  "silentgear:mattock": {
+    "criteria": {
+      "get_item": "2025-02-22 02:18:39 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-02-22 16:08:49 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "inv_changed": "2025-02-22 16:10:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "2025-02-22 16:28:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-22 16:28:47 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-22 16:58:14 +0000"
+    },
+    "done": true
+  },
+  "silentgear:salvager": {
+    "criteria": {
+      "get_item": "2025-02-22 17:44:23 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-02-22 17:50:20 +0000"
+    },
+    "done": true
+  },
+  "apothic_enchanting:bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-02-22 17:51:05 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/summit": {
+    "criteria": {
+      "rare_hand": "2025-02-22 17:59:08 +0000"
+    },
+    "done": false
+  },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2025-02-22 18:05:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:atomic_alloy": {
+    "criteria": {
+      "alloy_atomic": "2025-02-22 18:05:49 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:solar_generator": {
+    "criteria": {
+      "solar_generator": "2025-02-22 18:15:26 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2025-02-22 18:17:39 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-02-22 18:18:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-02-22 18:18:48 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-02-22 18:20:44 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_tank": {
+    "criteria": {
+      "basic_fluid_tank": "2025-02-22 18:25:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_grader": "2025-02-22 18:38:00 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-02-23 02:58:56 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2025-02-23 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:root": {
+    "criteria": {
+      "criteria_0": "2025-02-23 02:56:22 +0000"
+    },
+    "done": true
+  },
+  "mffs:smelt_steel": {
+    "criteria": {
+      "has_steel_ingot": "2025-02-23 03:41:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-23 04:52:22 +0000"
+    },
+    "done": true
+  },
+  "silentgear:kachink2": {
+    "criteria": {
+      "kachink": "2025-02-23 04:33:06 +0000"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ore": "2025-02-23 04:34:18 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-23 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-02-23 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-02-23 04:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-23 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-23 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-23 04:32:36 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }
