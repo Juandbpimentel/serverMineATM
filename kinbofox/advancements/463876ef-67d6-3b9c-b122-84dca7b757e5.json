@@ -327,6 +327,7 @@
       "minecraft:witch": "2025-02-22 01:12:25 +0000",
       "minecraft:wither_skeleton": "2025-02-21 17:32:35 +0000",
       "minecraft:husk": "2025-02-20 03:20:45 +0000",
+      "minecraft:ender_dragon": "2025-02-23 17:07:47 +0000",
       "minecraft:cave_spider": "2025-02-22 17:14:34 +0000",
       "minecraft:piglin": "2025-02-21 17:18:57 +0000",
       "minecraft:vindicator": "2025-02-20 03:47:23 +0000",
@@ -461,32 +462,36 @@
       "joshua_desert": "2025-02-21 17:08:49 +0000",
       "sparse_redwoods": "2025-02-23 03:44:36 +0000",
       "silver_birch_forest": "2025-02-23 03:47:57 +0000",
+      "dry_bushland": "2025-02-22 00:32:07 +0000",
+      "steppe": "2025-02-21 00:45:19 +0000",
+      "glistering_meadow": "2025-02-21 17:14:58 +0000",
+      "pine_taiga": "2025-02-23 04:58:45 +0000",
+      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
+      "prismachasm": "2025-02-21 01:13:23 +0000",
+      "bamboo_forest": "2025-02-22 16:35:40 +0000",
+      "ancient_delta": "2025-02-23 04:31:06 +0000",
+      "willow_forest": "2025-02-23 16:46:26 +0000",
       "cold_river": "2025-02-23 03:58:52 +0000",
       "redstone_caves": "2025-02-22 17:06:08 +0000",
       "poppy_fields": "2025-02-23 03:48:05 +0000",
-      "dry_bushland": "2025-02-22 00:32:07 +0000",
       "scorching_caves": "2025-02-22 00:30:35 +0000",
       "grassy_beach": "2025-02-23 03:47:46 +0000",
-      "steppe": "2025-02-21 00:45:19 +0000",
-      "glistering_meadow": "2025-02-21 17:14:58 +0000",
       "grassland": "2025-02-22 16:43:24 +0000",
       "rocky_meadow": "2025-02-23 03:47:54 +0000",
       "blackwood_taiga": "2025-02-23 03:44:40 +0000",
       "mycotoxic_undergrowth": "2025-02-21 17:30:52 +0000",
-      "pine_taiga": "2025-02-23 04:58:45 +0000",
-      "sparse_rainforest": "2025-02-20 02:55:45 +0000",
+      "gravel_beach": "2025-02-23 16:49:35 +0000",
       "redwoods": "2025-02-23 03:38:32 +0000",
-      "prismachasm": "2025-02-21 01:13:23 +0000",
       "rainforest": "2025-02-20 02:09:30 +0000",
       "tropical_river": "2025-02-20 02:16:16 +0000",
-      "bamboo_forest": "2025-02-22 16:35:40 +0000",
       "magnolia_highlands": "2025-02-23 03:47:41 +0000",
-      "ancient_delta": "2025-02-23 04:31:06 +0000"
+      "lupine_plains": "2025-02-23 16:46:13 +0000"
     },
     "done": false
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "willow_forest": "2025-02-23 16:46:26 +0000",
       "joshua_desert": "2025-02-21 17:08:49 +0000",
       "sparse_redwoods": "2025-02-23 03:44:36 +0000",
       "silver_birch_forest": "2025-02-23 03:47:57 +0000",
@@ -500,11 +505,13 @@
       "blackwood_taiga": "2025-02-23 03:44:40 +0000",
       "pine_taiga": "2025-02-23 04:58:45 +0000",
       "sparse_rainforest": "2025-02-20 02:55:45 +0000",
+      "gravel_beach": "2025-02-23 16:49:35 +0000",
       "redwoods": "2025-02-23 03:38:32 +0000",
       "rainforest": "2025-02-20 02:09:30 +0000",
       "tropical_river": "2025-02-20 02:16:16 +0000",
       "bamboo_forest": "2025-02-22 16:35:40 +0000",
-      "magnolia_highlands": "2025-02-23 03:47:41 +0000"
+      "magnolia_highlands": "2025-02-23 03:47:41 +0000",
+      "lupine_plains": "2025-02-23 16:46:13 +0000"
     },
     "done": false
   },
@@ -1256,19 +1263,8 @@
   },
   "silentgear:material_grader": {
     "criteria": {
-      "get_grader": "2025-02-22 18:38:00 +0000"
-    },
-    "done": false
-  },
-  "ae2:main/charger": {
-    "criteria": {
-      "certus": "2025-02-23 02:58:56 +0000"
-    },
-    "done": true
-  },
-  "naturesaura:positive_imbalance": {
-    "criteria": {
-      "triggered_in_code": "2025-02-23 03:45:14 +0000"
+      "get_grader": "2025-02-22 18:38:00 +0000",
+      "get_catalyst": "2025-02-23 17:32:16 +0000"
     },
     "done": true
   },
@@ -1278,15 +1274,45 @@
     },
     "done": true
   },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-02-23 02:58:56 +0000"
+    },
+    "done": true
+  },
   "mffs:smelt_steel": {
     "criteria": {
       "has_steel_ingot": "2025-02-23 03:41:17 +0000"
     },
     "done": true
   },
-  "lootr:1cart": {
+  "naturesaura:positive_imbalance": {
     "criteria": {
-      "opened_cart": "2025-02-23 04:52:22 +0000"
+      "triggered_in_code": "2025-02-23 03:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-02-23 04:13:54 +0000"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2025-02-23 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-02-23 04:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-02-23 04:32:36 +0000"
     },
     "done": true
   },
@@ -1302,15 +1328,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/village_defender": {
+  "lootr:1cart": {
     "criteria": {
-      "coded_trigger": "2025-02-23 05:00:21 +0000"
-    },
-    "done": true
-  },
-  "silentgear:the_end": {
-    "criteria": {
-      "entered_the_end": "2025-02-23 04:32:36 +0000"
+      "opened_cart": "2025-02-23 04:52:22 +0000"
     },
     "done": true
   },
@@ -1320,21 +1340,33 @@
     },
     "done": true
   },
-  "minecraft:story/follow_ender_eye": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "in_stronghold": "2025-02-23 04:13:54 +0000"
+      "coded_trigger": "2025-02-23 05:00:21 +0000"
     },
     "done": true
   },
-  "minecraft:end/root": {
+  "silentgear:grader_catalyst_2": {
     "criteria": {
-      "entered_end": "2025-02-23 04:32:36 +0000"
+      "get_item": "2025-02-23 17:30:31 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:end/kill_dragon": {
     "criteria": {
-      "entered_end": "2025-02-23 04:32:36 +0000"
+      "killed_dragon": "2025-02-23 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "kill_ender_dragon": "2025-02-23 17:07:47 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-02-23 17:54:43 +0000"
     },
     "done": true
   },
