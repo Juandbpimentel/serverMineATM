@@ -1,0 +1,237 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-02-28 21:28:54 +0000"
+    },
+    "done": true
+  },
+  "modern_industrialization:guidebook": {
+    "criteria": {
+      "logged_in": "2025-02-28 21:28:54 +0000"
+    },
+    "done": true
+  },
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-02-28 21:28:54 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/root": {
+    "criteria": {
+      "tick": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-02-28 21:28:55 +0000",
+      "in_mite_fortress": "2025-02-28 21:28:55 +0000"
+    },
+    "done": false
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "theurgy:book_root": {
+    "criteria": {
+      "theurgy_present": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "merrymaking:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:badlands": "2025-02-28 21:53:33 +0000",
+      "minecraft:river": "2025-02-28 21:28:55 +0000",
+      "minecraft:wooded_badlands": "2025-02-28 21:32:10 +0000"
+    },
+    "done": false
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-02-28 21:28:55 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-02-28 21:55:31 +0000",
+      "has_wct": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-02-28 21:55:31 +0000",
+      "has_wct": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-02-28 21:55:31 +0000",
+      "has_wpt": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-28 21:57:58 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "sparse_rainforest": "2025-02-28 21:57:24 +0000",
+      "rainforest": "2025-02-28 21:55:22 +0000",
+      "tropical_river": "2025-02-28 21:56:19 +0000"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-02-28 21:55:31 +0000",
+      "has_wpt": "2025-02-28 21:55:31 +0000",
+      "has_wct": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-28 21:55:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "sparse_rainforest": "2025-02-28 21:57:24 +0000",
+      "rainforest": "2025-02-28 21:55:22 +0000",
+      "tropical_river": "2025-02-28 21:56:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-28 22:01:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-28 21:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "melon_slice": "2025-02-28 21:57:58 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
