@@ -1,37 +1,38 @@
-[13Mar2025 06:00:33.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[13Mar2025 06:00:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[13Mar2025 06:00:33.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[13Mar2025 06:00:33.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[13Mar2025 06:00:33.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
-[13Mar2025 06:00:33.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
-[13Mar2025 06:00:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
-[13Mar2025 06:00:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
-[13Mar2025 06:00:33.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
-[13Mar2025 06:00:34.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
-[13Mar2025 06:00:34.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
-[13Mar2025 06:00:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
-[13Mar2025 06:00:34.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
-[13Mar2025 06:00:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
-[13Mar2025 06:00:34.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
-[13Mar2025 06:00:34.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
-[13Mar2025 06:00:34.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
-[13Mar2025 06:00:34.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
-[13Mar2025 06:00:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
-[13Mar2025 06:00:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
-[13Mar2025 06:00:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
-[13Mar2025 06:00:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13Mar2025 06:00:34.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
-[13Mar2025 06:00:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[13Mar2025 06:00:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[13Mar2025 06:00:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
-[13Mar2025 06:00:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
-[13Mar2025 06:00:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[13Mar2025 06:00:34.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13Mar2025 06:00:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
-[13Mar2025 06:00:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
-[13Mar2025 06:00:34.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[13Mar2025 06:00:34.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[13Mar2025 06:00:34.063] [Server thread/INFO] [Framework/]: Unloading server configs...
-[13Mar2025 06:00:34.067] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[13Mar2025 06:00:34.073] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[13Mar2025 06:00:34.531] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
+[14Mar2025 03:28:47.223] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /191.101.217.28:46263 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: Failed to decode packet 'serverbound/minecraft:hello'
+[14Mar2025 06:00:33.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Mar2025 06:00:34.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Mar2025 06:00:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Mar2025 06:00:34.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Mar2025 06:00:34.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:overworld
+[14Mar2025 06:00:34.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/undergarden:undergarden
+[14Mar2025 06:00:34.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_nether
+[14Mar2025 06:00:34.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_other
+[14Mar2025 06:00:34.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/eternal_starlight:starlight
+[14Mar2025 06:00:34.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/compactmachines:compact_world
+[14Mar2025 06:00:34.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/deeperdarker:otherside
+[14Mar2025 06:00:34.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/the_bumblezone:the_bumblezone
+[14Mar2025 06:00:34.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/twilightforest:twilight_forest
+[14Mar2025 06:00:34.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/mahoutsukai:reality_marble
+[14Mar2025 06:00:34.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:the_beyond
+[14Mar2025 06:00:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/minecraft:the_end
+[14Mar2025 06:00:34.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/allthemodium:mining
+[14Mar2025 06:00:34.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[kinbofox]'/ae2:spatial_storage
+[14Mar2025 06:00:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (kinbofox): All chunks are saved
+[14Mar2025 06:00:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[14Mar2025 06:00:34.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Mar2025 06:00:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_other): All chunks are saved
+[14Mar2025 06:00:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (starlight): All chunks are saved
+[14Mar2025 06:00:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (compact_world): All chunks are saved
+[14Mar2025 06:00:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Mar2025 06:00:34.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[14Mar2025 06:00:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[14Mar2025 06:00:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[14Mar2025 06:00:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_beyond): All chunks are saved
+[14Mar2025 06:00:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Mar2025 06:00:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mining): All chunks are saved
+[14Mar2025 06:00:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[14Mar2025 06:00:34.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Mar2025 06:00:34.358] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Mar2025 06:00:34.362] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[14Mar2025 06:00:34.366] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Mar2025 06:00:34.659] [Server thread/INFO] [net.minecraft.server.rcon.thread.GenericThread/]: Thread Query Listener stopped
