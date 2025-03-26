@@ -1,4 +1,11 @@
+
 #!/bin/bash
+#echo "Iniciando docker e containers"
+
+#cd /root/InsightFullstackChallenge
+
+#docker compose -f docker-compose-prod.yml up -d
+
 echo "Iniciando o Servidor de Minecraft..."
 
 # Navegar para o diretório do servidor
