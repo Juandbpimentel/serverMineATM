@@ -4,6 +4,7 @@ set NEOFORGE_VERSION=21.1.116
 :: To disable automatic restarts, set an environment variable named ATM10_RESTART to false.
 :: To install the pack without starting the server, set an environment variable named ATM10_INSTALL_ONLY to true.
 
+set ATM10_RESTART=false
 set INSTALLER="%~dp0neoforge-%NEOFORGE_VERSION%-installer.jar"
 set NEOFORGE_URL="https://maven.neoforged.net/releases/net/neoforged/neoforge/%NEOFORGE_VERSION%/neoforge-%NEOFORGE_VERSION%-installer.jar"
 
